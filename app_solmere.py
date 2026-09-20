@@ -11,7 +11,7 @@ st.markdown("""
     div[data-testid="stMetricValue"] { color: #f43f5e; font-size: 2.2rem; font-weight: bold; }
     div[data-testid="stMetricLabel"] { color: #9ca3af; font-size: 1rem; }
     </style>
-""", unsafe_allow_index=True)
+""", unsafe_allow_html=True)
 
 st.title("Solmere Platform Churn Diagnostics Dashboard")
 st.caption("Behavioral Economics analytics pipeline investigating the Peak-End Rule and customer churn indicators.")
@@ -88,4 +88,3 @@ with col_right:
     )
     fig_score.update_layout(plot_bgcolor="rgba(0,0,0,0)", paper_bgcolor="rgba(0,0,0,0)")
     st.plotly_chart(fig_score, use_container_width=True)
-    
