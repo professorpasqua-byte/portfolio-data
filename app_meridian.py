@@ -12,7 +12,7 @@ st.markdown("""
     div[data-testid="stMetricValue"] { color: #38bdf8; font-size: 2.2rem; font-weight: bold; }
     div[data-testid="stMetricLabel"] { color: #9ca3af; font-size: 1rem; }
     </style>
-""", unsafe_allow_index=True)
+""", unsafe_allow_html=True)
 
 st.title("Meridian Works: Workforce Analytics Hub")
 st.caption("Strategic descriptive analytics pipeline exploring employee retention and engagement baseline metrics.")
@@ -80,4 +80,3 @@ with col2_right:
     )
     fig_sat.update_layout(plot_bgcolor="rgba(0,0,0,0)", paper_bgcolor="rgba(0,0,0,0)")
     st.plotly_chart(fig_sat, use_container_width=True)
-    
