@@ -19,13 +19,14 @@ st.caption("Behavioral Economics analytics pipeline investigating the Peak-End R
 # 2. Data Loading
 @st.cache_data
 def load_data():
-    df = pd.read_csv("solmere_churn_clean.csv")
+    # 🔥 FIXED: Re-routed directly to your engineered pipeline folder
+    df = pd.read_csv("project-2-behavioral-churn/solmere_churn_clean.csv")
     return df
 
 try:
     df = load_data()
 except FileNotFoundError:
-    st.error("Error: 'solmere_churn_clean.csv' not found! Make sure this spreadsheet file is in the same folder as this script.")
+    st.error("Error: 'solmere_churn_clean.csv' not found inside 'project-2-behavioral-churn'! Make sure your GitHub folder name matches exactly.")
     st.stop()
 
 # 3. Sidebar Filtering
