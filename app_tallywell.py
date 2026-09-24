@@ -20,7 +20,7 @@ st.caption("Growth Engineering pipeline evaluating BJ Fogg's Behavior Model (Abi
 # 2. Data Loading
 @st.cache_data
 def load_data():
-    # Points cleanly to your new structured database pipeline output folder
+    # 🔥 CRITICAL PATH FIXED: Explicitly routes straight to your engineered project directory
     df = pd.read_csv("project-3-funnel-testing/tallywell_funnel_clean.csv")
     return df
 
