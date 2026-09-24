@@ -1,11 +1,11 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
+import os
 
-# 1. Page Configuration & Custom Theme setup
+# 1. Page Configuration & Theme setup
 st.set_page_config(page_title="Tallywell Funnel Insights", layout="wide", initial_sidebar_state="expanded")
 
-# Force clean dark styling accents
 st.markdown("""
     <style>
     .main { background-color: #0d0e15; color: #ffffff; }
@@ -17,17 +17,30 @@ st.markdown("""
 st.title("Tallywell Product Funnel Optimization Analytics")
 st.caption("Growth Engineering pipeline evaluating BJ Fogg's Behavior Model (Ability/Friction vs Motivation).")
 
-# 2. Data Loading
+# 2. Smart Data Loading Pipeline (Bypasses Casing & Path Alignment Bugs)
 @st.cache_data
 def load_data():
-    # 🔥 CRITICAL PATH FIXED: Explicitly routes straight to your engineered project directory
-    df = pd.read_csv("project-3-funnel-testing/tallywell_funnel_clean.csv")
-    return df
+    primary_path = "project-3-funnel-testing/tallywell_funnel_clean.csv"
+    fallback_path = "tallywell_funnel_clean.csv"
+    
+    # Smart Search: If the main path fails, look everywhere in the repo
+    if os.path.exists(primary_path):
+        return pd.read_csv(primary_path)
+    elif os.path.exists(fallback_path):
+        return pd.read_csv(fallback_path)
+    else:
+        # Search the entire workspace directory recursively for any matching csv file name
+        for root, dirs, files in os.walk("."):
+            for file in files:
+                if file.lower() == "tallywell_funnel_clean.csv":
+                    return pd.read_csv(os.path.join(root, file))
+        # Throw explicit error if completely missing from the repo
+        raise FileNotFoundError
 
 try:
     df = load_data()
 except FileNotFoundError:
-    st.error("Error: 'tallywell_funnel_clean.csv' path alignment mismatch! Check your folder layout structures.")
+    st.error("Fatal Error: 'tallywell_funnel_clean.csv' is completely missing from this GitHub repository! Make sure your file manager upload finished completely.")
     st.stop()
 
 # 3. Sidebar Filtering
@@ -86,3 +99,4 @@ with col_right:
     )
     fig_time.update_layout(plot_bgcolor="rgba(0,0,0,0)", paper_bgcolor="rgba(0,0,0,0)", barmode="overlay")
     st.plotly_chart(fig_time, use_container_width=True)
+    
