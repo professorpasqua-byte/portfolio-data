@@ -1,9 +1,11 @@
 import pandas as pd
 import random
 
+# Force precise statistical match for portfolio alignment
 total = 1500
-target_yes = 261 
+target_yes = 261 # 17.4% exact attrition match
 
+# Construct the exact data matrix parameters
 df = pd.DataFrame({
     'EmployeeID': [f"E-{1000 + i}" for i in range(total)],
     'FullName': [f"Employee Name {i}" for i in range(total)],
@@ -16,5 +18,6 @@ df = pd.DataFrame({
     'exported_at': ['2026-01-01' for _ in range(total)]
 })
 
+# Export directly to local pipeline storage
 df.to_csv('meridian_works_raw.csv', index=False)
-print("🎯 Meridian Works raw data synchronized!")
+print("Meridian Works raw data synchronized successfully.")
