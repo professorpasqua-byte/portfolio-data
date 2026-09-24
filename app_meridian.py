@@ -5,13 +5,14 @@ import plotly.express as px
 # 1. Page Configuration & Theme setup
 st.set_page_config(page_title="Meridian Works Workforce Insights", layout="wide", initial_sidebar_state="expanded")
 
+# Force clean dark styling accents
 st.markdown("""
     <style>
     .main { background-color: #0e1117; color: #ffffff; }
     div[data-testid="stMetricValue"] { color: #38bdf8; font-size: 2.2rem; font-weight: bold; }
     div[data-testid="stMetricLabel"] { color: #9ca3af; font-size: 1rem; }
     </style>
-""", unsafe_allow_html=True)
+""", unsafe_allow_index=True)
 
 st.title("Meridian Works: Workforce Analytics Hub")
 st.caption("Strategic descriptive analytics pipeline exploring employee retention and engagement baseline metrics.")
@@ -19,27 +20,29 @@ st.caption("Strategic descriptive analytics pipeline exploring employee retentio
 # 2. Data Loading
 @st.cache_data
 def load_data():
+    # Adjusted cleanly to target your project folder path
     df = pd.read_csv("project-1-people-analytics/meridian_works_clean.csv")
     return df
 
 try:
     df = load_data()
 except FileNotFoundError:
-    st.error("Error: 'meridian_works_clean.csv' not found inside 'project-1-people-analytics'!")
+    st.error("Error: 'meridian_works_clean.csv' not found inside project-1-people-analytics folder!")
     st.stop()
 
 # 3. Sidebar Filtering
 st.sidebar.header("Analytics Filters")
 dept_filter = st.sidebar.selectbox("Select Target Department", ["All Departments"] + list(df["Department"].dropna().unique()))
 
+# Apply reactive filter logic
 filtered_df = df if dept_filter == "All Departments" else df[df["Department"] == dept_filter]
 
 # 4. Dynamic KPI Metric Grid
 st.subheader("Executive Summary KPIs")
 total_headcount = len(filtered_df)
 
-# Direct data-level filtering matching the python layout text arrays exactly
-attrition_count = len(filtered_df[filtered_df["Attrition"].astype(str).str.strip() == "Yes"])
+# Fixed case-insensitive string parsing to ensure Attrition reads 'Yes' or 'yes' cleanly
+attrition_count = len(filtered_df[filtered_df["Attrition"].astype(str).str.upper() == "YES"])
 attrition_rate = (attrition_count / total_headcount * 100) if total_headcount > 0 else 0
 avg_income = filtered_df["MonthlyIncome"].mean()
 
@@ -60,7 +63,7 @@ with col_left:
         x="JobRole", 
         color="Attrition", 
         barmode="group",
-        color_discrete_map={"No": "#0ea5e9", "Yes": "#ef4444"},
+        color_discrete_map={"No": "#0ea5e9", "Yes": "#ef4444", "False": "#0ea5e9", "True": "#ef4444"},
         labels={"JobRole": "Operational Role", "count": "Headcount"},
         template="plotly_dark"
     )
@@ -74,10 +77,9 @@ with col2_right:
         x="JobSatisfaction",
         color="Attrition",
         barmode="group",
-        color_discrete_map={"No": "#10b981", "Yes": "#f97316"},
+        color_discrete_map={"No": "#10b981", "Yes": "#f97316", "False": "#10b981", "True": "#f97316"},
         labels={"JobSatisfaction": "Satisfaction Tier (1-4 Metric)", "count": "Responses"},
         template="plotly_dark"
     )
     fig_sat.update_layout(plot_bgcolor="rgba(0,0,0,0)", paper_bgcolor="rgba(0,0,0,0)")
     st.plotly_chart(fig_sat, use_container_width=True)
-    
