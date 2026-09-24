@@ -20,13 +20,14 @@ st.caption("Strategic descriptive analytics pipeline exploring employee retentio
 # 2. Data Loading
 @st.cache_data
 def load_data():
-    df = pd.read_csv("meridian_works_clean.csv")
+    # 🔥 PIVOT FIXED: Re-routed straight to your engineered pipeline folder
+    df = pd.read_csv("project-1-people-analytics/meridian_works_clean.csv")
     return df
 
 try:
     df = load_data()
 except FileNotFoundError:
-    st.error("Error: 'meridian_works_clean.csv' not found! Make sure this script is in the exact same folder as your dataset.")
+    st.error("Error: 'meridian_works_clean.csv' not found inside 'project-1-people-analytics'! Make sure your GitHub folder name matches exactly.")
     st.stop()
 
 # 3. Sidebar Filtering
