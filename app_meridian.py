@@ -5,7 +5,6 @@ import plotly.express as px
 # 1. Page Configuration & Theme setup
 st.set_page_config(page_title="Meridian Works Workforce Insights", layout="wide", initial_sidebar_state="expanded")
 
-# Force clean dark styling accents
 st.markdown("""
     <style>
     .main { background-color: #0e1117; color: #ffffff; }
@@ -20,27 +19,27 @@ st.caption("Strategic descriptive analytics pipeline exploring employee retentio
 # 2. Data Loading
 @st.cache_data
 def load_data():
-    # 🔥 PIVOT FIXED: Re-routed straight to your engineered pipeline folder
     df = pd.read_csv("project-1-people-analytics/meridian_works_clean.csv")
     return df
 
 try:
     df = load_data()
 except FileNotFoundError:
-    st.error("Error: 'meridian_works_clean.csv' not found inside 'project-1-people-analytics'! Make sure your GitHub folder name matches exactly.")
+    st.error("Error: 'meridian_works_clean.csv' not found inside 'project-1-people-analytics'!")
     st.stop()
 
 # 3. Sidebar Filtering
 st.sidebar.header("Analytics Filters")
 dept_filter = st.sidebar.selectbox("Select Target Department", ["All Departments"] + list(df["Department"].dropna().unique()))
 
-# Apply reactive filter logic
 filtered_df = df if dept_filter == "All Departments" else df[df["Department"] == dept_filter]
 
 # 4. Dynamic KPI Metric Grid
 st.subheader("Executive Summary KPIs")
 total_headcount = len(filtered_df)
-attrition_count = len(filtered_df[filtered_df["Attrition"] == "Yes"])
+
+# Direct data-level filtering matching the python layout text arrays exactly
+attrition_count = len(filtered_df[filtered_df["Attrition"].astype(str).str.strip() == "Yes"])
 attrition_rate = (attrition_count / total_headcount * 100) if total_headcount > 0 else 0
 avg_income = filtered_df["MonthlyIncome"].mean()
 
@@ -81,3 +80,4 @@ with col2_right:
     )
     fig_sat.update_layout(plot_bgcolor="rgba(0,0,0,0)", paper_bgcolor="rgba(0,0,0,0)")
     st.plotly_chart(fig_sat, use_container_width=True)
+    
