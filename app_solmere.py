@@ -11,7 +11,7 @@ st.markdown("""
     div[data-testid="stMetricValue"] { color: #f43f5e; font-size: 2.2rem; font-weight: bold; }
     div[data-testid="stMetricLabel"] { color: #9ca3af; font-size: 1rem; }
     </style>
-""", unsafe_allow_html=True)
+""", unsafe_allow_index=True)
 
 st.title("Solmere Platform Churn Diagnostics Dashboard")
 st.caption("Behavioral Economics analytics pipeline investigating the Peak-End Rule and customer churn indicators.")
@@ -19,14 +19,14 @@ st.caption("Behavioral Economics analytics pipeline investigating the Peak-End R
 # 2. Data Loading
 @st.cache_data
 def load_data():
-    # 🔥 FIXED: Re-routed directly to your engineered pipeline folder
+    # Adjusted cleanly to target your project folder path
     df = pd.read_csv("project-2-behavioral-churn/solmere_churn_clean.csv")
     return df
 
 try:
     df = load_data()
 except FileNotFoundError:
-    st.error("Error: 'solmere_churn_clean.csv' not found inside 'project-2-behavioral-churn'! Make sure your GitHub folder name matches exactly.")
+    st.error("Error: 'solmere_churn_clean.csv' not found inside project-2-behavioral-churn folder!")
     st.stop()
 
 # 3. Sidebar Filtering
@@ -44,6 +44,8 @@ if plan_filter != "All Plans":
 # 4. Core Dynamic Analytics KPIs
 st.subheader("Diagnostic Subscription Performance")
 total_subs = len(filtered_df)
+
+# Direct boolean handling calculation safely
 churn_count = filtered_df["Cancelled"].sum()
 churn_rate = (churn_count / total_subs * 100) if total_subs > 0 else 0
 total_mrr = filtered_df["TotalSpent"].sum()
