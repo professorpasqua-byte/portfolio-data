@@ -64,7 +64,7 @@ None of the three datasets are downloaded from an existing source. Each one is g
 
 ## Beyond the data
 
-I also work in strategic organizational consulting — culture diagnostics and change management using frameworks like Schein's culture model and the Job Demands-Resources model. Details are on the [portfolio site](https://martins-portfolio.net/#consulting). (coming soon)
+I also work in strategic organizational consulting — culture diagnostics and change management using frameworks like Schein's culture model and the Job Demands-Resources model. Details on the [portfolio site](https://martins-portfolio.net/#consulting). (coming soon)
 
 ## Contact
 
