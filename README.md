@@ -74,7 +74,7 @@ Open to global remote opportunities (GMT+1).
 
 - Email: [nwaforchubby@gmail.com](mailto:nwaforchubby@gmail.com)
 - WhatsApp: [+234 913 561 5687](https://wa.me/2349135615687)
-- Portfolio: [martins-portfolio.net](https://martins-portfolio.net/). (coming soon)
+- Portfolio: [martins-portfolio.net](https://martins-portfolio.net/). (website coming soon)
 
 
 
