@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
-import os
 
 # 1. Page Configuration & Theme setup
 st.set_page_config(page_title="Tallywell Funnel Insights", layout="wide", initial_sidebar_state="expanded")
@@ -17,86 +16,74 @@ st.markdown("""
 st.title("Tallywell Product Funnel Optimization Analytics")
 st.caption("Growth Engineering pipeline evaluating BJ Fogg's Behavior Model (Ability/Friction vs Motivation).")
 
-# 2. Smart Data Loading Pipeline (Bypasses Casing & Path Alignment Bugs)
+# 2. Data Loading
 @st.cache_data
 def load_data():
-    primary_path = "project-3-funnel-testing/tallywell_funnel_clean.csv"
-    fallback_path = "tallywell_funnel_clean.csv"
-    
-    # Smart Search: If the main path fails, look everywhere in the repo
-    if os.path.exists(primary_path):
-        return pd.read_csv(primary_path)
-    elif os.path.exists(fallback_path):
-        return pd.read_csv(fallback_path)
-    else:
-        # Search the entire workspace directory recursively for any matching csv file name
-        for root, dirs, files in os.walk("."):
-            for file in files:
-                if file.lower() == "tallywell_funnel_clean.csv":
-                    return pd.read_csv(os.path.join(root, file))
-        # Throw explicit error if completely missing from the repo
-        raise FileNotFoundError
+    df = pd.read_csv(
+        "project-3-funnel-testing/tallywell_funnel_clean.csv",
+        dtype={"CompletedSignup": "bool"},
+    )
+    return df
 
 try:
     df = load_data()
 except FileNotFoundError:
-    st.error("Fatal Error: 'tallywell_funnel_clean.csv' is completely missing from this GitHub repository! Make sure your file manager upload finished completely.")
+    st.error("Error: 'tallywell_funnel_clean.csv' not found inside project-3-funnel-testing folder!")
     st.stop()
 
 # 3. Sidebar Filtering
-st.sidebar.header("Product Demographics")
-device_filter = st.sidebar.selectbox("Filter by Mobile OS", ["All Devices"] + list(df["DeviceType"].dropna().unique()))
+st.sidebar.header("Session Filters")
+device_filter = st.sidebar.selectbox("Filter by Device", ["All Devices"] + sorted(df["DeviceType"].dropna().unique()))
 
 filtered_df = df if device_filter == "All Devices" else df[df["DeviceType"] == device_filter]
 
-# 4. Conversion Core Metrics Grid
+# 4. Core Conversion KPIs
 st.subheader("Signup Funnel Performance Baseline")
-total_users = len(filtered_df)
-control_df = filtered_df[filtered_df["AssignedVariant"] == "Control"]
-experiment_df = filtered_df[filtered_df["AssignedVariant"] == "Experiment"]
+total_sessions = len(filtered_df)
+a_df = filtered_df[filtered_df["AssignedVariant"] == "Variant A"]
+b_df = filtered_df[filtered_df["AssignedVariant"] == "Variant B"]
 
-cr_control = (control_df["CompletedSignup"].sum() / len(control_df) * 100) if len(control_df) > 0 else 0
-cr_experiment = (experiment_df["CompletedSignup"].sum() / len(experiment_df) * 100) if len(experiment_df) > 0 else 0
+cr_a = (a_df["CompletedSignup"].sum() / len(a_df) * 100) if len(a_df) > 0 else 0
+cr_b = (b_df["CompletedSignup"].sum() / len(b_df) * 100) if len(b_df) > 0 else 0
 
 col1, col2, col3 = st.columns(3)
-col1.metric("Total Funnel Traffic", f"{total_users:,} Sessions")
-col2.metric("Control Conversion (Manual)", f"{cr_control:.1f}%")
-col3.metric("Experiment Conversion (API)", f"{cr_experiment:.1f}%")
+col1.metric("Total Funnel Traffic", f"{total_sessions:,} Sessions")
+col2.metric("Variant A Conversion (12 fields)", f"{cr_a:.1f}%")
+col3.metric("Variant B Conversion (4 fields)", f"{cr_b:.1f}%")
 
 st.markdown("---")
 
-# 5. Advanced Conversion Funnel Visualizations
+# 5. Completion by variant, and where Variant A actually lost people
 col_left, col_right = st.columns(2)
 
 with col_left:
-    st.subheader("Funnel Conversion Shifts by Testing Group")
-    funnel_stages = filtered_df.groupby(["AssignedVariant", "StepReached"]).size().reset_index(name="Users")
-    
-    fig_funnel = px.bar(
-        funnel_stages,
-        x="StepReached",
-        y="Users",
-        color="AssignedVariant",
-        barmode="group",
-        color_discrete_map={"Control": "#ef4444", "Experiment": "#34d399"},
-        category_orders={"StepReached": ["Started", "IdentityVerified", "BankLinkingAttempted", "Completed"]},
-        labels={"StepReached": "Funnel Milestone Reached", "Users": "Active Sessions"},
-        template="plotly_dark"
+    st.subheader("Completion by Variant")
+    completion = pd.DataFrame({
+        "Variant": ["Variant A, 12 fields", "Variant B, 4 fields"],
+        "Conversion": [cr_a, cr_b],
+    })
+    fig_completion = px.bar(
+        completion, x="Variant", y="Conversion",
+        color="Variant",
+        color_discrete_map={"Variant A, 12 fields": "#ef4444", "Variant B, 4 fields": "#34d399"},
+        labels={"Conversion": "Completion Rate %"},
+        template="plotly_dark",
     )
-    fig_funnel.update_layout(plot_bgcolor="rgba(0,0,0,0)", paper_bgcolor="rgba(0,0,0,0)")
-    st.plotly_chart(fig_funnel, use_container_width=True)
+    fig_completion.update_layout(plot_bgcolor="rgba(0,0,0,0)", paper_bgcolor="rgba(0,0,0,0)", showlegend=False)
+    st.plotly_chart(fig_completion, use_container_width=True)
 
 with col_right:
-    st.subheader("Session Duration Performance Metrics")
-    fig_time = px.histogram(
-        filtered_df,
-        x="DurationMin",
-        color="AssignedVariant",
-        marginal="box",
-        color_discrete_map={"Control": "#f43f5e", "Experiment": "#60a5fa"},
-        labels={"DurationMin": "Total Funnel Time Elapsed (Minutes)"},
-        template="plotly_dark"
+    st.subheader("Where Variant A Lost People")
+    dropoffs = a_df[~a_df["CompletedSignup"]]["DropoffField"].value_counts(normalize=True).reset_index()
+    dropoffs.columns = ["Field", "Share"]
+    dropoffs["Share"] = dropoffs["Share"] * 100
+    dropoffs = dropoffs.sort_values("Share", ascending=True)
+
+    fig_dropoff = px.bar(
+        dropoffs, x="Share", y="Field", orientation="h",
+        color="Share", color_continuous_scale="Reds",
+        labels={"Share": "Share of Variant A Abandonment %", "Field": "Form Field"},
+        template="plotly_dark",
     )
-    fig_time.update_layout(plot_bgcolor="rgba(0,0,0,0)", paper_bgcolor="rgba(0,0,0,0)", barmode="overlay")
-    st.plotly_chart(fig_time, use_container_width=True)
-    
+    fig_dropoff.update_layout(plot_bgcolor="rgba(0,0,0,0)", paper_bgcolor="rgba(0,0,0,0)", coloraxis_showscale=False)
+    st.plotly_chart(fig_dropoff, use_container_width=True)
