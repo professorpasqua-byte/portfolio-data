@@ -2,7 +2,8 @@
 
 **Nwafor Martins** — People Analytics Engineer | Psychology background | Python, SQL, Power BI
 
-[Live site](https://martins-portfolio.net/) · [Email](mailto:nwaforchubby@gmail.com) · [WhatsApp](https://wa.me/2349135615687)
+[Live site](https://martins-portfolio.net/) · (coming soon)
+[Email](mailto:nwaforchubby@gmail.com) · [WhatsApp](https://wa.me/2349135615687)
 
 ---
 
