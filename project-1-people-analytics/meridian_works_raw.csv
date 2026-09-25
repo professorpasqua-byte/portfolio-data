@@ -1,0 +1,1527 @@
+emp_id,full_name,department,job_role,hire_date,term_date,monthly_income,age,gender,tenure_years,environment_satisfaction,job_involvement,job_satisfaction,relationship_satisfaction,work_life_balance
+E-1438,  ivan OKAFOR ,engineering,QA Analyst,2026/05/09,N/A,"$6,878",41,Male,0.38,3,2,2,n/a,3
+E-2426,  miguel NAKAMURA ,Sal3s,Sales Development Rep,25/02/2017,N/A,6304,29,Female,9.58,2,2,2,3,high
+E-1184,  omar NAKAMURA ,Eng.,Software Engineer,2020-06-18,N/A,7134,56,Female,6.27,3,3,3,3,3
+E-1475,Priya Weber,Eng.,QA Analyst,2020-09-06,NULL,-1,30,Male,6.05,2,3,2,2,2
+E-2160,Nadia Andersson,Sales,Account Executive,29 Jun 2022,NULL,"7,045.00",29,Female,4.24,2,5,3,3,3
+E-1205,James Lindgren,Engineering ,Software Engineer,2011/10/14,N/A,-1,55,Male,14.95,3,2,2,n/a,n/a
+E-1789,JAMES O'Brien,Engineering ,Support Engineer,20 Apr 2020,N/A,7182,33,Male,6.43,3,2,2,2,2
+E-1772,QUINN Nair,engineering,Support Engineer,2026-04-10,,6825,61,Female,0.46,3,3,3,2,2
+E-1873,Sofia Nakamura,Engineering ,Engineering Lead,2020-05-20,2026-09-25,5660,28,Male,6.35,3,3,2,2,2
+E-1065,  oscar GARCIA ,engineering,Software Engineer,25 Jun 2020,2026-09-25,5184,33,Male,6.25,2,6,2,2,3
+E-1913,MIGUEL Haddad,engineering,Engineering Lead,2019-11-01,NULL,6327,31,Male,6.9,3,2,3,6,high
+E-1913,MIGUEL HADDAD,engineering,Engineering Lead,2019-11-01,NULL,6327,31,Male,6.9,3,2,3,6,high
+E-1179,Wei Novak,Eng.,Software Engineer,09/05/2014,NULL,"6,686.00",47,Female,12.38,3,2,3,3,3
+E-1418,IGOR Ivanov,engineering,QA Analyst,04/03/2018,NULL,6071,51,Male,8.56,2,3,3,3,2
+E-2341,Rosa Okafor,Sales,Account Executive,2022/08/27,N/A,"5,814.00",34,Male,4.08,3,n/a,3,3,2
+E-1682,NOAH Novak,Engineering ,Data Engineer,14/02/2026,N/A,6792,29,Female,0.61,3,3,3,3,3
+E-1490,  kenji SANTOS ,engineering,QA Analyst,14/06/2020,N/A,"7,313.00",35,Male,6.28,3,2,2,3,2
+E-1333,ROSA Wei,Eng.,Software Engineer,28/09/2021,,"5,806.00",32,Male,4.99,3,2,3,3,3
+E-1292,Okafor Rossi,Eng.,Software Engineer,2019/12/22,NULL,6623,43,Female,6.76,3,3,3,3,2
+E-2417,  talia FARAH ,Sal3s,Sales Development Rep,2024/01/09,N/A,"$6,166",47,Female,2.71,3,3,3,3,3
+E-1487,  paul OKAFOR ,Engineering ,QA Analyst,07/02/2024,N/A,6651,29,Female,2.63,3,2,3,3,3
+E-1881,EMMA Silva,engineering,Engineering Lead,21/09/2022,,7287,26,Male,4.01,3,2,2,3,2
+E-1429,  oscar KIM ,engineering,QA Analyst,19/08/2022,N/A,7011,21,Female,4.1,3,2,3,3,3
+E-1658,  quinn FARAH ,Eng.,Data Engineer,31 May 2024,N/A,6519,57,Male,2.32,2,3,2,high,3
+E-1277,  anna KIM ,engineering,Software Engineer,2020/04/06,N/A,"$6,402",39,Male,6.47,2,3,2,3,3
+E-2499,Hana Kim,Sal3s,Sales Manager,2022/01/20,N/A,5551,35,Male,4.68,2,3,3,3,3
+E-1604,  ivan WEI ,Engineering ,Data Engineer,19 Aug 2026,25/09/2026,5259,24,Male,0.1,3,2,3,2,2
+E-1502,ZOE Smith,Engineering ,QA Analyst,2014-08-05,,6745,31,Male,12.14,2,3,3,3,3
+E-2289,  ivan WEI ,Sales,Account Executive,30 Mar 2026,NULL,5941,30,Female,0.49,high,3,2,2,n/a
+E-2246,NOAH Nair,Sal3s,Account Executive,2024/04/09,NULL,"6,625.00",54,Male,2.46,2,3,3,3,2
+E-1823,Lara Kim,Engineering ,Support Engineer,10/09/2020,NULL,"$8,057",60,Male,6.04,3,3,n/a,3,3
+E-1859,OKAFOR Weber,Eng.,Support Engineer,16/10/2016,,"$7,482",28,Female,9.94,3,3,2,2,medium
+E-2155,  david GARCIA ,sales ,Account Executive,2017/07/28,,6242,36,Female,9.16,3,3,3,3,2
+E-1450,Lucas O'Brien,Eng.,QA Analyst,31 May 2007,,"7,078.00",53,Male,19.32,2,3,6,2,3
+E-2344,TALIA Kim,sales ,Account Executive,08/08/2020,N/A,"6,554.00",37,Female,6.13,2,3,3,3,3
+E-2425,Maria Wei,Sales,Sales Development Rep,2022-05-27,N/A,"$5,798",49,Male,4.33,2,3,3,2,3
+E-2414,LI Ivanov,Sal3s,Sales Development Rep,17/07/2024,,-1,35,Male,2.19,3,3,3,high,3
+E-2302,  fatima SILVA ,sales ,Account Executive,2015-02-14,NULL,6440,59,Female,11.61,3,3,n/a,3,2
+E-2322,Talia Silva,sales ,Account Executive,17/04/2014,NULL,5633,40,Female,12.44,2,3,3,3,3
+E-1914,Igor Okafor,engineering,Engineering Lead,25/07/2022,N/A,7557,53,Female,4.17,2,3,3,3,3
+E-1272,Julia Duarte,Eng.,Software Engineer,2005/06/18,N/A,7070,20,Male,21.27,3,2,high,3,3
+E-1977,  yusuf NOVAK ,Eng.,Engineering Manager,11 Jun 2026,N/A,"6,253.00",38,Female,0.29,3,3,n/a,3,3
+E-1690,Kenji Wei,Engineering ,Data Engineer,2022/04/14,N/A,6679,27,Male,4.45,3,3,3,2,3
+E-2352,  james SANTOS ,Sales,Sales Development Rep,3 Oct 2023,2026-09-25,"6,013.00",44,Male,2.98,2,3,2,3,3
+E-1222,Hana O'Brien,engineering,Software Engineer,04/11/2023,NULL,"7,466.00",19,Male,2.89,2,3,3,3,2
+E-1064,Miguel Chen,engineering,Software Engineer,15/06/2026,2026/09/25,5852,36,Female,0.28,3,3,3,3,3
+E-1934,  emma WEI ,Engineering ,Engineering Lead,27 Aug 2022,,6810,46,Female,4.08,3,3,2,3,3
+E-2286,  igor HADDAD ,Sal3s,Account Executive,2017-06-11,,6741,34,Male,9.29,3,3,3,3,2
+E-2286,  IGOR HADDAD ,Sal3s,Account Executive,2017-06-11,,6741,34,Male,9.29,3,3,3,3,2
+E-1061,  nina HADDAD ,Eng.,Software Engineer,12/01/2013,2026/09/25,5582,29,Male,13.7,3,n/a,3,2,n/a
+E-1509,  mei O'BRIEN ,engineering,QA Analyst,8 Mar 2022,,6598,40,Male,4.55,3,2,2,3,2
+E-1865,Vera Silva,Engineering ,Support Engineer,2024/09/14,NULL,7375,42,Female,2.03,3,high,3,2,3
+E-1893,  omar SANTOS ,Eng.,Engineering Lead,2023-10-21,N/A,-1,27,Male,2.93,3,3,3,2,3
+E-1004,Miguel Rossi,Human Resources,HR Partner,16/01/2026,25/09/2026,4282,38,Male,0.69,3,2,2,3,3
+E-2497,  miguel CHEN ,Sal3s,Sales Manager,14 Dec 2021,,-1,46,Female,4.78,3,3,2,high,3
+E-1567,KENJI Chen,engineering,QA Analyst,14/06/2024,NULL,"7,489.00",35,Male,2.28,2,6,2,3,3
+E-2351,Aisha Haddad,sales ,Sales Development Rep,2026-07-10,25 Sep 2026,5345,34,Female,0.21,2,5,2,2,3
+E-1736,Maria Wei,engineering,Data Engineer,2014/09/10,N/A,"7,006.00",40,Male,12.04,0,2,3,6,3
+E-2370,  zoe WEI ,Sales,Sales Development Rep,20/01/2024,2026/09/25,5490,24,Male,2.68,medium,2,2,3,3
+E-2086,David Nair,Sal3s,Account Executive,24/10/2017,2026-09-25,"5,381.00",52,Female,8.92,3,high,3,3,3
+E-2204,Aisha Santos,Sales,Account Executive,26/08/2024,,6444,32,Male,2.08,3,high,3,3,3
+E-1962,NOAH Rossi,engineering,Engineering Manager,16/05/2020,NULL,-1,36,Male,6.36,3,3,3,2,3
+E-2062,Emma Santos,Sal3s,Account Executive,14/09/2022,2026-09-25,"5,808.00",27,Female,4.03,3,3,3,3,3
+E-1090,  umar ROSSI ,Eng.,Software Engineer,2020-05-20,2026/09/25,"6,762.00",50,Male,6.35,3,2,high,n/a,3
+E-2290,Ivan Farah,Sal3s,Account Executive,2022-01-16,,"6,026.00",58,Female,4.69,2,3,high,3,3
+E-1188,  nina IVANOV ,Eng.,Software Engineer,2022-02-03,,-1,29,Female,4.64,3,0,3,3,2
+E-2046,OKAFOR O'Brien,Sales,Account Executive,2026/04/10,2026-09-25,"5,876.00",45,Male,0.46,2,3,medium,2,3
+E-1343,Li Haddad,Eng.,QA Analyst,31/05/2022,2026-09-25,"6,391.00",38,Male,4.32,n/a,2,3,2,3
+E-1283,Ivan Kowalski,engineering,Software Engineer,28 Jul 2013,,6865,36,Male,13.16,3,n/a,2,6,3
+E-1437,  sven KOWALSKI ,engineering,QA Analyst,2020-09-10,NULL,"$6,350",41,Male,6.04,2,3,2,3,3
+E-1635,Zoe Popescu,Engineering ,Data Engineer,2024-02-22,,"6,954.00",30,Male,2.59,3,3,3,3,2
+E-2430,  anna WEI ,sales ,Sales Development Rep,17/10/2023,N/A,6641,24,Male,2.94,2,3,2,3,3
+E-2320,Lara Lindgren,Sales,Account Executive,2017-02-18,,"5,555.00",63,Male,9.6,3,2,2,2,2
+E-1301,  omar DUARTE ,Eng.,Software Engineer,2019-12-11,NULL,"7,117.00",61,Male,6.79,3,3,5,3,5
+E-2060,NOAH Ivanov,sales ,Account Executive,07/02/2024,25/09/2026,"5,447.00",31,Male,2.63,2,3,3,3,3
+E-1879,  lucas LINDGREN ,Engineering ,Engineering Lead,16 Jan 2020,,6355,43,Female,6.69,3,3,3,3,3
+E-1074,EMMA Silva,engineering,Software Engineer,11 Nov 2025,2026-09-25,"$5,504",25,Female,0.87,medium,2,3,2,3
+E-2475,Wei Osei,Sales,Sales Manager,2021-12-14,,"6,388.00",26,Female,4.78,3,3,3,high,2
+E-2304,Umar Nakamura,Sal3s,Account Executive,2022-02-22,NULL,6749,49,Male,4.59,2,3,3,0,3
+E-1084,  zoe LINDGREN ,Eng.,Software Engineer,09/05/2022,25/09/2026,6471,37,Female,4.38,3,3,3,2,3
+E-1527,  john KIM ,Eng.,QA Analyst,2019-11-12,,6419,35,Male,6.87,3,3,0,3,3
+E-1618,Sven Wei,Engineering ,Data Engineer,2026/05/13,N/A,7446,57,Male,0.37,3,3,3,2,3
+E-1472,LI Haddad,Engineering ,QA Analyst,18/09/2018,,"6,707.00",37,Female,8.02,2,3,high,2,3
+E-2474,Ivan Nair,sales ,Sales Manager,2020/01/13,N/A,6555,42,Male,6.7,3,3,2,3,3
+E-1186,Fatima Silva,Eng.,Software Engineer,2024-06-18,N/A,6462,19,Female,2.27,3,2,3,3,3
+E-1029,Paul Nakamura,Human Resources,HR Partner,30 Mar 2014,,5162,43,Female,12.49,medium,3,2,3,3
+E-1684,  julia HADDAD ,Engineering ,Data Engineer,24/10/2023,,7784,20,Female,2.92,3,0,2,3,2
+E-1498,  john ROSSI ,Engineering ,QA Analyst,2024-04-13,,7001,22,Female,2.45,2,2,3,2,3
+E-2258,Hana Chen,Sales,Account Executive,11/06/2017,NULL,-1,53,Female,9.29,3,3,3,3,2
+E-1041,Lucas Nair,human resources ,HR Partner,2022-04-03,,4893,31,Male,4.48,2,3,3,6,3
+E-1798,Rosa Kowalski,engineering,Support Engineer,2022-03-30,NULL,7669,39,Female,4.49,2,3,3,high,2
+E-2410,  oscar ROSSI ,sales ,Sales Development Rep,09/05/2022,N/A,"$6,432",35,Female,4.38,2,2,3,3,3
+E-1770,Li Silva,Eng.,Support Engineer,2016-12-25,,7330,30,Male,9.75,3,2,2,3,3
+E-1900,John Okafor,Eng.,Engineering Lead,2022-07-03,,"$6,273",56,Male,4.23,3,3,3,3,3
+E-1280,Miguel Popescu,Engineering ,Software Engineer,28 Oct 2021,N/A,7722,46,Female,4.91,3,2,medium,n/a,high
+E-1888,John O'Brien,Eng.,Engineering Lead,18 Feb 2022,,"6,902.00",34,Female,4.6,3,2,2,3,3
+E-2251,Julia Andersson,Sal3s,Account Executive,2009/01/27,NULL,6631,19,Female,17.66,3,3,3,2,2
+E-1694,YUSUF Garcia,Eng.,Data Engineer,12 Aug 2022,,"$8,321",36,Male,4.12,3,3,3,3,high
+E-2076,VERA Rossi,Sales,Account Executive,2025/11/29,2026/09/25,5008,61,Male,0.82,n/a,2,3,3,3
+E-2176,John Farah,sales ,Account Executive,2021-11-26,,"6,341.00",54,Male,4.83,3,3,2,3,3
+E-2231,Kenji Kaur,Sal3s,Account Executive,7 Feb 2020,,5400,53,Female,6.63,2,3,3,n/a,2
+E-1708,Tomas Nair,Eng.,Data Engineer,2020-08-04,N/A,"$7,399",57,Male,6.14,high,medium,2,3,3
+E-1334,James Duarte,engineering,Software Engineer,2022/04/17,,6940,58,Male,4.44,n/a,2,3,2,0
+E-2027,Li O'Brien,Sales,Account Executive,14 Sep 2022,25/09/2026,5947,40,Male,4.03,3,3,3,3,3
+E-1005,Paul Kowalski,Human Resources,HR Partner,2024/04/02,25/09/2026,3979,45,Female,2.48,3,2,2,2,3
+E-1742,Kenji Lindgren,Eng.,Support Engineer,15 Mar 2026,2026-09-25,"5,899.00",48,Female,0.53,3,n/a,2,3,medium
+E-1541,  priya SILVA ,engineering,QA Analyst,29 Dec 2019,NULL,6716,22,Female,6.74,3,2,3,3,3
+E-1599,  emma KAUR ,Eng.,Data Engineer,20 May 2026,2026-09-25,"$6,200",19,Female,0.35,3,3,2,3,3
+E-2447,Talia Farah,Sal3s,Sales Development Rep,20/05/2018,NULL,"6,655.00",42,Female,8.35,3,2,3,2,3
+E-1608,Zoe Okafor,Engineering ,Data Engineer,2022/08/27,N/A,7000,63,Male,4.08,2,2,3,3,3
+E-2146,John Ivanov,sales ,Account Executive,25 Dec 2021,N/A,"$6,554",52,Female,4.75,2,3,3,2,3
+E-2064,QUINN Okafor,Sales,Account Executive,2026-03-26,25/09/2026,6133,18,Female,0.5,3,3,3,2,3
+E-1322,Anna Chen,engineering,Software Engineer,2022/04/14,,8070,42,Male,4.45,2,3,3,0,3
+E-1869,MARIA Haddad,engineering,Support Engineer,2026/05/09,N/A,"6,543.00",22,Male,0.38,medium,2,2,high,3
+E-1949,Nadia Duarte,Engineering ,Engineering Lead,28/12/2008,N/A,6886,36,Female,17.74,3,2,3,3,3
+E-2105,Zoe Nakamura,sales ,Account Executive,02/05/2026,NULL,6999,33,Male,0.4,3,2,3,3,3
+E-2477,Quinn Nakamura,Sales,Sales Manager,2017/08/12,N/A,6993,28,Male,9.12,3,high,3,3,5
+E-1775,JOHN Kaur,Eng.,Support Engineer,2023/09/29,N/A,7541,37,Male,2.99,2,2,high,3,3
+E-1232,ZOE Chen,Engineering ,Software Engineer,2020/05/01,,"$7,423",28,Male,6.4,3,2,high,3,3
+E-1232,ZOE CHEN,Engineering ,Software Engineer,2020/05/01,,"$7,423",28,Male,6.4,3,2,high,3,3
+E-2409,Umar Nakamura,Sales,Sales Development Rep,13 Oct 2021,N/A,"$7,484",37,Male,4.95,2,2,2,2,3
+E-1950,Zoe Chen,Eng.,Engineering Lead,07/06/2024,,6542,62,Female,2.3,3,3,2,3,3
+E-2431,Umar Ivanov,sales ,Sales Development Rep,2022/07/18,N/A,6941,40,Female,4.19,3,3,2,2,3
+E-1388,HANA Silva,Engineering ,QA Analyst,17 Apr 2024,2026/09/25,-1,55,Female,2.44,3,2,n/a,2,2
+E-2135,Sven O'Brien,Sal3s,Account Executive,2017/04/24,N/A,"$6,175",37,Male,9.42,3,3,high,high,3
+E-2278,  lucas WEBER ,Sal3s,Account Executive,13/05/2022,N/A,5392,53,Female,4.37,2,3,3,2,3
+E-1391,Petra Wei,Engineering ,QA Analyst,14 Jun 2024,2026/09/25,"5,981.00",36,Male,2.28,2,2,n/a,3,3
+E-2330,David Kowalski,sales ,Account Executive,2024-02-18,,6580,39,Female,2.6,3,3,3,3,3
+E-1372,Maria Garcia,engineering,QA Analyst,10 Jul 2026,2026-09-25,6083,55,Male,0.21,3,2,3,n/a,2
+E-1665,Tomas Silva,Engineering ,Data Engineer,2019/12/15,,-1,31,Female,6.78,2,2,3,3,high
+E-1140,SOFIA Diallo,Eng.,Software Engineer,2022-05-17,N/A,7554,36,Female,4.36,2,3,3,3,2
+E-1886,OMAR Popescu,engineering,Engineering Lead,2024/04/24,NULL,7912,23,Female,2.42,3,3,3,0,3
+E-1286,OSCAR Osei,Eng.,Software Engineer,5 Aug 2014,,6711,36,Female,12.14,2,2,0,3,3
+E-2201,PRIYA Kim,Sales,Account Executive,07/11/2016,N/A,6654,58,Male,9.88,3,2,n/a,high,3
+E-1126,Fatima Nair,Engineering ,Software Engineer,2018-06-11,,"$7,500",31,Female,8.29,3,high,3,3,3
+E-1350,  grace GARCIA ,engineering,QA Analyst,20 Jan 2026,25/09/2026,5798,49,Male,0.68,2,3,2,3,3
+E-1024,Talia Ivanov,HR,HR Partner,29 Nov 2017,,5372,40,Male,8.82,3,3,2,3,n/a
+E-2473,  wei OSEI ,Sal3s,Sales Manager,31 Oct 2021,NULL,"$5,652",39,Male,4.9,3,n/a,3,0,3
+E-1000,  yusuf FARAH ,human resources ,HR Partner,2022/04/10,25/09/2026,4299,31,Female,4.46,3,3,n/a,3,3
+E-2438,  lucas O'BRIEN ,Sales,Sales Development Rep,30/03/2020,,5563,35,Female,6.49,3,n/a,2,2,3
+E-1497,IGOR Weber,Eng.,QA Analyst,13 Jan 2012,NULL,6704,28,Male,14.7,2,2,3,2,2
+E-1590,Umar Santos,engineering,Data Engineer,2020-08-19,2026/09/25,5894,29,Male,6.1,3,3,3,3,3
+E-2006,Petra Farah,Eng.,Engineering Manager,2024-06-03,,7348,41,Male,2.31,3,2,3,3,2
+E-1812,OMAR Kaur,Eng.,Support Engineer,2020-01-13,NULL,7593,38,Male,6.7,3,2,high,3,3
+E-1552,Nadia Okafor,engineering,QA Analyst,2022/03/08,N/A,-1,64,Male,4.55,n/a,2,3,2,3
+E-2277,Noah Andersson,Sales,Account Executive,2017-11-19,,"6,222.00",35,Female,8.85,3,2,3,3,n/a
+E-1226,James Smith,engineering,Software Engineer,2022-04-21,N/A,7645,44,Male,4.43,2,3,3,3,n/a
+E-1701,OMAR Popescu,Engineering ,Data Engineer,2021/11/19,N/A,6490,39,Male,4.85,3,3,3,2,3
+E-1345,OKAFOR Okafor,engineering,QA Analyst,17 May 2014,25 Sep 2026,"$6,280",40,Male,12.36,medium,3,3,3,3
+E-1455,Mei Nakamura,Eng.,QA Analyst,2026/03/19,NULL,6900,60,Female,0.52,3,high,2,3,n/a
+E-1393,Miguel Popescu,Engineering ,QA Analyst,2026/07/29,2026-09-25,"$5,033",31,Male,0.16,3,3,0,3,2
+E-1190,Julia Haddad,Eng.,Software Engineer,2025-11-08,NULL,"5,496.00",26,Male,0.88,2,3,3,2,medium
+E-2266,Tomas O'Brien,sales ,Account Executive,22 Dec 2019,N/A,6243,21,Male,6.76,medium,3,3,3,3
+E-2334,Oscar Ivanov,Sales,Account Executive,2022-08-23,,-1,28,Male,4.09,2,3,3,3,2
+E-2096,  zoe KAUR ,Sal3s,Account Executive,2024/01/24,,"$6,701",29,Female,2.67,3,2,3,3,3
+E-2468,Sven Silva,Sales,Sales Manager,2022-01-31,,6316,39,Male,4.65,2,2,3,3,medium
+E-1739,MIGUEL Okafor,engineering,Data Engineer,2022-03-23,,"5,854.00",20,Male,4.51,3,3,3,3,3
+E-1636,  hana NAIR ,Eng.,Data Engineer,2015/07/18,N/A,6711,32,Female,11.19,3,2,3,2,3
+E-1953,LUCAS Smith,Eng.,Engineering Lead,2020-04-24,,"6,940.00",39,Male,6.42,2,2,3,3,3
+E-2256,Julia Okafor,sales ,Account Executive,2024/09/06,,"5,902.00",45,Male,2.05,2,high,3,3,3
+E-2424,  kenji LINDGREN ,Sal3s,Sales Development Rep,1 Aug 2013,N/A,5546,57,Female,13.15,2,2,3,2,2
+E-1632,  carlos DUARTE ,engineering,Data Engineer,15 Feb 2024,,7218,54,Female,2.61,3,3,2,2,3
+E-2079,Igor Wei,Sal3s,Account Executive,26/02/2024,2026-09-25,5720,41,Male,2.58,2,3,3,high,3
+E-2362,Maria Popescu,Sales,Sales Development Rep,18/12/2025,2026/09/25,-1,37,Female,0.77,2,3,3,3,2
+E-1765,Priya Andersson,Eng.,Support Engineer,9 May 2022,N/A,6494,37,Female,4.38,2,high,3,3,2
+E-1808,  lucas NOVAK ,Eng.,Support Engineer,12 Aug 2017,,"7,185.00",44,Male,9.12,high,2,3,3,3
+E-1878,ANNA Kaur,Eng.,Engineering Lead,2012-12-18,,7234,46,Female,13.77,3,0,3,2,3
+E-1810,Wei Rossi,Engineering ,Support Engineer,26/03/2024,NULL,6376,47,Male,2.5,3,2,2,3,3
+E-1477,Priya Lindgren,engineering,QA Analyst,2024/02/04,NULL,7242,32,Male,2.64,3,3,2,3,3
+E-2122,Ivan Kim,Sal3s,Account Executive,21/10/2019,N/A,6129,56,Female,6.93,3,3,2,n/a,2
+E-2380,TOMAS Smith,Sal3s,Sales Development Rep,2024/01/27,2026-09-25,5718,24,Male,2.66,high,3,2,high,3
+E-1563,Quinn Kowalski,Engineering ,QA Analyst,29/11/2021,N/A,"$7,384",45,Male,4.82,0,3,2,2,3
+E-1718,David O'Brien,Engineering ,Data Engineer,01/11/2019,N/A,6673,36,Female,6.9,3,3,2,2,3
+E-2381,Mei Smith,Sales,Sales Development Rep,2025/11/19,25/09/2026,5156,39,Female,0.85,2,2,2,2,3
+E-1834,  quinn SANTOS ,engineering,Support Engineer,2026-05-09,NULL,"7,006.00",42,Male,0.38,3,2,3,3,2
+E-1576,IVAN Novak,engineering,QA Analyst,2022/06/11,NULL,"6,360.00",33,Male,4.29,high,high,2,2,2
+E-1300,Kenji Haddad,engineering,Software Engineer,03/06/2024,NULL,"6,847.00",38,Male,2.31,3,3,3,3,2
+E-1443,  quinn WEBER ,engineering,QA Analyst,2024/02/11,N/A,6786,30,Male,2.62,2,3,2,2,3
+E-1825,Anna Silva,engineering,Support Engineer,2022-04-06,N/A,8207,39,Female,4.47,3,3,2,3,3
+E-2047,YUSUF Kaur,sales ,Account Executive,2025-12-21,2026-09-25,5957,25,Female,0.76,3,3,high,3,3
+E-1420,Grace Garcia,Engineering ,QA Analyst,2025-11-26,NULL,-1,59,Female,0.83,3,3,3,2,2
+E-1076,Ivan Chen,engineering,Software Engineer,19/08/2026,2026/09/25,"6,091.00",28,Female,0.1,3,3,3,3,2
+E-1943,KENJI Farah,Engineering ,Engineering Lead,2019-10-24,NULL,7758,42,Female,6.92,3,2,3,3,n/a
+E-1758,  talia OSEI ,Engineering ,Support Engineer,14/04/2026,N/A,7568,42,Female,0.45,2,3,3,3,3
+E-1209,OKAFOR Garcia,engineering,Software Engineer,08/03/2022,NULL,-1,57,Male,4.55,2,2,2,2,3
+E-1467,UMAR Osei,Eng.,QA Analyst,11 Mar 2020,N/A,7733,33,Male,6.54,3,3,3,3,3
+E-2316,Li Kaur,sales ,Account Executive,2022-06-29,,6193,64,Female,4.24,high,2,3,3,3
+E-1945,IGOR Lindgren,Engineering ,Engineering Lead,31 Jan 2020,N/A,7132,35,Female,6.65,2,2,3,0,3
+E-1961,Tomas Nair,Eng.,Engineering Manager,2014-07-10,,6394,35,Male,12.21,3,2,2,3,2
+E-2088,  aisha POPESCU ,sales ,Account Executive,17 Sep 2012,,6463,24,Male,14.02,3,n/a,3,3,high
+E-1956,Talia Duarte,Eng.,Engineering Manager,01/03/2022,2026-09-25,"$5,888",36,Male,4.57,3,2,3,3,3
+E-2009,PETRA Kowalski,engineering,Engineering Manager,2025-10-02,,7150,36,Male,0.98,3,3,3,3,3
+E-2407,  fatima GARCIA ,sales ,Sales Development Rep,2021/12/03,NULL,"6,140.00",26,Female,4.81,2,6,2,2,3
+E-2445,VERA Popescu,Sales,Sales Development Rep,2022-05-06,,-1,32,Female,4.39,3,3,high,3,3
+E-2234,Carlos Kowalski,Sales,Account Executive,2023-12-04,,5723,55,Female,2.81,3,2,3,3,3
+E-1470,GRACE Santos,Engineering ,QA Analyst,2026-01-09,,"$7,231",62,Female,0.71,3,3,2,2,2
+E-1897,Petra Kim,Eng.,Engineering Lead,11/02/2024,,7232,41,Male,2.62,3,3,2,3,3
+E-1840,  grace SILVA ,engineering,Support Engineer,10/12/2025,N/A,6514,30,Male,0.79,3,2,6,3,3
+E-1828,  carlos WEI ,Engineering ,Support Engineer,2024-02-11,NULL,6661,36,Female,2.62,3,3,3,3,3
+E-2128,SOFIA Kowalski,Sal3s,Account Executive,2022/04/10,,6042,61,Male,4.46,3,high,3,3,2
+E-1354,Anna Garcia,engineering,QA Analyst,4 Nov 2019,25/09/2026,6361,47,Female,6.89,medium,high,2,3,3
+E-1614,Li Novak,engineering,Data Engineer,11/11/2021,N/A,6967,32,Female,4.87,2,2,3,3,3
+E-1890,Maria Nair,Engineering ,Engineering Lead,2020/08/15,NULL,6795,44,Male,6.11,3,3,2,high,3
+E-1921,Paul Farah,Eng.,Engineering Lead,2026-01-12,NULL,7703,61,Female,0.7,2,3,n/a,3,3
+E-2363,Julia Farah,Sales,Sales Development Rep,2024-08-15,2026/09/25,"$6,034",20,Male,2.11,3,3,3,3,0
+E-1130,  miguel KOWALSKI ,Eng.,Software Engineer,2022/06/26,N/A,"7,517.00",33,Male,4.25,3,2,3,2,n/a
+E-1376,Sofia Okafor,Engineering ,QA Analyst,27/05/2024,25 Sep 2026,"5,943.00",34,Male,2.33,3,3,2,3,2
+E-2253,WEI Duarte,Sales,Account Executive,2016/12/21,,6156,48,Male,9.76,3,3,2,3,3
+E-1813,  emma NAIR ,Engineering ,Support Engineer,2020-01-31,NULL,"$6,176",27,Female,6.65,3,3,5,3,5
+E-2143,Nadia Popescu,sales ,Account Executive,11/03/2024,,6702,50,Female,2.54,2,3,3,3,2
+E-2048,Igor Nakamura,sales ,Account Executive,10/09/2024,25/09/2026,5698,63,Female,2.04,3,2,3,3,3
+E-1734,Sofia Farah,Eng.,Data Engineer,2024/03/22,,"7,689.00",30,Female,2.51,3,3,2,3,3
+E-2106,GRACE Farah,Sales,Account Executive,20 Jan 2024,NULL,-1,27,Female,2.68,2,3,2,3,2
+E-1456,Anna Duarte,Engineering ,QA Analyst,21/10/2023,N/A,"6,867.00",41,Male,2.93,3,2,2,2,2
+E-1021,Noah Garcia,HR,HR Partner,2015-06-22,NULL,5317,26,Female,11.26,3,2,3,3,medium
+E-1709,  julia NAKAMURA ,Eng.,Data Engineer,12/03/2018,NULL,5966,49,Female,8.54,3,n/a,high,3,2
+E-1008,Sven Andersson,HR,HR Partner,2008-02-11,2026-09-25,"4,470.00",28,Female,18.62,n/a,3,3,3,3
+E-1626,Talia Weber,Engineering ,Data Engineer,29/07/2022,,6987,59,Male,4.16,3,3,3,3,3
+E-2471,  grace DIALLO ,Sales,Sales Manager,25/09/2024,N/A,5795,34,Male,2.0,2,n/a,3,2,3
+E-1713,KENJI Smith,Engineering ,Data Engineer,27/01/2022,NULL,"7,472.00",34,Female,4.66,3,3,5,3,3
+E-2428,IGOR Smith,Sales,Sales Development Rep,29 Nov 2008,NULL,"$5,309",30,Male,17.82,3,3,n/a,3,n/a
+E-1294,Julia Novak,Engineering ,Software Engineer,2016/12/07,N/A,6456,35,Female,9.8,2,3,2,3,3
+E-2466,  carlos DUARTE ,sales ,Sales Manager,2005/04/06,,"$7,101",28,Female,21.47,3,2,high,3,3
+E-1597,Sofia Nakamura,Eng.,Data Engineer,25 Feb 2026,25 Sep 2026,5826,26,Male,0.58,3,3,3,3,2
+E-1529,Lucas Nair,Eng.,QA Analyst,7 Sep 2026,NULL,-1,61,Male,0.05,2,3,2,3,2
+E-2100,LI Rossi,Sal3s,Account Executive,26 Nov 2025,NULL,"$6,419",32,Male,0.83,3,2,3,2,n/a
+E-2199,Wei Novak,sales ,Account Executive,2017/12/03,N/A,6321,35,Female,8.81,3,2,3,3,3
+E-1062,  wei SANTOS ,Engineering ,Software Engineer,2025/10/13,2026-09-25,"$6,115",47,Male,0.95,3,3,3,3,3
+E-1071,Yusuf Haddad,Eng.,Software Engineer,19/08/2026,2026/09/25,-1,29,Male,0.1,3,2,3,medium,2
+E-2224,ZOE Diallo,Sales,Account Executive,2017-02-18,NULL,"$6,380",54,Male,9.6,2,3,high,2,2
+E-1155,WEI Farah,Engineering ,Software Engineer,2018-07-07,,6860,23,Female,8.22,3,3,3,3,3
+E-1340,Miguel Lindgren,Eng.,QA Analyst,11 Feb 2022,2026/09/25,5613,33,Male,4.62,2,3,3,3,2
+E-1132,GRACE Lindgren,engineering,Software Engineer,2018/07/29,N/A,"6,444.00",29,Female,8.16,3,2,3,2,2
+E-1255,Hana Kim,engineering,Software Engineer,2014/06/15,,"7,659.00",31,Female,12.28,3,3,3,2,2
+E-1661,JOHN Duarte,Eng.,Data Engineer,2021-11-15,,6901,36,Male,4.86,3,3,3,3,3
+E-1623,Fatima Andersson,Engineering ,Data Engineer,2020-02-29,NULL,7670,36,Male,6.57,3,3,n/a,2,3
+E-2458,Lucas Novak,Sal3s,Sales Manager,28/12/2016,,"$5,920",50,Female,9.74,medium,3,3,3,3
+E-1595,Aisha Farah,Eng.,Data Engineer,14/09/2026,2026/09/25,5484,38,Female,0.03,3,2,2,3,3
+E-1156,IVAN Silva,Eng.,Software Engineer,11 Jun 2024,NULL,7584,51,Female,2.29,2,3,3,medium,3
+E-1615,QUINN Diallo,engineering,Data Engineer,2014/03/30,N/A,7218,61,Male,12.49,high,2,3,3,3
+E-2028,NINA Garcia,Sal3s,Account Executive,16 May 2020,25/09/2026,4901,35,Female,6.36,3,3,2,3,3
+E-1454,Petra Duarte,engineering,QA Analyst,2019-10-06,,5700,40,Female,6.97,3,3,2,3,2
+E-2074,MEI Popescu,Sales,Account Executive,2026-06-26,25 Sep 2026,5137,41,Female,0.25,n/a,2,3,3,3
+E-1761,  okafor SILVA ,Engineering ,Support Engineer,29 Feb 2020,,"7,214.00",37,Male,6.57,3,3,2,2,3
+E-1696,John Kim,Eng.,Data Engineer,03/09/2020,NULL,6868,48,Male,6.06,3,3,3,2,3
+E-2130,  tomas NAIR ,Sales,Account Executive,2024/07/21,N/A,6343,37,Female,2.18,3,3,3,3,3
+E-2366,Noah Silva,sales ,Sales Development Rep,20/01/2024,25/09/2026,-1,48,Male,2.68,3,2,3,2,3
+E-2469,John Santos,sales ,Sales Manager,2025-12-10,,-1,28,Female,0.79,3,3,2,2,3
+E-1928,OSCAR O'Brien,Eng.,Engineering Lead,2021/11/29,N/A,7643,44,Male,4.82,3,3,2,3,high
+E-1773,Maria Okafor,engineering,Support Engineer,2024-08-04,,6967,22,Male,2.14,3,3,3,2,3
+E-2057,Nina O'Brien,Sales,Account Executive,3 Dec 2025,25/09/2026,"$4,918",36,Male,0.81,3,3,2,0,high
+E-2355,James Nair,Sal3s,Sales Development Rep,9 May 2022,2026/09/25,"$6,018",24,Female,4.38,3,2,2,2,2
+E-1165,Igor Wei,engineering,Software Engineer,2019/10/21,,"7,306.00",47,Male,6.93,n/a,3,high,2,3
+E-2440,PRIYA Nakamura,Sales,Sales Development Rep,2026-02-18,NULL,"$6,322",34,Female,0.6,2,3,2,2,3
+E-2206,Mei Haddad,sales ,Account Executive,2020-04-13,NULL,"6,024.00",60,Male,6.45,3,3,2,3,3
+E-1911,Julia Kowalski,Engineering ,Engineering Lead,2014/08/16,N/A,5955,28,Male,12.11,3,n/a,3,high,3
+E-1337,Miguel Diallo,Engineering ,Software Engineer,16 Aug 2022,N/A,7668,57,Female,4.11,3,3,3,3,3
+E-2018,Sven Smith,Engineering ,Engineering Manager,2023-11-23,N/A,"$6,096",42,Male,2.84,3,3,3,3,n/a
+E-1891,Noah Weber,engineering,Engineering Lead,2024-04-06,NULL,5783,35,Male,2.47,3,3,3,3,3
+E-1293,Kenji Chen,Engineering ,Software Engineer,21/07/2020,,"6,443.00",44,Female,6.18,2,2,3,3,3
+E-1269,Li Diallo,engineering,Software Engineer,2022/04/10,NULL,"$6,762",59,Male,4.46,3,3,5,3,2
+E-1147,Okafor Kowalski,engineering,Software Engineer,27 Jan 2026,NULL,7791,39,Male,0.66,2,2,3,2,3
+E-1410,KENJI Rossi,Eng.,QA Analyst,2020-09-10,N/A,-1,38,Male,6.04,high,2,3,high,2
+E-2337,MEI Diallo,sales ,Account Executive,2024-03-19,,6576,39,Female,2.52,3,n/a,5,3,3
+E-1566,Yusuf Haddad,engineering,QA Analyst,2019-12-18,,6445,35,Male,6.77,3,3,2,2,2
+E-2008,  carlos KAUR ,Engineering ,Engineering Manager,11/12/2019,NULL,6645,41,Male,6.79,n/a,3,3,2,3
+E-1368,Tomas Nair,Engineering ,QA Analyst,16 Aug 2022,25 Sep 2026,5464,43,Male,4.11,3,3,n/a,3,3
+E-1034,MARIA Rossi,HR,HR Partner,6 Apr 2017,N/A,5182,40,Male,9.47,3,3,2,3,n/a
+E-2265,  nadia SILVA ,Sal3s,Account Executive,2022/05/06,NULL,5943,46,Male,4.39,high,3,3,3,high
+E-2267,Umar Duarte,Sal3s,Account Executive,2012/12/21,NULL,"$6,651",59,Female,13.76,3,2,high,2,2
+E-2187,Ivan Haddad,sales ,Account Executive,23 Mar 2015,N/A,6917,47,Male,11.51,3,high,3,2,3
+E-1018,  lucas ANDERSSON ,HR,HR Partner,5 May 2024,,-1,31,Female,2.39,2,3,2,3,3
+E-1941,MIGUEL Rossi,Eng.,Engineering Lead,28 Oct 2025,N/A,7790,41,Male,0.91,3,3,3,2,3
+E-1896,Oscar Weber,engineering,Engineering Lead,2019-12-15,NULL,7762,36,Female,6.78,high,3,3,high,3
+E-2310,Petra Santos,Sal3s,Account Executive,3 Jun 2024,,6218,39,Male,2.31,3,3,2,3,3
+E-1122,Wei Lindgren,Engineering ,Software Engineer,2012-07-10,,"5,944.00",42,Male,14.21,n/a,high,3,3,3
+E-1087,  vera OKAFOR ,Eng.,Software Engineer,22/02/2024,2026/09/25,5993,51,Female,2.59,3,3,3,3,3
+E-1688,  lucas DIALLO ,Engineering ,Data Engineer,2026/03/26,,5771,48,Female,0.5,3,high,3,2,3
+E-1406,Okafor Chen,engineering,QA Analyst,2020-08-04,,7720,46,Male,6.14,5,0,3,3,2
+E-2188,PAUL Silva,sales ,Account Executive,2023-12-22,,-1,33,Male,2.76,2,2,3,3,3
+E-1137,Noah Duarte,engineering,Software Engineer,25/06/2017,,"$6,996",44,Male,9.25,3,3,3,3,3
+E-2492,  nina FARAH ,sales ,Sales Manager,2018/01/31,,5446,28,Female,8.65,3,3,2,0,3
+E-1258,  li O'BRIEN ,Engineering ,Software Engineer,23 Aug 2022,N/A,"$7,189",33,Male,4.09,2,3,3,2,2
+E-1653,Okafor Diallo,Eng.,Data Engineer,2020-08-12,N/A,"$6,986",41,Male,6.12,n/a,3,5,3,3
+E-2107,  aisha GARCIA ,Sales,Account Executive,2020-08-19,N/A,6048,31,Male,6.1,3,3,3,2,3
+E-1146,Aisha Nair,Eng.,Software Engineer,2019-12-07,,7383,40,Female,6.8,3,3,3,2,2
+E-1349,  tomas NAKAMURA ,engineering,QA Analyst,20 May 2026,25 Sep 2026,"$5,346",32,Male,0.35,2,3,2,2,2
+E-1491,Aisha Wei,Engineering ,QA Analyst,11/12/2023,NULL,6827,37,Male,2.79,3,3,2,2,2
+E-2134,  maria DIALLO ,sales ,Account Executive,2024/07/17,NULL,"$6,236",40,Female,2.19,3,2,2,2,3
+E-1634,Nina Kaur,Eng.,Data Engineer,2025-12-18,,6963,30,Female,0.77,3,3,3,3,3
+E-1514,Rosa Nakamura,Eng.,QA Analyst,2021-12-07,N/A,"6,797.00",43,Female,4.8,2,3,2,2,3
+E-2034,Priya Farah,sales ,Account Executive,22 Jun 2022,2026/09/25,5385,27,Male,4.26,2,3,2,2,3
+E-2109,DAVID Wei,sales ,Account Executive,27 May 2022,,6061,48,Male,4.33,3,2,3,3,high
+E-2309,Talia Osei,Sales,Account Executive,2017-07-10,NULL,"$6,850",49,Male,9.21,3,3,3,3,2
+E-1267,  maria ANDERSSON ,engineering,Software Engineer,09/08/2022,N/A,7023,49,Male,4.13,2,2,3,3,3
+E-2484,ZOE Weber,Sal3s,Sales Manager,2019/11/23,NULL,"6,134.00",44,Male,6.84,3,2,2,3,2
+E-1510,SVEN Garcia,engineering,QA Analyst,15/03/2024,NULL,"5,997.00",18,Male,2.53,2,3,2,3,3
+E-1496,JULIA Weber,Eng.,QA Analyst,03/12/2009,,6955,40,Female,16.81,0,2,3,3,3
+E-2465,MIGUEL Farah,Sales,Sales Manager,2020/05/16,N/A,6755,47,Male,6.36,3,n/a,3,3,3
+E-1728,Sven Kim,Engineering ,Data Engineer,2022-05-06,,-1,30,Male,4.39,3,high,3,3,3
+E-1905,Julia Okafor,Engineering ,Engineering Lead,11/12/2019,N/A,-1,53,Female,6.79,3,3,3,3,2
+E-2480,Li Haddad,Sal3s,Sales Manager,2024/01/24,N/A,7206,54,Male,2.67,3,3,high,3,3
+E-1922,Sven Santos,Engineering ,Engineering Lead,2017-10-20,NULL,"5,901.00",30,Male,8.93,3,3,3,3,3
+E-2049,  priya GARCIA ,sales ,Account Executive,2023-12-11,25 Sep 2026,"$5,708",40,Female,2.79,3,3,3,2,3
+E-1167,Hana Chen,Engineering ,Software Engineer,2023-12-15,NULL,6089,36,Male,2.78,3,2,3,2,6
+E-1744,UMAR Osei,Eng.,Support Engineer,14/06/2024,2026/09/25,5300,23,Female,2.28,3,3,2,3,2
+E-1358,  talia KIM ,engineering,QA Analyst,2024-04-17,2026/09/25,"$6,379",33,Female,2.44,2,2,3,3,2
+E-1066,James Novak,Eng.,Software Engineer,2022-01-09,2026/09/25,5073,23,Male,4.71,5,3,3,2,2
+E-1449,TALIA Haddad,Engineering ,QA Analyst,2024-09-06,NULL,-1,36,Female,2.05,3,3,2,3,2
+E-1975,Omar Okafor,Eng.,Engineering Manager,2024/04/06,NULL,"$7,576",35,Male,2.47,medium,3,3,3,3
+E-2283,Sofia Okafor,Sal3s,Account Executive,06/04/2022,N/A,"$6,153",31,Female,4.47,3,high,3,2,3
+E-1756,Sven Weber,engineering,Support Engineer,18 Feb 2026,25 Sep 2026,5688,38,Male,0.6,3,3,2,3,3
+E-1763,Okafor Popescu,Eng.,Support Engineer,25/12/2021,N/A,7210,44,Female,4.75,3,3,3,3,2
+E-1375,  oscar NOVAK ,Engineering ,QA Analyst,2025/11/15,2026/09/25,"$5,942",19,Male,0.86,3,3,3,2,3
+E-2065,  emma ANDERSSON ,Sales,Account Executive,2020/09/14,25 Sep 2026,"$5,991",26,Female,6.03,2,2,n/a,3,3
+E-1112,Talia Haddad,Engineering ,Software Engineer,10 Sep 2020,N/A,7659,26,Male,6.04,high,3,2,2,3
+E-1683,Nadia Okafor,engineering,Data Engineer,2014/04/28,NULL,7285,36,Female,12.41,3,3,0,3,3
+E-2369,Kenji Silva,sales ,Sales Development Rep,23 Nov 2023,2026/09/25,5271,42,Female,2.84,3,3,3,2,3
+E-1645,QUINN Farah,Eng.,Data Engineer,2011-12-18,,7263,23,Female,14.77,3,3,3,2,3
+E-2043,Ivan Popescu,sales ,Account Executive,25 Jun 2024,25/09/2026,5768,24,Male,2.25,high,3,2,2,3
+E-1011,Hana Santos,HR,HR Partner,2022-07-18,NULL,4899,58,Female,4.19,0,3,2,3,3
+E-1329,Carlos Kaur,engineering,Software Engineer,7 Feb 2020,N/A,-1,29,Female,6.63,3,2,3,medium,2
+E-1982,Sven Silva,Eng.,Engineering Manager,29/02/2020,,6724,45,Female,6.57,3,n/a,3,3,3
+E-1361,EMMA Silva,Eng.,QA Analyst,2024/08/08,25/09/2026,"$5,707",27,Male,2.13,3,2,3,3,3
+E-1241,Yusuf Lindgren,Eng.,Software Engineer,10/09/2020,N/A,6901,37,Female,6.04,2,3,3,3,3
+E-1134,Hana Weber,Eng.,Software Engineer,26 Feb 2020,,"$8,249",32,Female,6.58,3,3,3,2,2
+E-1697,Li Smith,Eng.,Data Engineer,23/11/2023,,"$7,552",35,Male,2.84,3,3,3,3,3
+E-2272,Umar Kowalski,Sal3s,Account Executive,2020-02-04,,6184,40,Male,6.64,2,3,n/a,2,3
+E-1605,Ivan Nair,Engineering ,Data Engineer,2022/01/20,2026/09/25,"$6,552",39,Male,4.68,3,2,2,3,3
+E-1319,Lara Wei,Engineering ,Software Engineer,11 Nov 2025,,6628,27,Male,0.87,2,3,3,2,3
+E-1463,Emma Nair,Engineering ,QA Analyst,15 Nov 2016,N/A,6761,38,Female,9.86,3,n/a,3,3,n/a
+E-2462,ANNA Wei,sales ,Sales Manager,2018/03/08,NULL,"$4,742",54,Female,8.55,3,2,3,high,n/a
+E-1053,Petra Chen,human resources ,HR Manager,2005-09-21,NULL,5025,26,Female,21.01,3,3,3,2,3
+E-1295,Tomas Rossi,Engineering ,Software Engineer,2021-10-02,,7773,34,Male,4.98,3,3,3,3,3
+E-1174,  paul SILVA ,engineering,Software Engineer,2021-09-28,NULL,7522,35,Male,4.99,3,2,2,3,3
+E-1485,Mei Smith,Eng.,QA Analyst,2020-03-30,NULL,6945,42,Male,6.49,2,3,medium,3,3
+E-1116,  okafor NOVAK ,Eng.,Software Engineer,2008/10/24,,6844,53,Female,17.92,3,n/a,5,2,2
+E-2194,Lara Smith,sales ,Account Executive,2026/07/21,N/A,"$5,248",34,Female,0.18,3,3,2,high,3
+E-1644,Fatima Weber,engineering,Data Engineer,17 Apr 2022,N/A,7349,29,Male,4.44,3,3,3,high,2
+E-1580,Lucas Weber,Engineering ,QA Analyst,09/08/2022,N/A,"$5,763",35,Male,4.13,n/a,3,n/a,3,2
+E-2245,James Okafor,Sales,Account Executive,22 Jun 2022,,7328,33,Female,4.26,3,3,3,2,3
+E-2208,Fatima Ivanov,Sales,Account Executive,2024-03-04,,-1,19,Male,2.56,3,3,3,0,3
+E-1389,  mei WEBER ,Eng.,QA Analyst,21/09/2026,2026/09/25,5691,34,Female,0.01,2,3,2,high,3
+E-1901,  priya HADDAD ,engineering,Engineering Lead,24 May 2018,N/A,"$7,280",52,Male,8.34,2,3,3,3,2
+E-1585,FATIMA Okafor,engineering,QA Analyst,2018-07-29,N/A,6553,46,Male,8.16,0,3,3,3,2
+E-1026,CARLOS Smith,Human Resources,HR Partner,2014/04/28,NULL,"5,402.00",37,Female,12.41,high,n/a,2,3,3
+E-2495,Igor Nair,Sal3s,Sales Manager,2014-02-11,NULL,6412,43,Female,12.62,3,3,3,3,n/a
+E-1068,Mei Popescu,engineering,Software Engineer,14 Dec 2025,2026-09-25,"$6,137",40,Female,0.78,3,3,3,2,3
+E-1311,  david O'BRIEN ,engineering,Software Engineer,3 Apr 2022,N/A,7527,38,Male,4.48,3,5,3,2,3
+E-1532,  james IVANOV ,Engineering ,QA Analyst,2021-10-09,NULL,7884,33,Male,4.96,n/a,2,3,3,3
+E-2045,Julia Silva,Sales,Account Executive,12 Jan 2026,2026-09-25,"5,512.00",29,Male,0.7,3,2,2,2,3
+E-2472,  li POPESCU ,Sales,Sales Manager,03/09/2020,N/A,6618,55,Male,6.06,3,n/a,3,high,3
+E-1013,Carlos Andersson,human resources ,HR Partner,2012/11/18,NULL,4853,53,Female,13.85,3,high,2,3,2
+E-2013,Igor Rossi,Eng.,Engineering Manager,09/08/2018,N/A,6847,53,Male,8.13,3,3,3,3,3
+E-1902,Fatima Diallo,engineering,Engineering Lead,18 Jul 2022,N/A,7914,54,Female,4.19,3,3,2,3,3
+E-1542,MIGUEL Kaur,engineering,QA Analyst,2 Jan 2024,,"7,078.00",49,Male,2.73,3,2,3,3,2
+E-1289,  john SMITH ,engineering,Software Engineer,2014/07/29,,6136,46,Female,12.16,3,2,3,3,2
+E-1070,Umar Nair,Eng.,Software Engineer,2012/09/03,2026-09-25,6556,26,Male,14.06,n/a,2,3,3,n/a
+E-1951,Grace Rossi,Engineering ,Engineering Lead,17/10/2025,N/A,"6,952.00",59,Male,0.94,2,2,2,3,2
+E-1251,JAMES Duarte,engineering,Software Engineer,2006/03/19,N/A,8534,24,Male,20.52,3,3,3,3,3
+E-1384,Priya Weber,Engineering ,QA Analyst,2026/01/16,2026-09-25,"$5,416",42,Male,0.69,2,2,3,3,3
+E-1505,Noah Nakamura,Eng.,QA Analyst,2018-06-22,,"$6,956",23,Male,8.26,2,2,2,2,3
+E-1063,  noah OSEI ,Eng.,Software Engineer,5 Aug 2026,2026/09/25,5173,24,Male,0.14,3,3,3,2,3
+E-1446,  paul KAUR ,engineering,QA Analyst,2024-04-02,NULL,"$6,511",52,Female,2.48,2,3,3,3,3
+E-1481,Emma Osei,Eng.,QA Analyst,2017/10/09,N/A,-1,45,Female,8.96,3,2,2,n/a,3
+E-1348,Oscar O'Brien,Eng.,QA Analyst,2026-03-15,2026/09/25,5573,20,Male,0.53,medium,3,2,n/a,2
+E-2200,  fatima KOWALSKI ,Sales,Account Executive,07/12/2025,,6795,54,Female,0.8,3,2,3,3,3
+E-1777,Hana Kowalski,engineering,Support Engineer,2022-08-01,,"6,892.00",55,Female,4.15,n/a,high,3,2,3
+E-1670,Julia Santos,Eng.,Data Engineer,2022/06/11,,7476,29,Male,4.29,2,3,3,3,high
+E-1079,  james SANTOS ,Eng.,Software Engineer,2024/08/23,25/09/2026,5917,20,Male,2.09,3,3,3,3,3
+E-1262,  maria CHEN ,Engineering ,Software Engineer,5 Aug 2015,,"6,308.00",20,Female,11.14,3,2,3,3,high
+E-1591,Noah Kim,engineering,Data Engineer,2017-02-10,25/09/2026,"6,197.00",49,Male,9.62,3,3,3,3,3
+E-2192,Zoe Lindgren,sales ,Account Executive,2007/08/27,N/A,6787,45,Female,19.08,2,3,3,medium,2
+E-1423,  priya DIALLO ,Engineering ,QA Analyst,2023/10/03,,5857,58,Male,2.98,3,3,6,3,2
+E-1937,  hana KIM ,engineering,Engineering Lead,30/08/2018,,-1,23,Male,8.07,3,2,3,3,3
+E-1689,Umar Lindgren,Engineering ,Data Engineer,2022/03/04,NULL,7106,37,Male,4.56,3,high,3,n/a,3
+E-1168,Miguel Okafor,Eng.,Software Engineer,02/10/2021,NULL,7497,26,Female,4.98,3,2,3,3,3
+E-1846,  priya O'BRIEN ,engineering,Support Engineer,28/04/2024,N/A,"$6,973",57,Female,2.41,2,2,3,3,3
+E-1654,  vera KAUR ,engineering,Data Engineer,24/07/2020,NULL,7605,33,Male,6.17,5,3,2,3,3
+E-2296,FATIMA Weber,sales ,Account Executive,12/08/2024,NULL,6383,41,Female,2.12,3,3,3,3,2
+E-1892,Tomas Kowalski,Engineering ,Engineering Lead,17 Oct 2021,NULL,7128,44,Female,4.94,3,3,3,3,2
+E-2141,PRIYA Silva,Sal3s,Account Executive,2024/01/13,N/A,"6,478.00",34,Male,2.7,high,high,3,3,2
+E-2205,ROSA Andersson,sales ,Account Executive,2021-12-25,N/A,"$6,532",26,Male,4.75,2,3,3,3,3
+E-1676,  aisha OSEI ,Eng.,Data Engineer,25/07/2022,N/A,-1,54,Male,4.17,3,3,2,2,3
+E-1159,Priya Popescu,Eng.,Software Engineer,21/09/2020,NULL,6999,47,Female,6.01,3,3,3,high,2
+E-1001,Zoe Diallo,Human Resources,HR Partner,2024/03/08,2026/09/25,"3,782.00",39,Female,2.55,3,2,5,3,2
+E-2422,Rosa Wei,Sales,Sales Development Rep,17/10/2021,,6723,32,Male,4.94,2,3,2,3,3
+E-1536,Nadia Santos,engineering,QA Analyst,2026-04-17,NULL,7004,39,Male,0.44,3,6,3,2,n/a
+E-1524,MARIA Rossi,Eng.,QA Analyst,9 May 2020,,7069,32,Female,6.38,2,3,2,2,2
+E-1504,Tomas Kaur,Eng.,QA Analyst,29/12/2025,NULL,"6,539.00",37,Male,0.74,3,3,6,3,medium
+E-2345,Vera Garcia,sales ,Account Executive,2022/02/11,N/A,"6,561.00",33,Male,4.62,3,2,3,3,3
+E-1017,Wei Weber,Human Resources,HR Partner,04/06/2022,N/A,"$5,360",43,Female,4.31,2,3,6,3,3
+E-2297,Tomas Kim,Sales,Account Executive,6 Oct 2021,N/A,6760,28,Male,4.97,3,2,3,2,2
+E-2491,Lucas Weber,sales ,Sales Manager,19 Mar 2026,,6074,28,Male,0.52,n/a,high,3,3,2
+E-2481,LUCAS Smith,Sales,Sales Manager,04/08/2008,,6512,43,Female,18.14,3,2,5,2,2
+E-2496,Vera Kim,Sal3s,Sales Manager,2007-05-28,NULL,"$5,672",46,Male,19.33,n/a,3,2,3,3
+E-2175,LARA Diallo,sales ,Account Executive,05/01/2017,N/A,"5,810.00",27,Male,9.72,2,2,3,3,3
+E-2291,Carlos Duarte,sales ,Account Executive,16/01/2026,,6590,38,Female,0.69,3,3,2,3,3
+E-2282,  oscar KIM ,Sal3s,Account Executive,13/05/2015,N/A,7227,51,Female,11.37,3,3,2,3,3
+E-1144,Talia Osei,Eng.,Software Engineer,31 Jan 2022,NULL,"$6,901",19,Male,4.65,2,3,3,3,3
+E-1400,Vera Weber,engineering,QA Analyst,4 Nov 2014,,6913,41,Male,11.89,3,2,3,2,3
+E-1302,Noah Diallo,Eng.,Software Engineer,30 Nov 2019,N/A,"6,859.00",37,Male,6.82,3,3,3,2,3
+E-2166,MEI Popescu,Sales,Account Executive,7 Feb 2024,,6668,40,Male,2.63,3,3,2,3,3
+E-1486,  lucas SILVA ,engineering,QA Analyst,2022/05/09,NULL,6951,42,Male,4.38,medium,3,2,2,2
+E-1415,James Chen,Eng.,QA Analyst,18/02/2006,,-1,45,Male,20.6,3,3,6,2,0
+E-2168,Okafor Lindgren,Sal3s,Account Executive,18/06/2018,NULL,5487,28,Female,8.27,2,3,3,3,3
+E-2270,  grace O'BRIEN ,Sal3s,Account Executive,22/02/2018,,-1,45,Female,8.59,2,3,3,0,3
+E-2210,CARLOS Popescu,Sal3s,Account Executive,2021-11-15,NULL,6370,34,Female,4.86,3,high,3,3,3
+E-1844,  paul OSEI ,Engineering ,Support Engineer,11 Feb 2024,N/A,7266,41,Male,2.62,high,3,2,3,2
+E-1192,PETRA Osei,engineering,Software Engineer,2026/06/26,N/A,5551,56,Male,0.25,3,2,2,2,3
+E-1793,Maria Kim,Engineering ,Support Engineer,2024/07/21,N/A,-1,36,Female,2.18,3,2,3,3,2
+E-1392,OSCAR Weber,Eng.,QA Analyst,2013-09-21,2026-09-25,7085,33,Female,13.01,3,3,2,3,2
+E-1656,  miguel KOWALSKI ,Engineering ,Data Engineer,2026/01/16,NULL,7699,32,Male,0.69,3,3,n/a,2,3
+E-1918,Okafor Duarte,engineering,Engineering Lead,2020-03-19,NULL,6720,36,Female,6.52,n/a,2,5,3,2
+E-1862,Lucas Wei,Engineering ,Support Engineer,11/12/2023,NULL,6886,30,Female,2.79,2,3,3,3,2
+E-2416,Julia Kim,sales ,Sales Development Rep,24 Oct 2019,N/A,"6,498.00",57,Male,6.92,3,2,3,3,3
+E-2235,Wei Rossi,sales ,Account Executive,2017/04/24,,5888,47,Male,9.42,2,3,2,3,3
+E-2181,  yusuf SANTOS ,Sal3s,Account Executive,2018/07/21,,6151,33,Female,8.18,3,3,3,n/a,3
+E-2033,Petra Garcia,Sal3s,Account Executive,9 Aug 2026,25 Sep 2026,5212,31,Male,0.13,2,3,2,3,3
+E-1522,Lucas O'Brien,Eng.,QA Analyst,15 Aug 2024,,7015,25,Male,2.11,3,2,3,3,2
+E-2017,Hana Diallo,Engineering ,Engineering Manager,18/02/2024,,7155,18,Female,2.6,3,3,2,3,3
+E-2360,Talia Garcia,Sal3s,Sales Development Rep,2026/05/13,2026/09/25,5230,36,Female,0.37,n/a,3,2,3,2
+E-1430,Sven Nair,Eng.,QA Analyst,2017/07/17,NULL,-1,45,Male,9.19,2,3,medium,3,5
+E-1103,ROSA Duarte,Engineering ,Software Engineer,2022/05/02,N/A,6750,27,Male,4.4,3,3,2,3,3
+E-1394,  aisha KAUR ,Engineering ,QA Analyst,8 Mar 2022,25/09/2026,"5,873.00",45,Male,4.55,3,0,3,3,3
+E-1365,  oscar KAUR ,Engineering ,QA Analyst,2021-10-13,25/09/2026,5350,36,Male,4.95,3,3,high,3,2
+E-1939,Fatima Silva,Engineering ,Engineering Lead,2024/03/22,,"5,735.00",61,Male,2.51,3,6,2,3,3
+E-2404,Talia Kaur,Sal3s,Sales Development Rep,28 Apr 2017,,6249,41,Female,9.41,3,2,3,2,3
+E-1915,Tomas O'Brien,engineering,Engineering Lead,2021-09-28,N/A,-1,54,Male,4.99,3,3,2,3,3
+E-1864,Wei Okafor,Eng.,Support Engineer,29/11/2021,N/A,-1,31,Female,4.82,3,n/a,2,2,3
+E-1028,Aisha Nakamura,HR,HR Partner,09/01/2024,,4927,49,Female,2.71,3,3,2,3,3
+E-2232,Li Smith,Sales,Account Executive,14 Oct 2023,,6093,52,Male,2.95,2,3,n/a,n/a,3
+E-1048,Okafor Nakamura,Human Resources,HR Manager,2024-08-15,25/09/2026,5122,31,Male,2.11,3,3,3,6,3
+E-2203,Li Santos,Sal3s,Account Executive,01/08/2014,N/A,5787,35,Female,12.15,high,3,3,6,3
+E-1352,Talia Garcia,Eng.,QA Analyst,29 Nov 2025,25 Sep 2026,"$6,498",35,Male,0.82,3,high,3,2,2
+E-1256,OMAR Popescu,engineering,Software Engineer,20 May 2022,,"8,172.00",31,Male,4.35,3,3,3,3,n/a
+E-1948,Lucas Osei,Eng.,Engineering Lead,2007-10-14,NULL,"7,221.00",43,Male,18.95,3,3,3,3,3
+E-2164,Hana Okafor,Sal3s,Account Executive,07/07/2015,,5491,46,Female,11.22,2,3,2,high,3
+E-1482,DAVID Diallo,Eng.,QA Analyst,2018/04/03,,"7,240.00",46,Male,8.48,3,3,3,3,2
+E-2331,Fatima Silva,Sal3s,Account Executive,2020-05-31,,"6,913.00",44,Male,6.32,2,3,3,5,n/a
+E-2444,Wei O'Brien,sales ,Sales Development Rep,2017/01/12,,-1,29,Male,9.7,2,3,3,3,3
+E-2388,Nadia Novak,Sal3s,Sales Development Rep,2020-09-24,NULL,-1,38,Male,6.0,2,3,3,3,3
+E-2112,Julia Silva,sales ,Account Executive,27/08/2017,NULL,6132,36,Female,9.08,2,2,3,3,3
+E-1081,JULIA Novak,engineering,Software Engineer,2021/11/15,25 Sep 2026,"$5,327",27,Female,4.86,3,3,3,2,3
+E-1534,Zoe Popescu,Eng.,QA Analyst,01/03/2022,NULL,"7,299.00",27,Female,4.57,2,3,2,3,3
+E-2379,Priya Diallo,sales ,Sales Development Rep,3 Apr 2022,2026-09-25,5607,34,Male,4.48,2,3,3,3,3
+E-1899,  fatima SANTOS ,Eng.,Engineering Lead,2024/08/01,NULL,"$6,286",44,Male,2.15,2,3,3,3,2
+E-1750,WEI Osei,Eng.,Support Engineer,08/03/2026,25 Sep 2026,6247,22,Female,0.55,3,medium,3,high,3
+E-2127,Rosa Kim,Sal3s,Account Executive,2021-10-24,,-1,49,Male,4.92,3,3,high,2,2
+E-2127,ROSA KIM,Sal3s,Account Executive,2021-10-24,,-1,49,Male,4.92,3,3,high,2,2
+E-1801,  rosa NAIR ,engineering,Support Engineer,04/11/2017,NULL,7391,35,Female,8.89,3,2,3,3,n/a
+E-1271,Aisha Smith,engineering,Software Engineer,2026/07/10,N/A,"$6,742",50,Female,0.21,2,2,3,n/a,3
+E-1315,  yusuf ANDERSSON ,engineering,Software Engineer,07/02/2026,NULL,-1,40,Male,0.63,3,3,3,3,3
+E-2467,Kenji Novak,sales ,Sales Manager,19 Mar 2024,NULL,6420,64,Female,2.52,high,2,2,3,3
+E-1515,Hana Novak,engineering,QA Analyst,17/04/2017,,"6,626.00",56,Male,9.44,3,2,3,n/a,3
+E-2448,  maria WEI ,Sal3s,Sales Development Rep,09/01/2024,,5579,36,Female,2.71,3,2,2,2,3
+E-2328,KENJI Santos,Sal3s,Account Executive,7 Jun 2018,NULL,"6,424.00",28,Female,8.3,3,3,3,3,3
+E-1740,QUINN Kaur,engineering,Support Engineer,2024/05/23,2026/09/25,5642,31,Male,2.34,3,3,0,2,2
+E-1929,  talia SILVA ,Eng.,Engineering Lead,7 Feb 2024,N/A,-1,30,Male,2.63,3,3,3,3,3
+E-1494,Priya Silva,engineering,QA Analyst,2024-03-26,,5531,45,Male,2.5,medium,3,2,2,n/a
+E-2026,Fatima Kowalski,Sales,Account Executive,2024/04/02,25 Sep 2026,5137,33,Male,2.48,3,3,2,3,3
+E-2002,MEI Andersson,engineering,Engineering Manager,2024/05/31,N/A,6659,34,Female,2.32,3,3,2,3,3
+E-1015,Rosa Santos,Human Resources,HR Partner,2024/01/20,N/A,5836,54,Female,2.68,6,3,3,3,3
+E-1303,  james GARCIA ,Engineering ,Software Engineer,2014/12/29,,6712,34,Female,11.74,3,3,3,3,2
+E-1544,NINA Weber,Eng.,QA Analyst,02/05/2026,,"$7,452",43,Male,0.4,3,0,3,2,3
+E-1706,Okafor Chen,engineering,Data Engineer,2026-03-19,N/A,6953,53,Female,0.52,3,3,2,n/a,2
+E-1726,Quinn Weber,Eng.,Data Engineer,2007-11-15,NULL,6727,36,Female,18.86,3,3,3,3,3
+E-1762,AISHA Okafor,Engineering ,Support Engineer,09/08/2022,NULL,"7,288.00",44,Male,4.13,3,3,3,3,high
+E-1359,Paul Haddad,Eng.,QA Analyst,2026/09/03,25/09/2026,5907,18,Female,0.06,3,3,3,3,2
+E-1530,CARLOS Osei,Engineering ,QA Analyst,2026/07/18,,"$7,099",25,Male,0.19,3,2,3,3,3
+E-1229,Vera Silva,engineering,Software Engineer,03/06/2024,NULL,6868,48,Female,2.31,3,3,3,2,3
+E-1955,Vera Ivanov,engineering,Engineering Manager,2020-08-30,2026/09/25,5464,31,Male,6.07,3,3,2,3,2
+E-1600,Mei Okafor,Eng.,Data Engineer,31/10/2025,25/09/2026,5989,33,Male,0.9,2,3,3,3,high
+E-1796,Carlos Ivanov,Eng.,Support Engineer,29 Jun 2024,N/A,"6,732.00",45,Male,2.24,3,3,3,2,2
+E-1971,Rosa Nair,engineering,Engineering Manager,02/05/2022,,-1,35,Female,4.4,3,3,3,high,3
+E-1412,CARLOS Smith,Eng.,QA Analyst,2024/02/22,,"5,864.00",32,Female,2.59,2,medium,2,2,3
+E-1884,  umar NAIR ,Eng.,Engineering Lead,1 Aug 2022,,7343,38,Male,4.15,3,high,3,3,3
+E-1263,Lara Haddad,Eng.,Software Engineer,3 Apr 2018,NULL,8338,40,Male,8.48,2,2,3,3,2
+E-1648,  umar NAKAMURA ,Eng.,Data Engineer,30/08/2024,N/A,6861,57,Female,2.07,3,3,2,6,3
+E-1749,Maria Silva,engineering,Support Engineer,2022/06/07,25 Sep 2026,5429,20,Female,4.3,3,3,2,3,3
+E-1328,MARIA Rossi,engineering,Software Engineer,19 Mar 2024,,7219,41,Male,2.52,2,n/a,high,n/a,medium
+E-2384,  lara KAUR ,Sal3s,Sales Development Rep,7 Feb 2020,,6551,26,Female,6.63,2,2,3,2,3
+E-2464,Umar Nair,Sal3s,Sales Manager,2026-06-04,N/A,6767,57,Female,0.31,0,3,3,3,3
+E-1274,Kenji Lindgren,Engineering ,Software Engineer,1 Mar 2013,NULL,5940,37,Female,13.57,3,2,3,2,3
+E-1212,  petra KIM ,Eng.,Software Engineer,2017-10-28,NULL,7945,27,Male,8.91,0,3,high,3,2
+E-1316,  oscar IVANOV ,Engineering ,Software Engineer,2022/08/16,,6156,52,Male,4.11,3,2,3,3,3
+E-1493,Tomas Okafor,Engineering ,QA Analyst,2022/01/05,,6914,31,Female,4.72,2,n/a,3,2,3
+E-2460,Ivan O'Brien,Sales,Sales Manager,15 Nov 2025,N/A,6536,35,Female,0.86,2,high,5,n/a,3
+E-1092,Mei Rossi,engineering,Software Engineer,23/05/2020,2026-09-25,6468,24,Female,6.34,3,3,3,3,n/a
+E-2364,Nina Smith,sales ,Sales Development Rep,9 Aug 2022,25/09/2026,5467,48,Male,4.13,2,3,3,2,3
+E-1815,Vera Ivanov,engineering,Support Engineer,06/09/2020,N/A,5772,37,Male,6.05,6,high,2,3,3
+E-1717,Carlos Haddad,engineering,Data Engineer,10/04/2017,,6239,31,Male,9.46,5,3,2,3,3
+E-1960,  talia HADDAD ,Engineering ,Engineering Manager,30 Mar 2026,NULL,6916,37,Male,0.49,3,3,3,3,3
+E-1622,Wei Kim,engineering,Data Engineer,2024/04/02,N/A,"6,471.00",34,Male,2.48,3,3,3,3,3
+E-1221,Zoe Santos,engineering,Software Engineer,2017/01/19,NULL,7232,22,Male,9.68,3,3,3,n/a,2
+E-1093,  hana DIALLO ,Eng.,Software Engineer,1 Mar 2026,25 Sep 2026,6700,65,Male,0.57,3,2,3,n/a,3
+E-2151,  vera SMITH ,sales ,Account Executive,2011/12/29,NULL,-1,39,Male,14.74,high,2,3,3,high
+E-2305,  umar DUARTE ,Sales,Account Executive,2020-04-06,N/A,"5,404.00",47,Male,6.47,medium,3,high,2,3
+E-2338,  oscar KAUR ,sales ,Account Executive,2020-09-24,N/A,6498,18,Male,6.0,3,2,3,n/a,3
+E-1920,Nina Weber,engineering,Engineering Lead,18 Jun 2017,,-1,26,Female,9.27,3,3,5,3,3
+E-1558,Lucas Rossi,engineering,QA Analyst,2025-11-08,NULL,6267,48,Female,0.88,3,2,6,2,6
+E-1266,Sofia Chen,Eng.,Software Engineer,2012-01-20,,7027,39,Female,14.68,3,3,3,2,2
+E-2228,Fatima Ivanov,Sal3s,Account Executive,25/02/2022,,6318,40,Male,4.58,3,3,3,3,3
+E-1601,Aisha Diallo,engineering,Data Engineer,14/12/2025,25 Sep 2026,5164,27,Female,0.78,high,medium,2,3,2
+E-1797,Tomas Nair,Eng.,Support Engineer,2017-04-06,NULL,5743,27,Male,9.47,2,n/a,3,3,3
+E-2098,Umar Weber,Sal3s,Account Executive,2005-10-09,NULL,5713,26,Female,20.96,3,6,3,3,high
+E-1540,Hana Lindgren,engineering,QA Analyst,2024-06-14,,6461,51,Male,2.28,2,high,2,2,3
+E-2154,Anna Andersson,Sales,Account Executive,2020-07-06,N/A,5476,24,Male,6.22,2,3,2,2,3
+E-1776,Zoe Novak,Engineering ,Support Engineer,25/02/2017,N/A,7370,20,Female,9.58,2,3,high,3,3
+E-1904,Priya Lindgren,Eng.,Engineering Lead,12/08/2024,,"7,299.00",40,Male,2.12,3,3,3,3,2
+E-2216,QUINN Duarte,Sal3s,Account Executive,21 Sep 2024,,-1,40,Male,2.01,2,3,3,2,3
+E-2260,  tomas KIM ,sales ,Account Executive,26/03/2020,NULL,6152,34,Female,6.5,medium,3,3,2,2
+E-1997,Sven Okafor,engineering,Engineering Manager,13 Apr 2020,N/A,"$6,864",32,Male,6.45,3,3,3,3,2
+E-1488,  wei ANDERSSON ,Eng.,QA Analyst,2020/02/07,,"7,472.00",35,Male,6.63,3,3,3,2,3
+E-1040,Sofia Garcia,Human Resources,HR Partner,22 Jun 2018,N/A,4329,52,Male,8.26,3,3,2,3,3
+E-1313,  wei SMITH ,Engineering ,Software Engineer,2017/09/10,N/A,"7,275.00",27,Male,9.04,3,medium,3,3,2
+E-1650,  lara GARCIA ,engineering,Data Engineer,2019-12-04,,"6,236.00",37,Female,6.81,3,3,medium,3,2
+E-1826,Zoe Rossi,Eng.,Support Engineer,03/12/2021,NULL,-1,49,Male,4.81,3,3,2,2,3
+E-1223,Sofia Haddad,Eng.,Software Engineer,2019-12-22,NULL,"$8,284",36,Male,6.76,3,3,3,3,3
+E-1863,  quinn WEI ,Eng.,Support Engineer,2021-10-06,NULL,7852,36,Male,4.97,2,3,3,3,3
+E-2217,Carlos Silva,sales ,Account Executive,2020/01/06,NULL,-1,43,Female,6.72,3,3,2,n/a,3
+E-2452,Umar Kim,Sal3s,Sales Manager,2024-05-01,2026-09-25,5867,48,Female,2.4,3,3,3,2,3
+E-2195,Julia Silva,sales ,Account Executive,27/01/2022,N/A,6672,25,Female,4.66,3,2,3,2,3
+E-1397,Umar Farah,Eng.,QA Analyst,30/08/2026,25 Sep 2026,6372,30,Male,0.07,2,3,2,3,3
+E-1916,ZOE Osei,engineering,Engineering Lead,08/08/2024,NULL,-1,31,Male,2.13,6,3,3,3,3
+E-1059,John Smith,human resources ,HR Manager,2022/01/12,N/A,-1,49,Female,4.7,3,3,2,high,3
+E-1207,PRIYA Garcia,Eng.,Software Engineer,24/10/2023,NULL,"7,936.00",56,Male,2.92,3,2,3,3,n/a
+E-1671,  fatima ROSSI ,Eng.,Data Engineer,10/04/2026,N/A,7144,28,Female,0.46,3,3,3,3,2
+E-1246,Okafor Santos,engineering,Software Engineer,2013-10-31,,7868,31,Male,12.9,3,3,3,3,3
+E-1023,Paul Lindgren,HR,HR Partner,2019/10/17,N/A,5228,28,Male,6.94,n/a,3,2,3,3
+E-1999,Miguel Diallo,engineering,Engineering Manager,2023-11-12,,"$7,322",45,Male,2.87,3,3,3,3,3
+E-1281,Noah Andersson,Eng.,Software Engineer,20 Oct 2012,N/A,5876,26,Female,13.93,3,3,2,n/a,2
+E-1598,Tomas Duarte,Engineering ,Data Engineer,9 Jan 2026,25 Sep 2026,6915,26,Male,0.71,3,2,3,3,3
+E-1847,Emma Diallo,engineering,Support Engineer,2026-05-09,,6705,29,Male,0.38,3,3,3,3,3
+E-1451,Igor Weber,Eng.,QA Analyst,2024/08/04,N/A,-1,28,Female,2.14,medium,3,2,3,2
+E-2247,  omar NAIR ,sales ,Account Executive,07/12/2023,N/A,"6,353.00",40,Female,2.8,3,2,3,2,3
+E-2236,Miguel Diallo,sales ,Account Executive,2021/12/18,N/A,"$6,528",43,Female,4.77,3,3,3,3,3
+E-1769,Grace Andersson,Eng.,Support Engineer,2021-10-24,N/A,"8,017.00",37,Female,4.92,5,3,2,3,n/a
+E-1402,Igor Andersson,engineering,QA Analyst,2026/03/04,N/A,"$7,085",19,Male,0.56,3,3,3,3,2
+E-1273,  aisha KOWALSKI ,Engineering ,Software Engineer,2023/12/15,N/A,6079,42,Male,2.78,high,3,3,3,2
+E-1833,  igor POPESCU ,Engineering ,Support Engineer,21 Oct 2023,,6645,26,Female,2.93,3,3,2,medium,3
+E-1958,Wei Kim,Engineering ,Engineering Manager,12 Aug 2026,2026/09/25,5421,25,Female,0.12,3,3,3,3,3
+E-1832,Hana Diallo,engineering,Support Engineer,2015-05-20,,6354,47,Male,11.35,3,3,3,2,5
+E-1818,Noah Weber,Eng.,Support Engineer,25/06/2020,NULL,7887,59,Female,6.25,3,3,3,2,3
+E-1803,Sven Ivanov,engineering,Support Engineer,2016-12-14,NULL,7005,49,Male,9.78,high,2,n/a,3,3
+E-1924,James Rossi,Eng.,Engineering Lead,25 Sep 2021,N/A,6889,37,Male,5.0,high,3,2,3,3
+E-1511,Tomas Nakamura,Engineering ,QA Analyst,2015-01-31,NULL,5585,28,Female,11.65,3,3,2,high,3
+E-1944,MEI Okafor,engineering,Engineering Lead,2021/10/09,NULL,6652,27,Male,4.96,3,3,3,3,3
+E-1860,Li Haddad,Engineering ,Support Engineer,2017-08-27,,"$8,187",48,Female,9.08,2,2,3,3,3
+E-2029,AISHA Nair,sales ,Account Executive,04/08/2024,2026/09/25,6113,33,Male,2.14,2,3,3,2,n/a
+E-2275,  noah NAIR ,Sal3s,Account Executive,19/08/2020,NULL,6344,34,Male,6.1,3,3,2,3,3
+E-2189,Emma Okafor,Sales,Account Executive,2011/10/06,N/A,"6,918.00",65,Male,14.97,3,3,2,2,0
+E-1390,David Farah,Engineering ,QA Analyst,2026/06/29,25 Sep 2026,5332,28,Male,0.24,3,2,3,2,2
+E-1993,UMAR Duarte,Eng.,Engineering Manager,20 Oct 2021,,"$7,226",28,Male,4.93,2,3,3,3,3
+E-2152,PETRA Wei,sales ,Account Executive,05/05/2017,,6745,42,Male,9.39,3,0,3,high,3
+E-1072,  omar IVANOV ,Engineering ,Software Engineer,2026/03/19,2026-09-25,6362,49,Male,0.52,2,3,3,3,3
+E-1202,NOAH Garcia,engineering,Software Engineer,2024/03/04,,6231,39,Female,2.56,3,3,3,2,3
+E-2493,Yusuf Rossi,Sales,Sales Manager,2022/01/27,NULL,5434,33,Male,4.66,2,3,high,3,3
+E-1035,DAVID Duarte,HR,HR Partner,29 Nov 2012,NULL,-1,38,Male,13.82,3,3,2,3,3
+E-1687,  james DIALLO ,Engineering ,Data Engineer,2026-01-01,,6890,42,Female,0.73,3,3,high,6,2
+E-1606,LARA Weber,Eng.,Data Engineer,2021/11/15,N/A,7528,31,Male,4.86,3,3,3,3,3
+E-1751,OSCAR Chen,engineering,Support Engineer,2024-02-18,25/09/2026,-1,39,Male,2.6,3,3,3,3,3
+E-2306,Vera Osei,sales ,Account Executive,15 Dec 2023,,6002,44,Female,2.78,2,3,3,3,3
+E-1964,ZOE Kim,Engineering ,Engineering Manager,14/04/2026,N/A,-1,56,Female,0.45,3,3,medium,3,3
+E-1312,Lucas Wei,Eng.,Software Engineer,15 Feb 2024,,-1,19,Female,2.61,3,3,3,3,3
+E-1603,  nadia OSEI ,Engineering ,Data Engineer,24/10/2025,25/09/2026,"5,990.00",33,Male,0.92,3,2,2,3,3
+E-2186,NINA Ivanov,Sal3s,Account Executive,2021/10/09,NULL,"$6,489",46,Male,4.96,3,2,3,2,0
+E-1767,PETRA Osei,Engineering ,Support Engineer,2023-09-29,N/A,7730,43,Female,2.99,3,3,n/a,3,3
+E-1037,  nina KOWALSKI ,HR,HR Partner,6 Jan 2020,N/A,4591,65,Male,6.72,2,2,3,0,high
+E-2007,Julia Santos,Eng.,Engineering Manager,2021-12-29,N/A,7574,33,Male,4.74,3,2,n/a,3,3
+E-2114,PRIYA Garcia,Sal3s,Account Executive,2006/06/22,NULL,6764,48,Male,20.26,6,3,2,3,3
+E-2182,Fatima Okafor,sales ,Account Executive,28/04/2018,,-1,27,Female,8.41,3,2,3,3,3
+E-1106,Petra Ivanov,Engineering ,Software Engineer,22 Feb 2022,,7039,23,Female,4.59,3,5,3,3,3
+E-1517,  tomas NOVAK ,Eng.,QA Analyst,2017/04/10,,6934,23,Male,9.46,2,3,high,2,3
+E-1462,Paul Diallo,Engineering ,QA Analyst,2022-05-31,,7382,32,Male,4.32,high,2,3,5,2
+E-2094,Kenji Haddad,Sales,Account Executive,17 Apr 2020,NULL,-1,30,Male,6.44,3,3,3,3,n/a
+E-1276,VERA O'Brien,Eng.,Software Engineer,2014/01/27,N/A,"6,982.00",43,Male,12.66,3,2,2,2,3
+E-1827,  yusuf OSEI ,Engineering ,Support Engineer,13/01/2024,N/A,"7,087.00",47,Female,2.7,3,3,3,3,3
+E-1220,KENJI Lindgren,Engineering ,Software Engineer,2017-06-14,N/A,"6,108.00",35,Female,9.28,2,2,3,3,2
+E-2390,Li Popescu,sales ,Sales Development Rep,2024-01-24,,5959,59,Male,2.67,2,2,3,high,3
+E-1966,  igor NOVAK ,Engineering ,Engineering Manager,2022-05-17,,6895,62,Male,4.36,2,3,high,3,3
+E-1118,OKAFOR Duarte,engineering,Software Engineer,19 Mar 2008,NULL,7236,43,Male,18.52,3,3,3,2,2
+E-1373,Lara Popescu,engineering,QA Analyst,12 Aug 2026,2026/09/25,6219,19,Male,0.12,n/a,5,2,2,2
+E-2089,EMMA Smith,Sal3s,Account Executive,04/02/2020,,"6,392.00",38,Male,6.64,high,2,3,2,2
+E-1837,Grace Lindgren,Engineering ,Support Engineer,18 Jun 2026,N/A,6920,34,Female,0.27,3,3,medium,2,3
+E-1100,Julia Silva,Engineering ,Software Engineer,24/05/2022,NULL,-1,56,Male,4.34,3,3,3,3,3
+E-1851,DAVID Diallo,engineering,Support Engineer,2020-03-15,N/A,"6,629.00",55,Female,6.53,3,3,3,n/a,2
+E-1582,NOAH Kim,Eng.,QA Analyst,2015/01/24,,6680,31,Male,11.67,2,3,high,2,3
+E-1433,Rosa Wei,Engineering ,QA Analyst,2024/04/02,N/A,6730,39,Male,2.48,3,2,high,2,2
+E-1781,ROSA O'Brien,Engineering ,Support Engineer,29 Dec 2017,,6401,23,Male,8.74,n/a,3,n/a,3,3
+E-1820,James Farah,engineering,Support Engineer,2019/10/03,NULL,8775,39,Male,6.98,3,3,2,2,3
+E-1719,Lucas Nakamura,Engineering ,Data Engineer,2020/09/10,N/A,"$7,966",32,Female,6.04,3,2,2,high,3
+E-1666,Nina Garcia,engineering,Data Engineer,2019-11-12,NULL,"7,628.00",34,Male,6.87,3,3,2,5,2
+E-2183,Fatima Kaur,Sal3s,Account Executive,2022-09-07,,"$6,392",30,Female,4.05,3,2,2,3,3
+E-1807,  noah NAIR ,Eng.,Support Engineer,13 May 2022,,"$7,067",33,Female,4.37,3,3,3,3,2
+E-1855,  sven IVANOV ,Eng.,Support Engineer,21 Jul 2026,N/A,7368,27,Male,0.18,3,6,3,2,3
+E-2091,Umar Santos,sales ,Account Executive,18 Dec 2021,NULL,6261,31,Female,4.77,3,3,3,3,3
+E-1710,Nina Popescu,Eng.,Data Engineer,9 Jan 2024,N/A,"6,743.00",50,Male,2.71,3,2,3,2,2
+E-1120,Wei Chen,Eng.,Software Engineer,2020-03-30,NULL,"$6,814",35,Male,6.49,0,3,3,2,2
+E-1120,WEI CHEN,Eng.,Software Engineer,2020-03-30,NULL,"$6,814",35,Male,6.49,0,3,3,2,2
+E-1531,James Duarte,Eng.,QA Analyst,04/02/2020,N/A,6801,52,Female,6.64,3,2,2,3,3
+E-2144,QUINN Chen,Sales,Account Executive,2017/01/05,NULL,5496,52,Male,9.72,2,3,3,high,3
+E-2144,QUINN CHEN,Sales,Account Executive,2017/01/05,NULL,5496,52,Male,9.72,2,3,3,high,3
+E-1139,Anna Silva,engineering,Software Engineer,17 Oct 2013,N/A,-1,30,Male,12.94,3,high,3,3,2
+E-1573,John Rossi,Engineering ,QA Analyst,5 Oct 2004,N/A,6369,54,Female,21.97,2,3,2,3,medium
+E-2040,James Ivanov,Sal3s,Account Executive,2024/05/01,25 Sep 2026,5113,44,Female,2.4,3,n/a,3,2,3
+E-2179,LARA Osei,Sales,Account Executive,23/08/2020,,5784,44,Female,6.09,3,2,3,2,3
+E-1304,John Kim,Engineering ,Software Engineer,19/11/2023,N/A,7319,47,Male,2.85,2,2,3,2,n/a
+E-1224,Sofia Kim,engineering,Software Engineer,4 Aug 2020,,6188,41,Male,6.14,3,3,3,3,3
+E-1889,NINA Farah,engineering,Engineering Lead,2006/03/15,N/A,-1,39,Male,20.53,n/a,6,0,2,n/a
+E-1379,Li Chen,Eng.,QA Analyst,9 Oct 2025,25 Sep 2026,"6,549.00",20,Female,0.96,2,3,3,3,2
+E-2167,Fatima Ivanov,sales ,Account Executive,2022/08/23,N/A,"6,265.00",40,Female,4.09,2,3,2,3,3
+E-1492,Miguel Popescu,Engineering ,QA Analyst,4 Dec 2019,,6022,46,Male,6.81,n/a,2,3,2,3
+E-2123,JOHN Silva,Sales,Account Executive,2024/08/30,NULL,4977,30,Female,2.07,3,3,3,2,2
+E-2318,Wei Silva,Sales,Account Executive,2020-05-27,NULL,"$5,933",37,Male,6.33,3,3,2,2,3
+E-1396,  david KIM ,engineering,QA Analyst,2026-07-03,25 Sep 2026,6368,38,Male,0.23,3,3,2,3,n/a
+E-1396,  DAVID KIM ,engineering,QA Analyst,2026-07-03,25 Sep 2026,6368,38,Male,0.23,3,3,2,3,n/a
+E-2273,  nadia ANDERSSON ,Sal3s,Account Executive,2023-12-29,,"6,539.00",49,Female,2.74,2,3,2,2,2
+E-1439,NADIA Nair,Engineering ,QA Analyst,2018-01-09,NULL,"$7,350",27,Male,8.71,3,3,2,3,3
+E-1170,Kenji Lindgren,Engineering ,Software Engineer,2021/12/07,,"6,508.00",41,Male,4.8,3,2,3,2,3
+E-1305,  noah WEI ,Engineering ,Software Engineer,12 Aug 2009,N/A,7326,58,Male,17.12,3,3,5,2,2
+E-2103,Nina Popescu,Sales,Account Executive,13 Oct 2012,NULL,5394,30,Female,13.95,3,2,3,2,3
+E-1425,  li ANDERSSON ,Eng.,QA Analyst,2022-01-01,,6405,64,Male,4.73,2,2,3,n/a,2
+E-2093,Mei Farah,sales ,Account Executive,2020-02-22,NULL,6589,46,Female,6.59,3,3,3,3,medium
+E-1215,Lara Andersson,engineering,Software Engineer,03/07/2018,,6608,27,Male,8.23,3,2,2,2,3
+E-1593,Zoe Silva,Engineering ,Data Engineer,2017-12-14,25 Sep 2026,-1,57,Male,8.78,3,3,3,3,high
+E-2230,EMMA Popescu,Sal3s,Account Executive,03/02/2022,NULL,5866,45,Male,4.64,3,3,medium,2,3
+E-1681,Li Farah,Eng.,Data Engineer,26 Nov 2013,N/A,7302,36,Male,12.83,3,3,3,2,3
+E-1142,KENJI Smith,Eng.,Software Engineer,2024-07-21,NULL,6998,59,Male,2.18,0,2,3,3,2
+E-1299,LUCAS Wei,Eng.,Software Engineer,2022/06/15,,7214,54,Female,4.28,2,3,2,2,3
+E-2434,John Kaur,Sal3s,Sales Development Rep,7 Nov 2016,N/A,"6,577.00",21,Male,9.88,3,medium,3,3,3
+E-1564,Quinn Andersson,Eng.,QA Analyst,07/02/2026,NULL,6083,54,Female,0.63,2,3,3,2,2
+E-2000,Hana Silva,Eng.,Engineering Manager,5 Aug 2022,,-1,39,Male,4.14,3,3,3,2,n/a
+E-1183,Yusuf Okafor,engineering,Software Engineer,18/06/2018,N/A,"6,415.00",50,Male,8.27,3,2,3,3,3
+E-1501,SVEN Garcia,Eng.,QA Analyst,2025/10/13,,"$6,818",55,Female,0.95,3,n/a,2,3,2
+E-1856,ANNA Smith,Eng.,Support Engineer,14 Dec 2016,,7370,36,Female,9.78,2,3,n/a,3,3
+E-1480,Julia Nair,engineering,QA Analyst,2006/04/06,N/A,"$6,854",26,Female,20.47,2,n/a,2,2,3
+E-1317,  miguel O'BRIEN ,engineering,Software Engineer,2024/04/20,NULL,7537,59,Female,2.43,3,3,3,0,3
+E-1317,  MIGUEL O'BRIEN ,engineering,Software Engineer,2024/04/20,NULL,7537,59,Female,2.43,3,3,3,0,3
+E-2036,  sofia WEBER ,Sales,Account Executive,2025/10/02,25/09/2026,"5,340.00",45,Male,0.98,3,3,5,3,3
+E-1152,Maria Garcia,Engineering ,Software Engineer,2024/02/07,,7470,37,Male,2.63,0,3,high,3,3
+E-1959,Sven Novak,engineering,Engineering Manager,19 Nov 2021,2026-09-25,"6,060.00",52,Male,4.85,3,3,3,3,3
+E-1067,VERA Garcia,Eng.,Software Engineer,2026-07-07,25 Sep 2026,6008,25,Female,0.22,high,3,2,3,3
+E-1705,  okafor ANDERSSON ,Eng.,Data Engineer,28/10/2011,NULL,7127,62,Female,14.91,3,3,3,3,3
+E-1164,Rosa Smith,engineering,Software Engineer,9 Aug 2018,,"$6,811",45,Female,8.13,3,2,3,3,3
+E-1535,Noah Wei,Engineering ,QA Analyst,01/01/2018,NULL,"7,751.00",24,Male,8.73,3,high,3,2,2
+E-1080,UMAR Santos,Eng.,Software Engineer,2023-12-11,25 Sep 2026,5515,38,Female,2.79,3,high,3,2,2
+E-1629,  hana POPESCU ,Eng.,Data Engineer,03/02/2022,,6663,58,Female,4.64,3,2,3,medium,3
+E-1602,Petra Okafor,Eng.,Data Engineer,07/12/2016,2026-09-25,6460,29,Male,9.8,3,3,3,3,3
+E-2015,Mei Ivanov,engineering,Engineering Manager,26/02/2020,NULL,7172,24,Female,6.58,3,6,2,3,3
+E-2405,Petra Duarte,sales ,Sales Development Rep,2024/03/30,,5995,35,Male,2.49,3,2,3,3,3
+E-1609,Oscar Novak,engineering,Data Engineer,07/07/2018,NULL,6831,49,Male,8.22,3,3,2,3,2
+E-1185,Grace Kaur,Eng.,Software Engineer,2024/03/08,NULL,-1,22,Male,2.55,3,3,3,2,3
+E-1157,HANA O'Brien,engineering,Software Engineer,21/10/2019,N/A,6758,25,Male,6.93,3,3,high,3,3
+E-2456,  emma KIM ,Sales,Sales Manager,2014-02-14,,5255,29,Female,12.61,3,6,3,3,6
+E-1779,Paul Haddad,Eng.,Support Engineer,2026/04/25,NULL,6651,47,Male,0.42,3,3,2,2,2
+E-2376,Mei Andersson,Sales,Sales Development Rep,05/08/2017,2026/09/25,"$5,383",34,Female,9.14,3,2,3,2,3
+E-1022,JULIA Ivanov,HR,HR Partner,28 Oct 2025,,5056,54,Female,0.91,2,3,3,3,3
+E-1723,NINA Kowalski,Engineering ,Data Engineer,14/04/2026,N/A,"7,029.00",29,Male,0.45,2,5,3,2,3
+E-1513,  priya FARAH ,Engineering ,QA Analyst,2017/10/09,,7544,27,Female,8.96,2,3,3,2,3
+E-2211,Ivan Chen,Sal3s,Account Executive,28 Apr 2024,N/A,"$6,702",21,Female,2.41,n/a,3,3,3,3
+E-1369,Emma O'Brien,engineering,QA Analyst,16/08/2026,25 Sep 2026,5266,31,Female,0.11,3,3,3,2,3
+E-2285,MIGUEL Garcia,sales ,Account Executive,2022/02/11,,6109,35,Male,4.62,2,3,high,n/a,3
+E-1952,Fatima Popescu,engineering,Engineering Lead,7 Jun 2022,NULL,7577,39,Male,4.3,2,3,3,3,2
+E-2450,  wei CHEN ,Sal3s,Sales Manager,2025-10-06,25 Sep 2026,"$5,764",26,Male,0.97,3,3,2,3,3
+E-2411,Lucas Kim,sales ,Sales Development Rep,2019-11-01,,5820,34,Male,6.9,3,3,2,2,3
+E-1169,MIGUEL Popescu,Eng.,Software Engineer,2017-05-09,N/A,7081,36,Male,9.38,3,3,3,3,3
+E-1588,IGOR Nakamura,Engineering ,QA Analyst,04/03/2022,N/A,7122,24,Male,4.56,2,3,3,3,3
+E-1679,Paul Garcia,Engineering ,Data Engineer,2024/08/23,,"7,192.00",56,Male,2.09,3,3,2,3,3
+E-2226,Lucas Wei,Sal3s,Account Executive,2021/10/24,N/A,6594,27,Female,4.92,3,3,3,2,3
+E-1225,James Wei,engineering,Software Engineer,2022-08-27,,-1,56,Male,4.08,3,3,3,6,3
+E-1518,  rosa IVANOV ,Eng.,QA Analyst,21/12/2021,NULL,7270,33,Male,4.76,2,2,3,2,3
+E-1672,  miguel SANTOS ,engineering,Data Engineer,2022/01/23,,6662,37,Female,4.67,3,2,2,3,3
+E-1154,  wei NOVAK ,engineering,Software Engineer,2022-08-19,,7189,55,Female,4.1,2,2,3,3,3
+E-1050,Sofia O'Brien,human resources ,HR Manager,26 Jun 2018,,-1,36,Female,8.25,3,3,3,3,high
+E-2158,Miguel O'Brien,sales ,Account Executive,2024-05-23,N/A,"6,228.00",40,Female,2.34,2,3,3,2,3
+E-1594,Carlos Novak,Eng.,Data Engineer,2024/08/19,25/09/2026,6904,31,Female,2.1,3,3,2,3,6
+E-2350,Kenji Garcia,Sal3s,Sales Development Rep,2026/05/17,2026-09-25,5627,38,Male,0.36,3,3,n/a,0,3
+E-2059,Li Kaur,sales ,Account Executive,21 Dec 2025,25/09/2026,5655,18,Female,0.76,2,3,3,2,3
+E-1560,Miguel Weber,Eng.,QA Analyst,28/04/2020,NULL,"$7,967",38,Male,6.41,2,2,medium,2,3
+E-1324,Talia Andersson,engineering,Software Engineer,14 Oct 2019,N/A,"6,441.00",56,Male,6.95,3,3,3,3,0
+E-1835,Noah Wei,Eng.,Support Engineer,12 Mar 2022,NULL,7115,19,Female,4.54,3,3,3,3,3
+E-1230,  umar GARCIA ,Engineering ,Software Engineer,26 Nov 2019,N/A,6335,36,Male,6.83,3,3,3,n/a,n/a
+E-2066,Petra Garcia,sales ,Account Executive,2024-08-12,25 Sep 2026,5308,34,Male,2.12,3,2,3,3,3
+E-1284,IGOR Haddad,Eng.,Software Engineer,2019/10/10,NULL,6889,34,Female,6.96,3,3,3,3,3
+E-1478,Lara Andersson,Eng.,QA Analyst,19/03/2024,,-1,33,Male,2.52,3,n/a,3,3,2
+E-1991,GRACE Chen,engineering,Engineering Manager,10 Apr 2018,N/A,"$7,302",42,Female,8.46,3,3,n/a,3,3
+E-1537,  quinn GARCIA ,Engineering ,QA Analyst,07/12/2023,N/A,7574,24,Female,2.8,2,n/a,3,3,3
+E-1016,MIGUEL Farah,HR,HR Partner,29 Dec 2025,N/A,-1,48,Female,0.74,2,3,2,3,3
+E-1162,IVAN Farah,Engineering ,Software Engineer,2024/01/16,N/A,"$6,816",36,Male,2.69,3,3,high,3,3
+E-2125,MARIA Kaur,Sal3s,Account Executive,31/01/2018,,5991,52,Female,8.65,2,3,2,3,3
+E-1366,  james SMITH ,Engineering ,QA Analyst,14/06/2024,25 Sep 2026,"$6,189",37,Female,2.28,2,3,high,n/a,2
+E-2042,Rosa Wei,sales ,Account Executive,1 May 2024,2026/09/25,"5,818.00",43,Female,2.4,3,3,2,3,3
+E-1196,TOMAS Okafor,Engineering ,Software Engineer,08/08/2024,N/A,"$7,354",45,Female,2.13,3,3,3,3,2
+E-1318,LUCAS Santos,Eng.,Software Engineer,2014/04/03,,-1,55,Female,12.48,3,3,3,2,medium
+E-2312,David Kaur,Sales,Account Executive,2017/07/06,NULL,5849,34,Female,9.22,3,2,3,3,2
+E-1217,David Haddad,Eng.,Software Engineer,2024-01-20,,"$7,039",49,Female,2.68,2,3,3,2,2
+E-1829,Ivan Duarte,Eng.,Support Engineer,2022/08/01,N/A,6557,53,Male,4.15,3,3,2,3,3
+E-1720,Mei Kaur,Eng.,Data Engineer,03/02/2014,N/A,6690,46,Female,12.64,3,3,2,3,n/a
+E-1716,Zoe Okafor,Eng.,Data Engineer,2023/10/03,NULL,7223,27,Female,2.98,3,2,3,2,3
+E-1469,Maria Nair,Eng.,QA Analyst,2021-12-18,,"$7,226",28,Male,4.77,2,3,3,3,2
+E-2488,Kenji Wei,Sales,Sales Manager,30 Aug 2022,,6312,32,Male,4.07,3,5,2,3,2
+E-1680,  hana WEI ,Eng.,Data Engineer,2025-10-24,N/A,"$7,114",41,Male,0.92,3,6,2,3,2
+E-1811,Priya Weber,Engineering ,Support Engineer,17 Apr 2024,NULL,"7,579.00",49,Female,2.44,3,3,3,3,3
+E-2356,David Garcia,Sales,Sales Development Rep,30 Aug 2024,2026/09/25,5630,42,Male,2.07,6,2,2,2,3
+E-2359,MEI Duarte,Sales,Sales Development Rep,22/02/2026,2026/09/25,6011,36,Male,0.59,3,3,3,3,3
+E-1795,TOMAS Smith,Eng.,Support Engineer,2022/07/14,N/A,8420,38,Female,4.2,3,3,3,n/a,2
+E-1321,Maria Weber,engineering,Software Engineer,2006/08/09,NULL,7318,34,Male,20.13,3,3,3,3,3
+E-1214,Petra O'Brien,Engineering ,Software Engineer,25 Sep 2025,NULL,"7,063.00",35,Male,1.0,3,n/a,medium,2,3
+E-1172,Li Duarte,Eng.,Software Engineer,28/04/2024,NULL,6939,32,Male,2.41,3,3,3,3,2
+E-1546,Quinn Garcia,Eng.,QA Analyst,2021/12/03,NULL,7260,41,Male,4.81,2,2,3,2,3
+E-1995,Emma Ivanov,Eng.,Engineering Manager,2020/08/01,NULL,8028,55,Female,6.15,3,3,3,3,3
+E-1571,Zoe Silva,Engineering ,QA Analyst,12 Aug 2020,,"$7,016",41,Female,6.12,3,3,2,3,2
+E-2427,Grace Popescu,Sales,Sales Development Rep,2024-04-06,N/A,5958,19,Male,2.47,2,2,2,5,3
+E-1917,PETRA Nakamura,engineering,Engineering Lead,2018/02/14,NULL,6255,43,Male,8.61,3,3,3,3,3
+E-1428,Ivan Diallo,Eng.,QA Analyst,12/01/2022,N/A,7081,35,Male,4.7,3,3,3,2,high
+E-1620,Omar Kowalski,Eng.,Data Engineer,01/01/2022,N/A,6504,44,Male,4.73,high,3,n/a,2,2
+E-2478,Quinn Duarte,Sales,Sales Manager,22/02/2015,,6153,31,Male,11.59,3,2,3,n/a,3
+E-1046,Emma Chen,HR,HR Partner,2021/10/28,,"4,429.00",27,Female,4.91,2,3,3,3,3
+E-1806,Maria Novak,engineering,Support Engineer,31/05/2026,NULL,6049,21,Male,0.32,6,3,3,2,3
+E-1250,David Okafor,Eng.,Software Engineer,19 Mar 2026,N/A,5953,44,Male,0.52,3,3,3,high,3
+E-1639,  rosa KAUR ,engineering,Data Engineer,2026/07/14,,7075,44,Female,0.2,2,5,2,2,3
+E-1554,Igor O'Brien,Eng.,QA Analyst,12/01/2022,N/A,7493,57,Male,4.7,medium,3,3,3,2
+E-1086,Julia Okafor,Eng.,Software Engineer,2007/01/16,25 Sep 2026,-1,20,Female,19.69,3,3,3,2,3
+E-1374,NADIA Garcia,engineering,QA Analyst,26/12/2023,2026/09/25,5689,47,Female,2.75,3,3,3,3,3
+E-2432,Okafor Kowalski,Sales,Sales Development Rep,12 May 2024,N/A,6338,56,Male,2.37,2,2,3,3,3
+E-1545,Ivan Novak,Eng.,QA Analyst,28 Dec 2004,NULL,7464,32,Female,21.74,n/a,2,2,6,2
+E-1785,  wei GARCIA ,Eng.,Support Engineer,2026-02-14,NULL,6383,22,Female,0.61,3,2,3,2,n/a
+E-2054,DAVID Okafor,Sal3s,Account Executive,3 Apr 2026,25/09/2026,5372,35,Female,0.48,high,6,3,high,3
+E-1861,  priya WEBER ,Eng.,Support Engineer,10 Apr 2022,,6502,38,Female,4.46,3,6,3,3,3
+E-2095,ZOE Kowalski,Sales,Account Executive,2 Oct 2017,NULL,"$6,832",27,Male,8.98,3,3,3,6,3
+E-1347,Talia Farah,Eng.,QA Analyst,24/05/2014,2026-09-25,5754,44,Male,12.34,high,3,3,3,2
+E-1984,Okafor Nair,engineering,Engineering Manager,30/08/2005,N/A,6529,57,Female,21.07,3,high,3,2,2
+E-1445,MARIA Wei,Eng.,QA Analyst,18 Jun 2026,N/A,7660,38,Female,0.27,2,2,3,3,2
+E-1297,  yusuf NAKAMURA ,engineering,Software Engineer,07/06/2017,N/A,"7,550.00",38,Female,9.3,2,3,3,3,3
+E-1208,Yusuf Santos,Eng.,Software Engineer,2021-12-14,,6824,48,Female,4.78,medium,2,3,3,3
+E-1102,Kenji Popescu,engineering,Software Engineer,24 Jan 2020,N/A,7089,28,Female,6.67,3,2,2,3,3
+E-1611,Li Novak,Eng.,Data Engineer,14 Apr 2018,,"$6,936",47,Male,8.45,3,2,3,2,3
+E-2171,LUCAS Smith,Sales,Account Executive,2024-09-06,,5829,34,Male,2.05,3,2,5,3,3
+E-1411,Igor Diallo,Eng.,QA Analyst,09/08/2022,NULL,"8,603.00",42,Female,4.13,2,3,3,2,2
+E-1570,Igor Nair,engineering,QA Analyst,2026/05/17,N/A,7540,29,Female,0.36,3,5,3,3,2
+E-2092,Carlos Kowalski,sales ,Account Executive,16/05/2017,NULL,"6,037.00",40,Female,9.36,3,3,3,high,3
+E-2148,Ivan Nair,Sal3s,Account Executive,2021/10/31,N/A,"5,911.00",40,Male,4.9,3,3,2,2,3
+E-2326,NADIA Duarte,Sal3s,Account Executive,24/05/2022,,6638,37,Female,4.34,2,3,3,3,3
+E-1078,Carlos Andersson,Engineering ,Software Engineer,2026/07/18,2026-09-25,"5,825.00",23,Female,0.19,high,2,3,high,3
+E-1774,  quinn FARAH ,Eng.,Support Engineer,06/04/2024,NULL,"6,608.00",52,Female,2.47,3,3,3,3,2
+E-1356,Mei Diallo,Eng.,QA Analyst,27/01/2020,25 Sep 2026,6116,32,Male,6.66,3,3,n/a,3,2
+E-1117,  omar IVANOV ,engineering,Software Engineer,04/11/2021,,6609,29,Female,4.89,3,3,3,2,2
+E-1173,Vera Smith,engineering,Software Engineer,2024/02/15,NULL,"6,606.00",37,Male,2.61,3,3,high,3,3
+E-1191,James Farah,Engineering ,Software Engineer,20 Jan 2020,NULL,6542,37,Male,6.68,3,3,3,2,2
+E-1206,Kenji Andersson,Eng.,Software Engineer,8 Nov 2011,,6795,38,Female,14.88,n/a,3,3,3,2
+E-1383,Mei Kim,Eng.,QA Analyst,30/08/2024,25/09/2026,"$5,736",32,Male,2.07,3,2,n/a,3,3
+E-1049,Wei Rossi,Human Resources,HR Manager,2026-07-07,25/09/2026,4715,33,Male,0.22,3,3,3,2,3
+E-1990,Priya Diallo,Engineering ,Engineering Manager,11 Feb 2022,N/A,-1,37,Male,4.62,3,3,3,3,3
+E-1031,Kenji Osei,Human Resources,HR Partner,2017-07-21,NULL,"5,087.00",64,Male,9.18,2,3,3,3,3
+E-1725,Umar Silva,engineering,Data Engineer,2026/08/12,NULL,"6,328.00",30,Female,0.12,3,3,3,n/a,3
+E-2011,  wei GARCIA ,Eng.,Engineering Manager,2024/03/04,NULL,-1,20,Male,2.56,3,2,2,3,3
+E-1194,LARA Lindgren,engineering,Software Engineer,2024/02/22,NULL,"7,132.00",26,Male,2.59,3,high,3,3,3
+E-1413,Rosa Nair,Eng.,QA Analyst,10 Oct 2019,NULL,"$6,531",53,Male,6.96,2,3,3,2,2
+E-1824,JOHN Haddad,Eng.,Support Engineer,24/04/2012,NULL,7495,36,Male,14.42,3,3,2,n/a,high
+E-2249,Grace Santos,Sal3s,Account Executive,2021-11-19,,6549,44,Female,4.85,3,3,3,3,3
+E-1441,  tomas ANDERSSON ,Eng.,QA Analyst,2022/09/07,,"$6,914",32,Female,4.05,3,3,3,5,3
+E-1268,Maria Andersson,Engineering ,Software Engineer,16 Aug 2018,,-1,39,Male,8.11,3,3,3,3,3
+E-1279,VERA Duarte,engineering,Software Engineer,29 Dec 2025,NULL,6060,40,Male,0.74,3,2,3,3,3
+E-1105,Rosa Kaur,Eng.,Software Engineer,2026-09-14,N/A,"$7,805",22,Male,0.03,3,3,medium,3,3
+E-1398,Tomas Kaur,engineering,QA Analyst,8 Aug 2024,,6598,31,Male,2.13,n/a,3,3,3,3
+E-1057,Igor Diallo,Human Resources,HR Manager,27 Jan 2020,N/A,4988,58,Male,6.66,3,3,3,3,2
+E-2413,Anna Haddad,sales ,Sales Development Rep,12 Jan 2014,NULL,5457,39,Female,12.7,3,2,2,3,3
+E-1816,Talia Farah,Eng.,Support Engineer,30/03/2020,NULL,6889,44,Female,6.49,3,3,3,2,3
+E-1804,Igor Ivanov,engineering,Support Engineer,2022/04/21,NULL,8601,53,Female,4.43,3,3,2,3,3
+E-1270,GRACE Weber,Engineering ,Software Engineer,2020/02/15,,6956,50,Female,6.61,3,2,3,high,3
+E-1440,Noah Lindgren,Engineering ,QA Analyst,2026-06-04,NULL,6962,49,Female,0.31,3,3,3,2,2
+E-1581,Emma Rossi,Eng.,QA Analyst,2007/05/17,,7104,32,Male,19.36,2,2,2,3,3
+E-2132,Noah Lindgren,sales ,Account Executive,21 Jul 2020,,6471,23,Male,6.18,3,2,medium,3,3
+E-2190,LARA O'Brien,sales ,Account Executive,6 Sep 2013,N/A,-1,33,Male,13.05,3,3,3,high,3
+E-2222,Oscar Nakamura,Sales,Account Executive,2022-05-09,N/A,6632,41,Female,4.38,2,2,3,3,3
+E-2069,Quinn Garcia,sales ,Account Executive,2024/08/01,2026/09/25,5675,18,Female,2.15,3,3,0,3,3
+E-1127,FATIMA Ivanov,engineering,Software Engineer,18 Dec 2019,,-1,49,Male,6.77,3,3,high,2,3
+E-2325,  priya DIALLO ,Sales,Account Executive,2025/12/14,NULL,5592,34,Male,0.78,3,2,high,n/a,3
+E-1380,Zoe Duarte,engineering,QA Analyst,2024-07-21,25 Sep 2026,-1,48,Male,2.18,3,2,2,3,3
+E-2421,VERA Haddad,Sal3s,Sales Development Rep,2022/08/19,,"7,063.00",29,Male,4.1,3,3,3,3,5
+E-2184,Aisha Osei,Sales,Account Executive,2026-05-09,N/A,6907,49,Male,0.38,2,3,3,3,2
+E-2372,Carlos Farah,sales ,Sales Development Rep,2025/11/29,25 Sep 2026,5429,23,Female,0.82,3,3,3,3,3
+E-1572,Talia Farah,engineering,QA Analyst,2020-03-19,N/A,"7,756.00",65,Male,6.52,3,3,2,3,2
+E-1839,Miguel Lindgren,Eng.,Support Engineer,2019/10/28,,6133,27,Male,6.91,3,3,3,6,2
+E-1631,  oscar WEI ,engineering,Data Engineer,14 Apr 2022,N/A,6183,52,Male,4.45,high,3,3,3,3
+E-1652,Okafor Nair,Engineering ,Data Engineer,11 Jun 2024,N/A,6654,35,Female,2.29,3,high,3,3,3
+E-1257,Tomas Nair,Eng.,Software Engineer,2022-04-28,,-1,35,Female,4.41,3,2,2,2,3
+E-1257,TOMAS NAIR,Eng.,Software Engineer,2022-04-28,,-1,35,Female,4.41,3,2,2,2,3
+E-1211,  talia GARCIA ,engineering,Software Engineer,20 Oct 2025,,7084,41,Male,0.93,2,3,3,3,3
+E-1547,Wei Weber,Engineering ,QA Analyst,2025/09/25,N/A,6582,39,Male,1.0,2,3,2,2,3
+E-1699,EMMA Kim,Eng.,Data Engineer,2022-07-21,,6854,27,Female,4.18,3,3,5,3,2
+E-1628,Julia Kowalski,Engineering ,Data Engineer,2022-07-21,,7006,30,Male,4.18,3,high,3,3,5
+E-1663,  anna HADDAD ,Engineering ,Data Engineer,2016-10-09,N/A,6974,55,Male,9.96,3,3,3,3,3
+E-1927,ANNA Diallo,engineering,Engineering Lead,2010/05/20,NULL,6614,47,Male,16.35,high,3,3,3,2
+E-1360,  li SILVA ,Engineering ,QA Analyst,31 Oct 2025,2026-09-25,6345,23,Male,0.9,3,3,3,2,3
+E-1038,IVAN Garcia,human resources ,HR Partner,2022/02/25,,"5,933.00",28,Female,4.58,2,2,3,3,3
+E-1163,Nadia Andersson,Eng.,Software Engineer,2020/05/20,N/A,8244,42,Female,6.35,high,2,3,3,3
+E-1163,NADIA ANDERSSON,Eng.,Software Engineer,2020/05/20,N/A,8244,42,Female,6.35,high,2,3,3,3
+E-2214,Talia Farah,Sal3s,Account Executive,24/05/2015,NULL,6823,33,Male,11.34,2,3,3,2,3
+E-1976,  rosa CHEN ,engineering,Engineering Manager,24/10/2021,N/A,6712,49,Female,4.92,3,3,3,3,3
+E-1474,Vera Kaur,Engineering ,QA Analyst,2020-08-26,,"$5,929",51,Male,6.08,n/a,3,2,3,3
+E-2240,  li CHEN ,sales ,Account Executive,19 Aug 2022,N/A,5908,32,Female,4.1,3,3,2,3,2
+E-1056,QUINN Rossi,HR,HR Manager,2022/05/24,NULL,4951,48,Female,4.34,3,3,3,3,3
+E-1549,  omar HADDAD ,engineering,QA Analyst,14/12/2013,NULL,7114,48,Female,12.78,2,3,2,n/a,3
+E-1707,Kenji Kim,Eng.,Data Engineer,18 Jul 2022,NULL,"$5,973",65,Female,4.19,3,2,3,2,high
+E-2177,Mei Nakamura,Sal3s,Account Executive,2022-08-01,N/A,"$6,694",41,Female,4.15,n/a,2,3,3,n/a
+E-1940,Lucas Garcia,Eng.,Engineering Lead,2024/05/31,NULL,7736,58,Male,2.32,3,3,0,3,3
+E-2336,Oscar Kaur,sales ,Account Executive,2017/10/28,NULL,6107,51,Female,8.91,3,2,2,high,2
+E-2400,Mei Farah,sales ,Sales Development Rep,1 Nov 2011,N/A,5494,36,Female,14.9,3,3,2,2,3
+E-1906,Umar Okafor,Eng.,Engineering Lead,2009/08/19,,7413,34,Male,17.1,3,high,3,2,2
+E-1983,Lara Rossi,Engineering ,Engineering Manager,2022/05/09,,7465,31,Male,4.38,3,3,0,3,3
+E-2332,OKAFOR Duarte,Sal3s,Account Executive,2021-10-02,NULL,-1,37,Female,4.98,2,3,2,3,3
+E-2284,Anna Duarte,Sal3s,Account Executive,31 Oct 2021,NULL,6057,54,Female,4.9,2,n/a,2,3,3
+E-1464,Grace Chen,Eng.,QA Analyst,23/11/2011,,"$6,182",43,Male,14.84,2,3,high,high,2
+E-2016,Lucas Ivanov,engineering,Engineering Manager,4 Nov 2016,,"6,656.00",35,Female,9.89,3,3,3,3,3
+E-1721,  priya GARCIA ,engineering,Data Engineer,2018/08/12,N/A,7716,27,Male,8.12,high,6,2,n/a,3
+E-1180,Miguel Novak,Eng.,Software Engineer,26/06/2026,NULL,7043,36,Male,0.25,2,3,n/a,3,3
+E-2288,Zoe Diallo,Sales,Account Executive,09/01/2026,N/A,-1,39,Female,0.71,2,3,3,3,2
+E-1745,Nina Santos,Engineering ,Support Engineer,2026-07-10,25/09/2026,5908,31,Male,0.21,2,3,3,2,3
+E-1538,Yusuf Santos,engineering,QA Analyst,2017/06/22,NULL,"$6,324",47,Female,9.26,2,3,3,3,3
+E-2382,Grace Haddad,Sales,Sales Development Rep,17/10/2019,N/A,"6,082.00",37,Female,6.94,5,3,3,3,3
+E-2317,Okafor Silva,sales ,Account Executive,26/08/2012,,"$6,261",39,Male,14.08,3,3,2,0,2
+E-2281,Paul Wei,sales ,Account Executive,2024/03/08,NULL,5868,48,Male,2.55,n/a,2,3,3,3
+E-1237,Li Osei,Eng.,Software Engineer,27/05/2020,N/A,6849,40,Male,6.33,3,high,3,3,3
+E-2014,AISHA Weber,Engineering ,Engineering Manager,2022-05-27,NULL,-1,47,Female,4.33,3,3,2,3,2
+E-1233,ROSA Kim,Eng.,Software Engineer,12/01/2022,N/A,"$6,729",37,Male,4.7,3,3,3,2,3
+E-1414,Li Andersson,engineering,QA Analyst,2021-12-03,,7041,54,Male,4.81,2,3,2,3,2
+E-1692,Umar Rossi,Engineering ,Data Engineer,2022-09-21,NULL,-1,30,Female,4.01,3,3,2,2,3
+E-1733,LUCAS Nakamura,Engineering ,Data Engineer,12 Jan 2022,N/A,6541,48,Female,4.7,3,0,3,3,3
+E-1075,Anna Kaur,Eng.,Software Engineer,2024-08-12,2026-09-25,6048,32,Female,2.12,high,3,3,2,3
+E-1346,OMAR Farah,Eng.,QA Analyst,2025/10/31,2026-09-25,5807,23,Male,0.9,2,3,2,2,3
+E-1640,Priya Ivanov,Engineering ,Data Engineer,03/04/2026,N/A,"$6,702",26,Male,0.48,n/a,2,2,3,3
+E-2392,  zoe OSEI ,Sal3s,Sales Development Rep,2026-07-03,,6645,39,Male,0.23,2,2,2,3,3
+E-2037,FATIMA Garcia,Sales,Account Executive,7 Jun 2026,25/09/2026,6073,39,Male,0.3,medium,3,2,2,3
+E-2050,Anna Kaur,Sal3s,Account Executive,2022-01-05,2026-09-25,6006,46,Male,4.72,3,3,3,2,3
+E-2117,  david DUARTE ,sales ,Account Executive,09/01/2024,,6683,35,Female,2.71,3,2,n/a,3,6
+E-1512,Mei Novak,engineering,QA Analyst,28 Oct 2023,,7222,60,Female,2.91,2,3,n/a,2,2
+E-1355,Julia Nair,engineering,QA Analyst,04/02/2024,2026-09-25,6533,46,Male,2.64,3,3,2,2,3
+E-1799,FATIMA Santos,engineering,Support Engineer,2020/07/17,NULL,"6,178.00",60,Female,6.19,3,3,3,3,2
+E-1326,Hana Smith,engineering,Software Engineer,2018/05/24,N/A,"6,564.00",18,Male,8.34,high,2,2,2,3
+E-2329,  lucas NOVAK ,sales ,Account Executive,2022-02-07,,5874,39,Female,4.63,3,2,3,3,3
+E-1124,Vera Kowalski,Eng.,Software Engineer,2020-01-31,,7314,43,Female,6.65,3,2,3,3,3
+E-1387,NINA Okafor,Engineering ,QA Analyst,4 Mar 2022,2026-09-25,-1,27,Male,4.56,2,3,3,2,3
+E-1675,Maria Ivanov,engineering,Data Engineer,15/06/2022,N/A,"$7,241",40,Female,4.28,3,2,3,3,3
+E-1935,IVAN Chen,engineering,Engineering Lead,2016-10-24,NULL,7059,38,Male,9.92,2,3,3,3,3
+E-2218,Igor Duarte,Sal3s,Account Executive,2022/07/07,NULL,6433,38,Female,4.22,3,2,3,2,2
+E-2163,Noah Kowalski,Sales,Account Executive,2021-12-18,N/A,5692,31,Male,4.77,3,medium,2,3,3
+E-2021,  fatima FARAH ,Sales,Account Executive,17/10/2025,25/09/2026,5542,24,Male,0.94,2,3,2,3,3
+E-2482,PETRA Smith,Sales,Sales Manager,27 Oct 2016,NULL,"$6,562",34,Male,9.91,2,3,3,3,3
+E-2377,Quinn Haddad,Sal3s,Sales Development Rep,23 Mar 2026,25 Sep 2026,"6,291.00",29,Female,0.51,2,2,3,2,3
+E-2279,Carlos Novak,Sal3s,Account Executive,11/06/2022,,"7,595.00",43,Female,4.29,3,high,2,3,2
+E-2354,  hana SANTOS ,Sal3s,Sales Development Rep,2024-06-03,25/09/2026,5955,51,Female,2.31,3,2,3,3,n/a
+E-1938,  mei NAKAMURA ,Eng.,Engineering Lead,31/10/2013,,6556,41,Male,12.9,3,3,3,3,3
+E-2358,Sofia Osei,Sal3s,Sales Development Rep,2024/08/26,25/09/2026,5742,27,Male,2.08,3,2,3,2,3
+E-1408,  rosa KOWALSKI ,engineering,QA Analyst,2013-04-24,,6882,52,Female,13.42,high,3,2,2,3
+E-2300,Sofia Silva,Sal3s,Account Executive,2017/09/28,N/A,6654,27,Male,8.99,3,n/a,3,3,3
+E-1069,SOFIA Nakamura,Eng.,Software Engineer,04/03/2026,2026/09/25,"$6,091",55,Male,0.56,3,3,3,2,3
+E-1741,Hana Diallo,engineering,Support Engineer,6 Oct 2021,2026/09/25,5373,46,Male,4.97,n/a,3,2,2,3
+E-2138,James Popescu,Sales,Account Executive,2022/09/10,N/A,6030,27,Male,4.04,medium,3,n/a,2,3
+E-2053,Wei Kaur,Sales,Account Executive,2026-07-03,2026-09-25,-1,46,Male,0.23,2,3,6,3,3
+E-1994,Miguel Andersson,engineering,Engineering Manager,08/08/2024,,6899,41,Female,2.13,3,3,3,2,3
+E-1908,Quinn Novak,engineering,Engineering Lead,2026-08-16,,6871,29,Female,0.11,3,3,3,3,2
+E-1850,UMAR O'Brien,engineering,Support Engineer,2024/01/31,,-1,56,Male,2.65,2,2,2,3,2
+E-1189,Oscar Haddad,engineering,Software Engineer,2 May 2022,NULL,-1,40,Male,4.4,3,3,3,high,3
+E-1737,  maria POPESCU ,Engineering ,Data Engineer,11 Dec 2019,,6494,34,Female,6.79,high,3,5,3,3
+E-2486,Noah Osei,sales ,Sales Manager,2007-05-06,NULL,5955,30,Female,19.39,n/a,2,high,3,3
+E-2031,Rosa Popescu,Sal3s,Account Executive,2019-10-28,2026/09/25,5963,26,Female,6.91,3,3,2,3,3
+E-1047,  vera DIALLO ,Human Resources,HR Partner,2024-01-31,NULL,5137,45,Male,2.65,3,3,3,3,3
+E-1047,  VERA DIALLO ,Human Resources,HR Partner,2024-01-31,NULL,5137,45,Male,2.65,3,3,3,3,3
+E-1323,David Weber,engineering,Software Engineer,2010-01-05,NULL,6665,32,Female,16.72,3,3,3,3,2
+E-1052,ANNA Diallo,HR,HR Manager,05/05/2017,,5260,35,Male,9.39,3,3,2,2,high
+E-1052,ANNA DIALLO,HR,HR Manager,05/05/2017,,5260,35,Male,9.39,3,3,2,2,high
+E-1973,Miguel Silva,Eng.,Engineering Manager,11/03/2020,N/A,-1,56,Male,6.54,high,3,3,3,3
+E-2239,HANA Popescu,Sal3s,Account Executive,2022/01/27,N/A,"$6,285",32,Female,4.66,3,2,3,3,3
+E-1055,SVEN Kaur,HR,HR Manager,2021/11/15,N/A,"5,304.00",40,Female,4.86,3,3,3,3,3
+E-1702,Ivan Farah,engineering,Data Engineer,28/04/2026,N/A,"$7,043",50,Male,0.41,3,3,3,n/a,high
+E-1239,Mei Andersson,Eng.,Software Engineer,2017/02/10,NULL,7721,38,Male,9.62,3,3,high,3,2
+E-1187,Petra Popescu,Eng.,Software Engineer,11/06/2013,,"$7,234",34,Female,13.29,high,3,n/a,3,3
+E-1465,Omar Weber,Eng.,QA Analyst,2025-10-28,NULL,7415,48,Male,0.91,2,3,3,3,3
+E-1543,Yusuf Nair,engineering,QA Analyst,02/05/2026,N/A,7179,48,Male,0.4,3,2,3,3,3
+E-2061,Emma Diallo,Sal3s,Account Executive,19/08/2024,25 Sep 2026,"5,228.00",39,Male,2.1,3,3,3,3,2
+E-1981,Emma Weber,Engineering ,Engineering Manager,15 Mar 2018,,7345,42,Female,8.53,2,high,3,3,3
+E-1930,EMMA Diallo,Eng.,Engineering Lead,26 Dec 2023,N/A,7212,48,Female,2.75,n/a,3,3,2,3
+E-1587,Aisha Andersson,engineering,QA Analyst,2026/09/10,NULL,"6,484.00",37,Female,0.04,3,3,3,3,3
+E-1012,  hana NOVAK ,human resources ,HR Partner,5 Aug 2026,,5009,46,Male,0.14,3,2,high,3,3
+E-1403,  oscar WEI ,Engineering ,QA Analyst,2017/03/30,,6819,46,Female,9.49,3,3,2,2,2
+E-1193,PETRA Haddad,engineering,Software Engineer,09/05/2024,,6430,40,Male,2.38,high,3,2,3,n/a
+E-2311,Lara Kaur,Sal3s,Account Executive,2025/11/08,,6029,54,Male,0.88,3,medium,2,3,3
+E-1637,  lara KIM ,Engineering ,Data Engineer,2024-06-29,N/A,6852,44,Male,2.24,3,3,n/a,3,3
+E-1561,Hana Kaur,Eng.,QA Analyst,20/10/2025,,8091,38,Female,0.93,3,2,3,3,3
+E-1432,Vera Kim,Engineering ,QA Analyst,21 Jul 2022,NULL,6514,30,Male,4.18,5,3,3,3,2
+E-1992,  lucas LINDGREN ,Eng.,Engineering Manager,2025/11/11,,7168,44,Female,0.87,3,3,3,3,2
+E-2124,  sofia POPESCU ,Sal3s,Account Executive,2024/05/20,NULL,-1,31,Male,2.35,2,2,3,n/a,3
+E-1867,EMMA Santos,Eng.,Support Engineer,2020-08-12,,6921,42,Female,6.12,high,2,3,2,3
+E-1201,  kenji POPESCU ,Eng.,Software Engineer,2024-08-23,,-1,55,Male,2.09,3,5,3,3,3
+E-1108,Yusuf Lindgren,Engineering ,Software Engineer,2023/11/04,N/A,7824,51,Male,2.89,3,3,2,2,3
+E-1996,Paul Andersson,engineering,Engineering Manager,2023/11/26,N/A,6987,26,Male,2.83,5,3,3,3,3
+E-1503,Nadia Andersson,Eng.,QA Analyst,5 Aug 2026,NULL,"$7,129",47,Female,0.14,2,2,2,2,2
+E-1686,Maria Farah,engineering,Data Engineer,2009/10/02,NULL,6185,54,Male,16.98,3,medium,2,2,3
+E-1686,MARIA FARAH,engineering,Data Engineer,2009/10/02,NULL,6185,54,Male,16.98,3,medium,2,2,3
+E-1887,ANNA Farah,engineering,Engineering Lead,14/04/2022,N/A,"$7,225",39,Female,4.45,3,3,2,2,3
+E-1551,Okafor Diallo,Eng.,QA Analyst,05/08/2026,N/A,6754,20,Male,0.14,3,3,3,3,3
+E-1175,UMAR Weber,engineering,Software Engineer,11/03/2024,N/A,"6,559.00",31,Male,2.54,3,3,5,2,3
+E-1145,Petra Haddad,Engineering ,Software Engineer,2022-04-06,NULL,-1,61,Female,4.47,3,3,2,3,5
+E-1471,MIGUEL Weber,Engineering ,QA Analyst,18/06/2014,NULL,7230,33,Female,12.27,3,3,3,3,3
+E-1903,Oscar Nakamura,engineering,Engineering Lead,23 Aug 2020,NULL,6421,43,Female,6.09,3,3,3,3,3
+E-2067,  maria SANTOS ,sales ,Account Executive,14 Sep 2022,2026-09-25,5698,29,Female,4.03,3,3,3,3,3
+E-2276,Maria Farah,Sales,Account Executive,2025-11-26,N/A,6556,19,Male,0.83,2,n/a,3,high,3
+E-2041,Maria Okafor,Sales,Account Executive,2021/11/15,25 Sep 2026,6094,20,Male,4.86,2,3,0,6,3
+E-1814,  grace O'BRIEN ,Engineering ,Support Engineer,2015-07-29,,"6,443.00",34,Male,11.16,3,2,2,2,0
+E-2159,IVAN Lindgren,Sal3s,Account Executive,2022-01-09,NULL,"7,071.00",31,Female,4.71,3,2,3,3,3
+E-1965,Kenji Weber,engineering,Engineering Manager,17/10/2021,NULL,6492,30,Male,4.94,high,3,3,3,3
+E-1307,James Popescu,engineering,Software Engineer,06/01/2020,NULL,7595,48,Male,6.72,n/a,2,2,n/a,3
+E-1871,Noah O'Brien,Eng.,Engineering Lead,2023-11-15,25 Sep 2026,6534,30,Female,2.86,3,3,3,3,2
+E-1461,Yusuf Haddad,engineering,QA Analyst,26 Mar 2008,N/A,6969,33,Male,18.5,2,3,3,2,2
+E-2140,John Wei,Sal3s,Account Executive,7 Dec 2021,,"6,734.00",33,Female,4.8,3,2,3,3,3
+E-2082,  maria CHEN ,sales ,Account Executive,2019-12-29,25 Sep 2026,"5,382.00",19,Female,6.74,3,3,2,3,2
+E-1151,Paul Kim,engineering,Software Engineer,2007/11/23,N/A,7643,43,Female,18.84,3,5,3,3,2
+E-2383,  yusuf OSEI ,Sal3s,Sales Development Rep,06/04/2022,,5819,37,Female,4.47,3,medium,3,3,3
+E-1668,  petra DUARTE ,engineering,Data Engineer,2020/01/24,N/A,7102,30,Male,6.67,3,2,3,3,3
+E-2401,Li O'Brien,Sal3s,Sales Development Rep,20/04/2020,,-1,37,Female,6.43,2,6,3,3,2
+E-2197,Sven Nair,Sal3s,Account Executive,2026-04-28,NULL,5925,43,Female,0.41,3,3,2,3,2
+E-1771,WEI Ivanov,Engineering ,Support Engineer,2022/03/23,,"$7,389",24,Female,4.51,2,2,medium,3,2
+E-2408,OMAR Okafor,sales ,Sales Development Rep,13/10/2014,N/A,5809,30,Male,11.95,2,2,2,3,3
+E-2368,Rosa Popescu,Sal3s,Sales Development Rep,2026/09/21,2026-09-25,"$5,658",40,Female,0.01,3,3,2,3,high
+E-1562,Sofia Chen,Engineering ,QA Analyst,14 Dec 2014,,"6,768.00",29,Female,11.78,high,3,3,3,3
+E-1290,Sofia Kim,Engineering ,Software Engineer,2022-03-26,N/A,7660,43,Male,4.5,3,2,3,3,3
+E-1612,Zoe Weber,Eng.,Data Engineer,2018-02-22,NULL,6394,28,Male,8.59,2,3,2,3,3
+E-1872,UMAR Santos,Eng.,Engineering Lead,24/10/2025,2026-09-25,"6,417.00",38,Male,0.92,3,3,2,3,3
+E-1985,  nina WEBER ,Eng.,Engineering Manager,2024-06-07,NULL,7344,39,Female,2.3,n/a,3,3,3,6
+E-1787,ZOE Kim,engineering,Support Engineer,29 Jul 2010,,"6,080.00",34,Female,16.16,high,3,3,2,2
+E-1150,Okafor Okafor,Eng.,Software Engineer,07/12/2019,NULL,"6,797.00",19,Female,6.8,0,3,3,3,2
+E-2375,  nina NAIR ,sales ,Sales Development Rep,27 Aug 2026,25 Sep 2026,"$5,761",30,Male,0.08,3,3,3,2,3
+E-2052,PRIYA O'Brien,sales ,Account Executive,2024/04/02,2026/09/25,-1,36,Female,2.48,3,3,3,5,3
+E-1574,Lucas Rossi,Engineering ,QA Analyst,2026/06/29,N/A,7436,38,Male,0.24,2,medium,3,3,3
+E-1885,Sofia Weber,Eng.,Engineering Lead,27/08/2022,,"$7,309",47,Male,4.08,2,3,2,medium,3
+E-1249,Tomas Wei,Engineering ,Software Engineer,2016-11-04,N/A,"8,229.00",34,Male,9.89,2,3,2,3,3
+E-2442,YUSUF Kowalski,Sal3s,Sales Development Rep,15 Feb 2020,NULL,6632,56,Male,6.61,3,2,3,5,medium
+E-1746,Mei Nakamura,Eng.,Support Engineer,2026/08/05,2026/09/25,5791,26,Male,0.14,3,3,3,3,3
+E-1245,Emma Lindgren,engineering,Software Engineer,2022-06-07,,-1,29,Male,4.3,3,3,3,3,3
+E-2111,Grace Garcia,Sales,Account Executive,2019/10/24,N/A,6118,44,Female,6.92,2,3,3,3,3
+E-1109,  paul O'BRIEN ,engineering,Software Engineer,30 Aug 2018,NULL,7182,33,Female,8.07,3,2,3,3,3
+E-1143,MEI Smith,engineering,Software Engineer,2022/06/18,,6910,46,Male,4.27,3,3,3,2,3
+E-2373,Priya Kim,Sales,Sales Development Rep,30/03/2022,2026-09-25,5533,27,Female,4.49,medium,3,3,2,3
+E-1344,  fatima OKAFOR ,Engineering ,QA Analyst,2025-12-21,25 Sep 2026,-1,18,Female,0.76,3,3,2,3,3
+E-1426,NADIA Kim,Engineering ,QA Analyst,04/12/2019,,5255,47,Male,6.81,high,3,3,3,3
+E-1141,Nina Andersson,engineering,Software Engineer,2026-05-27,,6855,32,Female,0.33,3,3,n/a,3,medium
+E-1539,Miguel Garcia,engineering,QA Analyst,12/03/2017,N/A,6007,28,Female,9.54,3,3,2,3,0
+E-1082,  yusuf O'BRIEN ,Engineering ,Software Engineer,2022-03-23,2026/09/25,5660,27,Male,4.51,3,3,3,3,3
+E-1583,  omar NAKAMURA ,Engineering ,QA Analyst,2012/02/07,N/A,7218,27,Female,14.63,2,2,3,3,3
+E-2439,IGOR Farah,Sal3s,Sales Development Rep,18 Dec 2016,N/A,"6,796.00",55,Male,9.77,3,3,2,3,3
+E-1895,Talia O'Brien,Eng.,Engineering Lead,2017/08/30,,8166,29,Female,9.07,3,3,3,2,3
+E-1287,  john DIALLO ,Eng.,Software Engineer,29/06/2017,N/A,-1,46,Male,9.24,2,3,2,3,3
+E-1711,Carlos Duarte,Eng.,Data Engineer,2022-04-17,,7729,39,Male,4.44,3,3,3,3,3
+E-2063,PRIYA Silva,Sal3s,Account Executive,2024-03-26,2026/09/25,5331,36,Female,2.5,3,3,2,6,3
+E-2223,FATIMA Smith,Sales,Account Executive,25/09/2019,N/A,-1,57,Female,7.0,3,2,3,3,3
+E-1282,  lara DUARTE ,Engineering ,Software Engineer,2022-01-01,NULL,7662,43,Male,4.73,3,2,2,3,3
+E-1577,Julia Smith,Engineering ,QA Analyst,2018-01-16,NULL,7483,48,Male,8.69,2,3,2,3,3
+E-1248,Fatima Smith,Engineering ,Software Engineer,2013-12-14,,7690,26,Male,12.78,3,2,3,3,3
+E-1868,CARLOS Andersson,engineering,Support Engineer,2022-01-23,,6654,28,Male,4.67,2,3,2,0,3
+E-1986,  quinn GARCIA ,Eng.,Engineering Manager,2007-04-14,N/A,7045,62,Female,19.45,3,3,3,3,3
+E-2099,John Haddad,Sales,Account Executive,2018/01/16,N/A,5820,52,Male,8.69,3,3,5,n/a,high
+E-2012,SOFIA Santos,Eng.,Engineering Manager,2018-05-24,,"6,917.00",37,Male,8.34,3,3,3,2,3
+E-1199,  lucas KAUR ,Eng.,Software Engineer,22 Feb 2020,NULL,-1,29,Male,6.59,3,3,3,6,medium
+E-1963,  miguel KIM ,Eng.,Engineering Manager,2007/06/22,,6491,53,Female,19.26,3,3,3,3,3
+E-1963,  MIGUEL KIM ,Eng.,Engineering Manager,2007/06/22,,6491,53,Female,19.26,3,3,3,3,3
+E-1788,PETRA Silva,engineering,Support Engineer,2024-08-08,,-1,44,Female,2.13,3,3,3,2,3
+E-2137,  kenji HADDAD ,Sales,Account Executive,27 Aug 2018,NULL,5767,37,Male,8.08,3,n/a,3,3,2
+E-1674,Grace Santos,engineering,Data Engineer,2020-03-08,,6983,50,Female,6.55,3,3,3,2,3
+E-2435,Zoe O'Brien,sales ,Sales Development Rep,18/06/2024,NULL,6194,31,Male,2.27,2,3,3,3,3
+E-1042,Priya Rossi,human resources ,HR Partner,2026-05-31,NULL,"$5,448",22,Female,0.32,2,2,3,6,3
+E-2142,Priya Kim,Sal3s,Account Executive,2016-12-14,NULL,6682,48,Male,9.78,2,3,2,n/a,2
+E-1216,TOMAS Kim,Eng.,Software Engineer,2026-08-01,N/A,"$7,465",27,Female,0.15,2,3,3,3,3
+E-1919,Sven O'Brien,Eng.,Engineering Lead,7 Dec 2021,,6943,45,Male,4.8,3,3,3,3,3
+E-1204,Emma Chen,Eng.,Software Engineer,2018/03/08,N/A,"7,685.00",55,Male,8.55,2,2,2,2,3
+E-2180,Wei Smith,sales ,Account Executive,16/01/2024,NULL,-1,36,Female,2.69,2,3,3,2,3
+E-2207,Quinn Farah,sales ,Account Executive,2 Apr 2020,NULL,5494,54,Male,6.48,2,2,3,2,3
+E-1704,John Chen,Eng.,Data Engineer,2024/02/26,N/A,7533,44,Female,2.58,3,2,3,3,3
+E-2145,  omar KOWALSKI ,Sal3s,Account Executive,2023/10/24,,6966,43,Male,2.92,2,3,3,3,3
+E-1407,  petra IVANOV ,engineering,QA Analyst,2010-01-05,NULL,6664,23,Male,16.72,2,3,2,3,3
+E-1421,Quinn Okafor,Eng.,QA Analyst,2022-04-28,N/A,"6,782.00",35,Female,4.41,3,3,3,3,3
+E-1548,Hana Novak,engineering,QA Analyst,8 Jan 2017,,"7,288.00",62,Female,9.71,2,3,3,3,2
+E-1507,Rosa Andersson,engineering,QA Analyst,8 Mar 2022,N/A,6093,42,Female,4.55,2,2,2,3,3
+E-2233,Miguel Kaur,Sal3s,Account Executive,2022-09-21,NULL,5777,38,Male,4.01,3,medium,0,3,3
+E-2321,Noah Wei,sales ,Account Executive,16/05/2020,N/A,5758,48,Female,6.36,3,3,3,2,3
+E-1613,  noah ANDERSSON ,engineering,Data Engineer,2021-10-24,N/A,6840,41,Female,4.92,3,3,3,high,3
+E-1931,Igor Duarte,Engineering ,Engineering Lead,2021/10/31,,7105,39,Male,4.9,high,3,2,3,3
+E-1786,  petra HADDAD ,engineering,Support Engineer,2016-10-16,NULL,"6,986.00",53,Male,9.94,3,2,3,3,3
+E-1457,VERA Duarte,Engineering ,QA Analyst,2007/12/15,N/A,7375,24,Female,18.78,2,2,3,3,3
+E-1972,Fatima Weber,engineering,Engineering Manager,09/04/2024,,"$7,657",51,Male,2.46,3,3,2,3,2
+E-1476,Petra Popescu,Eng.,QA Analyst,2019-12-18,,7304,48,Female,6.77,2,3,3,2,2
+E-2196,  john DIALLO ,sales ,Account Executive,15/08/2024,,6356,28,Female,2.11,3,3,2,3,3
+E-1244,EMMA Wei,Engineering ,Software Engineer,10 Dec 2021,N/A,6793,30,Male,4.79,3,3,3,3,2
+E-1330,Hana Wei,Engineering ,Software Engineer,2022-09-25,,6885,38,Female,4.0,3,3,3,2,3
+E-1754,  grace POPESCU ,Eng.,Support Engineer,26 Nov 2025,2026-09-25,6107,25,Female,0.83,3,2,3,3,3
+E-1521,Okafor Farah,Eng.,QA Analyst,13/01/2020,NULL,-1,57,Male,6.7,3,3,0,3,high
+E-2185,NADIA Nakamura,Sal3s,Account Executive,22/11/2021,,7248,22,Female,4.84,3,3,2,3,3
+E-2399,Carlos Garcia,Sales,Sales Development Rep,2026/01/05,N/A,5980,42,Female,0.72,0,0,2,2,3
+E-2324,Vera Okafor,Sales,Account Executive,2024-02-07,NULL,"5,365.00",44,Male,2.63,high,3,3,2,3
+E-1385,Umar Farah,Eng.,QA Analyst,2021/10/28,25 Sep 2026,5442,61,Female,4.91,3,3,3,2,medium
+E-2342,TALIA Andersson,sales ,Account Executive,2024/08/15,NULL,"$6,219",53,Male,2.11,2,high,3,3,high
+E-1338,IGOR Lindgren,engineering,Software Engineer,25/09/2023,N/A,-1,49,Male,3.0,3,6,0,3,3
+E-1338,IGOR LINDGREN,engineering,Software Engineer,25/09/2023,N/A,-1,49,Male,3.0,3,6,0,3,3
+E-1479,Igor Popescu,Engineering ,QA Analyst,2013/11/29,NULL,7372,27,Female,12.82,2,3,3,3,2
+E-1852,Emma Popescu,Engineering ,Support Engineer,23 May 2024,N/A,6530,27,Male,2.34,medium,3,n/a,3,3
+E-1700,Julia Andersson,engineering,Data Engineer,21/02/2017,NULL,6827,35,Male,9.59,3,3,3,3,3
+E-1700,JULIA ANDERSSON,engineering,Data Engineer,21/02/2017,NULL,6827,35,Male,9.59,3,3,3,3,3
+E-1579,John Chen,Engineering ,QA Analyst,2012/05/16,NULL,"6,656.00",27,Male,14.36,3,3,3,3,3
+E-1242,Ivan Nakamura,engineering,Software Engineer,05/03/2015,NULL,6605,52,Male,11.56,2,3,3,3,2
+E-1592,  tomas POPESCU ,engineering,Data Engineer,2023/11/23,2026-09-25,5195,49,Male,2.84,0,3,2,2,high
+E-1677,  talia DIALLO ,engineering,Data Engineer,15/12/2011,,7257,36,Male,14.78,3,3,n/a,3,3
+E-1260,LUCAS Chen,engineering,Software Engineer,2022/03/01,,-1,39,Male,4.57,3,3,3,3,3
+E-1578,  talia LINDGREN ,engineering,QA Analyst,21 Sep 2018,NULL,6636,33,Male,8.01,3,2,3,3,2
+E-2420,Petra Rossi,Sal3s,Sales Development Rep,2020/06/03,NULL,6812,47,Female,6.31,3,2,n/a,3,n/a
+E-1630,JOHN Duarte,engineering,Data Engineer,25 Sep 2023,,6875,27,Male,3.0,3,2,3,3,3
+E-1550,  sven NAIR ,Engineering ,QA Analyst,20 May 2015,,"7,129.00",22,Male,11.35,3,2,3,2,3
+E-1107,Aisha Santos,Engineering ,Software Engineer,29 Dec 2019,NULL,7498,38,Male,6.74,3,2,3,3,2
+E-1759,Fatima Kaur,Engineering ,Support Engineer,2022-05-09,NULL,5930,49,Male,4.38,2,2,2,high,3
+E-1161,Nadia Kaur,engineering,Software Engineer,18/09/2022,NULL,"$6,753",41,Male,4.02,3,3,3,3,3
+E-2268,DAVID Chen,Sales,Account Executive,2024/06/29,N/A,6294,34,Male,2.24,high,3,2,3,high
+E-2051,Wei Weber,Sal3s,Account Executive,24 May 2026,2026/09/25,5351,29,Female,0.34,2,3,2,3,6
+E-2039,LARA Smith,sales ,Account Executive,06/05/2022,2026/09/25,5544,20,Male,4.39,3,3,3,5,6
+E-1610,Kenji Andersson,engineering,Data Engineer,2022-04-14,,8284,52,Female,4.45,3,3,2,high,3
+E-2035,David Novak,Sal3s,Account Executive,04/06/2026,2026/09/25,5793,29,Female,0.31,high,3,3,3,3
+E-1703,  igor FARAH ,engineering,Data Engineer,17/09/2020,NULL,7647,36,Male,6.02,3,3,3,n/a,3
+E-2150,  wei OSEI ,Sales,Account Executive,2021/12/25,N/A,"6,260.00",46,Female,4.75,2,3,2,2,3
+E-1880,TOMAS O'Brien,Eng.,Engineering Lead,31 May 2022,,6723,39,Male,4.32,3,3,high,3,3
+E-2020,Kenji Wei,Sal3s,Account Executive,2017/12/21,2026/09/25,7137,40,Male,8.76,2,5,3,3,3
+E-1261,PAUL Osei,Eng.,Software Engineer,12/03/2017,N/A,"$7,951",41,Male,9.54,medium,3,3,3,3
+E-2010,Sven Novak,Engineering ,Engineering Manager,2024/09/17,,7308,42,Male,2.02,3,high,2,2,3
+E-2378,Okafor Santos,Sales,Sales Development Rep,21 Jul 2017,2026/09/25,5693,27,Female,9.18,high,3,3,3,2
+E-1822,YUSUF Kowalski,Eng.,Support Engineer,2021/10/09,NULL,6139,27,Female,4.96,6,2,3,3,3
+E-1848,Nadia Andersson,Eng.,Support Engineer,2026/09/10,N/A,7086,39,Male,0.04,2,2,n/a,3,2
+E-1091,David Kaur,Engineering ,Software Engineer,22 Feb 2024,2026-09-25,5760,33,Female,2.59,2,3,3,3,3
+E-1557,SVEN Kowalski,engineering,QA Analyst,2023/10/24,N/A,"$7,160",48,Male,2.92,2,3,3,3,3
+E-1363,Kenji Nair,Engineering ,QA Analyst,19/08/2026,25/09/2026,6194,29,Male,0.1,high,3,3,3,high
+E-1556,Lucas Novak,Engineering ,QA Analyst,2022-09-03,,-1,40,Male,4.06,3,2,2,3,2
+E-1044,Rosa Kowalski,human resources ,HR Partner,19/03/2024,,4348,31,Male,2.52,3,2,medium,3,3
+E-2169,Fatima Kowalski,sales ,Account Executive,2021/12/10,NULL,5902,22,Male,4.79,3,3,3,2,3
+E-2449,NADIA Okafor,sales ,Sales Development Rep,26/03/2020,NULL,"$6,628",33,Male,6.5,3,2,3,medium,3
+E-1032,JOHN Diallo,human resources ,HR Partner,12 Jan 2022,N/A,"4,524.00",27,Female,4.7,2,3,n/a,2,3
+E-2044,Ivan Novak,sales ,Account Executive,20/01/2024,25 Sep 2026,6000,33,Male,2.68,6,3,3,3,3
+E-1947,Talia Santos,Engineering ,Engineering Lead,23/01/2022,NULL,-1,45,Male,4.67,3,3,3,n/a,2
+E-2347,Li Duarte,Sales,Account Executive,2017/11/04,N/A,-1,39,Female,8.89,3,3,2,medium,3
+E-1792,Anna Smith,Engineering ,Support Engineer,2018-01-01,NULL,6630,30,Male,8.73,3,2,2,2,n/a
+E-1308,Noah Novak,engineering,Software Engineer,2018/02/14,,6872,54,Female,8.61,2,3,3,3,3
+E-2269,Yusuf Kowalski,Sales,Account Executive,2021/12/10,N/A,6153,48,Female,4.79,2,3,3,n/a,3
+E-1842,Sven Andersson,Engineering ,Support Engineer,28/07/2017,,6835,33,Male,9.16,3,3,3,3,2
+E-2423,Grace Kim,Sales,Sales Development Rep,18/09/2026,,6528,44,Female,0.02,3,3,6,2,3
+E-2423,GRACE KIM,Sales,Sales Development Rep,18/09/2026,,6528,44,Female,0.02,3,3,6,2,3
+E-1877,WEI Smith,Eng.,Engineering Lead,03/09/2024,25 Sep 2026,"6,301.00",40,Male,2.06,3,high,2,3,3
+E-1213,Priya Lindgren,engineering,Software Engineer,2026/05/31,NULL,"$6,874",19,Male,0.32,2,high,3,3,2
+E-2077,Emma Smith,sales ,Account Executive,2 Oct 2021,25/09/2026,-1,19,Female,4.98,2,3,3,2,3
+E-2346,Anna Haddad,Sal3s,Account Executive,2020-04-02,,-1,39,Male,6.48,3,3,2,3,3
+E-1809,Vera Okafor,Engineering ,Support Engineer,18/06/2018,,7866,37,Male,8.27,3,high,3,3,3
+E-1979,Aisha Osei,Engineering ,Engineering Manager,18 Jun 2014,,"$7,080",40,Male,12.27,3,0,3,3,high
+E-1243,Rosa Rossi,Engineering ,Software Engineer,2005/05/16,N/A,6926,38,Male,21.36,3,3,3,high,3
+E-2402,EMMA Diallo,sales ,Sales Development Rep,2022-02-03,N/A,"6,255.00",26,Female,4.64,0,0,3,n/a,n/a
+E-1794,Noah Diallo,Engineering ,Support Engineer,2020-04-09,NULL,7393,34,Female,6.46,3,3,3,3,3
+E-2494,MIGUEL Diallo,Sales,Sales Manager,2017-09-03,N/A,6015,62,Female,9.06,3,3,3,3,3
+E-1669,Talia Weber,Engineering ,Data Engineer,22/02/2026,,6876,27,Male,0.59,3,3,3,3,3
+E-1910,Tomas Kim,engineering,Engineering Lead,2024/09/21,NULL,7241,54,Female,2.01,3,high,2,3,3
+E-1526,Mei Osei,engineering,QA Analyst,23/05/2024,,7440,48,Male,2.34,2,high,3,2,5
+E-2238,Miguel Lindgren,Sales,Account Executive,03/10/2019,N/A,"5,660.00",38,Female,6.98,2,3,3,3,n/a
+E-2367,  aisha O'BRIEN ,Sales,Sales Development Rep,2026-04-17,2026/09/25,6260,29,Female,0.44,2,3,2,2,3
+E-2075,Oscar Santos,sales ,Account Executive,2020-05-23,25/09/2026,-1,26,Male,6.34,3,2,3,3,3
+E-1643,  julia ANDERSSON ,Eng.,Data Engineer,30 Mar 2022,NULL,6551,33,Female,4.49,3,2,2,3,3
+E-1932,Lara Osei,Eng.,Engineering Lead,2012/02/07,NULL,7441,49,Male,14.63,3,3,3,3,3
+E-1695,  miguel O'BRIEN ,Eng.,Data Engineer,04/02/2020,N/A,6556,46,Female,6.64,3,n/a,3,3,3
+E-1138,Oscar Santos,Eng.,Software Engineer,2020/07/21,N/A,6880,29,Male,6.18,3,3,3,3,3
+E-1589,IVAN Duarte,Eng.,QA Analyst,2024/03/11,,7228,49,Female,2.54,3,3,2,3,3
+E-1780,  omar O'BRIEN ,Engineering ,Support Engineer,6 Apr 2009,,"7,342.00",40,Male,17.47,n/a,2,0,3,3
+E-2102,Anna Okafor,Sales,Account Executive,25 Jul 2018,,6734,28,Male,8.17,2,high,3,n/a,3
+E-1377,Carlos Garcia,Engineering ,QA Analyst,05/05/2017,25/09/2026,5425,52,Male,9.39,0,3,2,3,2
+E-1377,CARLOS GARCIA,Engineering ,QA Analyst,05/05/2017,25/09/2026,5425,52,Male,9.39,0,3,2,3,2
+E-1755,Miguel Rossi,Eng.,Support Engineer,2020-05-20,2026/09/25,6628,46,Female,6.35,3,2,2,3,3
+E-1135,Aisha Silva,engineering,Software Engineer,2018-09-07,N/A,"$8,014",32,Female,8.05,3,3,3,2,high
+E-2219,Sofia Garcia,Sales,Account Executive,2024/09/10,,6766,40,Female,2.04,3,2,3,3,3
+E-1466,Petra Chen,Engineering ,QA Analyst,2005/02/10,N/A,"6,363.00",38,Female,21.62,2,3,5,2,2
+E-1857,Carlos Chen,Eng.,Support Engineer,2020/04/17,N/A,6201,35,Female,6.44,2,3,3,3,3
+E-1926,Igor Chen,Engineering ,Engineering Lead,2024/06/07,NULL,"6,921.00",48,Male,2.3,2,2,3,3,3
+E-2280,Hana Weber,Sal3s,Account Executive,2021/10/20,N/A,"$5,867",42,Male,4.93,3,3,2,3,3
+E-2058,Quinn Rossi,Sales,Account Executive,2022-01-27,2026-09-25,5848,27,Female,4.66,high,3,3,2,2
+E-1596,Aisha Ivanov,engineering,Data Engineer,2026/05/24,2026-09-25,"6,082.00",61,Male,0.34,3,2,3,3,2
+E-1817,Igor Popescu,Eng.,Support Engineer,15/12/2023,,7318,31,Male,2.78,2,3,2,3,2
+E-1559,SOFIA Duarte,engineering,QA Analyst,17/10/2019,N/A,"$6,892",20,Male,6.94,2,3,3,high,3
+E-1336,Lara Chen,Engineering ,Software Engineer,7 Feb 2024,,6677,33,Female,2.63,2,3,3,3,3
+E-1575,HANA Okafor,Eng.,QA Analyst,30/03/2022,NULL,"$6,420",28,Female,4.49,2,2,3,3,2
+E-1783,Nina Haddad,engineering,Support Engineer,2026/07/21,,"$7,450",30,Male,0.18,2,3,3,3,3
+E-2374,Maria Weber,Sales,Sales Development Rep,2017/08/01,25 Sep 2026,"$4,935",46,Female,9.15,3,3,2,3,high
+E-2147,Carlos Kaur,sales ,Account Executive,2020-08-19,,"$6,055",28,Female,6.1,2,medium,3,3,3
+E-1968,John Duarte,engineering,Engineering Manager,21/12/2025,NULL,7663,46,Male,0.76,high,high,3,3,3
+E-2339,  fatima SILVA ,Sal3s,Account Executive,2024/01/16,,5731,25,Female,2.69,2,2,2,3,3
+E-1123,JAMES O'Brien,Engineering ,Software Engineer,2015-09-18,,"7,227.00",35,Male,11.02,3,3,3,2,n/a
+E-1821,Vera Kaur,engineering,Support Engineer,15/03/2022,N/A,6168,20,Male,4.53,3,3,3,3,3
+E-2209,Quinn Lindgren,Sal3s,Account Executive,2019-11-19,,-1,43,Male,6.85,3,3,medium,2,high
+E-2115,CARLOS Lindgren,Sales,Account Executive,2023-11-15,NULL,6727,28,Male,2.86,3,3,3,2,3
+E-2343,Yusuf Farah,sales ,Account Executive,2015-02-22,N/A,"$5,938",27,Male,11.59,2,3,3,3,2
+E-2178,Hana Diallo,Sal3s,Account Executive,3 Feb 2009,N/A,"$7,160",37,Male,17.64,3,3,n/a,3,2
+E-1448,Miguel Wei,Engineering ,QA Analyst,25 Feb 2018,,7342,47,Female,8.58,2,3,2,3,2
+E-1051,Julia Haddad,HR,HR Manager,4 Mar 2026,NULL,"5,322.00",49,Female,0.56,high,3,3,2,3
+E-1778,Vera Wei,engineering,Support Engineer,2018/08/05,,"$6,864",51,Female,8.14,3,2,3,2,2
+E-1714,Julia Silva,Engineering ,Data Engineer,18 Jun 2014,,-1,56,Female,12.27,3,3,0,2,2
+E-2357,Emma Andersson,Sal3s,Sales Development Rep,9 Aug 2026,2026-09-25,5896,29,Female,0.13,3,3,high,2,3
+E-1506,Quinn Kaur,Engineering ,QA Analyst,2016/10/13,N/A,7652,44,Female,9.95,3,medium,3,2,2
+E-2397,David Kaur,Sal3s,Sales Development Rep,09/08/2022,,"$7,127",44,Female,4.13,3,3,2,3,3
+E-1883,Okafor Osei,Eng.,Engineering Lead,16 Jan 2020,,6292,41,Female,6.69,3,3,2,2,3
+E-2470,FATIMA Andersson,sales ,Sales Manager,15 Mar 2024,NULL,"$6,388",34,Female,2.53,3,3,2,3,3
+E-2454,Quinn Popescu,Sal3s,Sales Manager,11 Feb 2024,,6845,52,Female,2.62,2,3,3,3,2
+E-1129,  carlos ROSSI ,Engineering ,Software Engineer,19/11/2023,NULL,6854,65,Male,2.85,3,3,3,3,n/a
+E-2396,Okafor Ivanov,Sal3s,Sales Development Rep,15/06/2022,,"7,159.00",45,Male,4.28,2,3,3,3,3
+E-2396,OKAFOR IVANOV,Sal3s,Sales Development Rep,15/06/2022,,"7,159.00",45,Male,4.28,2,3,3,3,3
+E-2294,Mei Haddad,sales ,Account Executive,10 Jul 2020,NULL,6011,47,Female,6.21,2,2,2,3,3
+E-2294,MEI HADDAD,sales ,Account Executive,10 Jul 2020,NULL,6011,47,Female,6.21,2,2,2,3,3
+E-2243,Lara Farah,Sal3s,Account Executive,2017-05-20,,"$5,583",32,Male,9.35,3,3,3,2,2
+E-1121,ANNA Ivanov,engineering,Software Engineer,2026/03/12,,6825,34,Female,0.54,2,2,3,3,n/a
+E-2483,Carlos Weber,sales ,Sales Manager,2010-09-21,,5348,48,Female,16.01,3,3,3,3,3
+E-1089,  igor NAKAMURA ,Engineering ,Software Engineer,2017-01-01,25/09/2026,5578,36,Female,9.73,3,3,2,3,3
+E-2415,  julia KIM ,sales ,Sales Development Rep,2012/10/27,NULL,6163,24,Female,13.91,3,2,3,3,3
+E-1114,Mei Smith,engineering,Software Engineer,2013/05/20,N/A,6393,36,Male,13.35,2,3,2,2,2
+E-1452,  li OSEI ,Engineering ,QA Analyst,26/08/2020,NULL,"6,568.00",40,Female,6.08,2,2,3,3,n/a
+E-2287,Oscar Duarte,Sales,Account Executive,2024-03-15,N/A,6073,55,Female,2.53,3,high,2,3,3
+E-1727,Vera Kowalski,engineering,Data Engineer,2009/10/02,NULL,6998,56,Male,16.98,3,2,2,2,2
+E-1619,Wei Ivanov,Eng.,Data Engineer,30 Mar 2020,NULL,6534,45,Male,6.49,3,3,3,3,3
+E-1009,Igor Haddad,human resources ,HR Partner,2026-02-14,25 Sep 2026,4681,31,Female,0.61,5,3,3,3,2
+E-1227,NADIA Santos,Eng.,Software Engineer,22/02/2020,,7529,50,Male,6.59,3,2,2,3,3
+E-2101,  li SILVA ,Sales,Account Executive,17 Sep 2024,NULL,6065,53,Female,2.02,3,3,3,3,3
+E-2479,Fatima Okafor,Sales,Sales Manager,2024/02/26,,"$5,587",33,Female,2.58,n/a,3,3,3,2
+E-1989,JAMES Ivanov,engineering,Engineering Manager,2024/06/07,NULL,"$5,941",41,Female,2.3,3,2,3,3,3
+E-1633,UMAR O'Brien,Eng.,Data Engineer,9 Oct 2017,NULL,"$6,492",31,Male,8.96,3,high,6,2,3
+E-1874,Li Wei,Eng.,Engineering Lead,25 Dec 2025,2026-09-25,"5,976.00",45,Male,0.75,3,3,3,3,3
+E-2126,IVAN Ivanov,Sal3s,Account Executive,2025-11-19,N/A,6563,52,Male,0.85,3,2,3,3,3
+E-2081,Okafor Wei,Sales,Account Executive,2024-09-06,25 Sep 2026,4913,44,Male,2.05,3,2,3,3,3
+E-2429,Rosa Andersson,sales ,Sales Development Rep,2009/02/25,,"7,010.00",19,Female,17.58,2,n/a,n/a,2,high
+E-2237,  paul POPESCU ,Sales,Account Executive,6 Apr 2012,,5461,22,Female,14.47,3,3,2,2,3
+E-1182,  noah LINDGREN ,engineering,Software Engineer,20 Jan 2022,NULL,-1,28,Male,4.68,2,3,3,2,3
+E-2156,  david POPESCU ,Sal3s,Account Executive,2024-04-13,,7013,24,Female,2.45,2,2,3,3,3
+E-2250,  talia KIM ,Sal3s,Account Executive,04/12/2019,N/A,6381,51,Male,6.81,high,high,3,3,3
+E-1936,Ivan Osei,Eng.,Engineering Lead,2018/02/25,NULL,"$6,440",43,Male,8.58,3,3,2,3,n/a
+E-1784,James Novak,engineering,Support Engineer,2006-12-18,,-1,41,Male,19.77,3,3,high,3,3
+E-1729,NINA Nair,Engineering ,Data Engineer,2019-12-11,N/A,"$7,085",39,Male,6.79,3,2,3,3,3
+E-1838,Okafor Andersson,Eng.,Support Engineer,1 Aug 2026,,"$7,051",49,Female,0.15,3,3,n/a,2,high
+E-2257,YUSUF Silva,Sales,Account Executive,2020-08-30,N/A,"5,646.00",42,Male,6.07,3,3,3,2,3
+E-2084,  omar NAKAMURA ,sales ,Account Executive,2024/03/30,25/09/2026,-1,44,Male,2.49,2,3,3,3,n/a
+E-1099,HANA Santos,engineering,Software Engineer,16/01/2026,25 Sep 2026,5089,25,Male,0.69,2,2,3,3,3
+E-1236,HANA Diallo,Eng.,Software Engineer,29/12/2025,NULL,"7,025.00",36,Female,0.74,3,3,2,3,3
+E-2024,  tomas O'BRIEN ,Sal3s,Account Executive,22/02/2020,25 Sep 2026,4871,55,Female,6.59,3,2,medium,2,3
+E-1148,Sven Novak,engineering,Software Engineer,2022-02-22,N/A,7118,32,Female,4.59,3,3,3,3,2
+E-1722,Julia Nair,Eng.,Data Engineer,27/01/2012,,6593,44,Male,14.66,2,3,3,3,medium
+E-1933,Noah Farah,engineering,Engineering Lead,16/01/2024,NULL,6984,44,Female,2.69,2,2,2,3,3
+E-2298,David Garcia,sales ,Account Executive,2017/05/16,N/A,6836,59,Male,9.36,2,2,3,3,2
+E-2090,Nina Haddad,sales ,Account Executive,14 Dec 2021,,"$5,874",33,Male,4.78,medium,2,3,3,2
+E-2162,  wei ROSSI ,Sal3s,Account Executive,2024-05-27,,6363,37,Female,2.33,3,2,3,3,3
+E-2319,Hana Haddad,Sales,Account Executive,4 Aug 2020,N/A,5633,28,Female,6.14,3,3,high,3,3
+E-2252,Quinn Santos,Sal3s,Account Executive,02/05/2018,N/A,-1,34,Male,8.4,3,3,3,3,3
+E-1898,Julia Weber,Eng.,Engineering Lead,03/09/2020,,"$7,105",59,Female,6.06,3,high,3,medium,3
+E-2412,Li Kowalski,sales ,Sales Development Rep,2020-07-17,NULL,-1,38,Male,6.19,2,3,2,3,3
+E-1110,Maria Silva,engineering,Software Engineer,2013/07/14,NULL,6256,34,Male,13.2,3,3,3,high,3
+E-2121,Tomas Silva,Sal3s,Account Executive,25/06/2024,NULL,"$5,882",32,Female,2.25,3,2,3,2,2
+E-1782,CARLOS Ivanov,Eng.,Support Engineer,23/01/2017,NULL,"6,458.00",35,Female,9.67,3,3,3,3,n/a
+E-1007,Sven Weber,HR,HR Partner,2023/10/06,2026-09-25,4052,48,Male,2.97,3,3,3,3,3
+E-2241,  igor ROSSI ,Sales,Account Executive,2005-07-10,N/A,"6,295.00",55,Female,21.21,2,3,high,3,2
+E-1288,Paul Ivanov,engineering,Software Engineer,9 Oct 2025,N/A,6531,28,Male,0.96,2,3,3,3,2
+E-1265,FATIMA Santos,Eng.,Software Engineer,2026/02/14,,7731,48,Male,0.61,3,2,3,2,3
+E-1791,PRIYA Wei,engineering,Support Engineer,28/09/2021,NULL,6903,44,Female,4.99,3,3,3,3,3
+E-2157,MIGUEL Rossi,Sal3s,Account Executive,7 Jul 2022,,-1,32,Male,4.22,2,2,6,3,2
+E-2157,MIGUEL ROSSI,Sal3s,Account Executive,7 Jul 2022,,-1,32,Male,4.22,2,2,6,3,2
+E-1342,  noah FARAH ,Engineering ,QA Analyst,2022/01/16,2026/09/25,6155,54,Male,4.69,medium,2,2,3,3
+E-2327,Okafor Osei,sales ,Account Executive,2024/04/17,,"6,671.00",34,Female,2.44,3,2,2,3,2
+E-1128,ROSA Weber,Engineering ,Software Engineer,6 Apr 2022,N/A,"5,601.00",48,Male,4.47,2,3,n/a,3,3
+E-1097,JULIA Smith,engineering,Software Engineer,11/06/2024,2026/09/25,"$6,295",35,Female,2.29,3,2,3,3,2
+E-2005,  okafor HADDAD ,Eng.,Engineering Manager,2022-04-06,,"$7,566",29,Male,4.47,3,2,2,3,3
+E-2136,  priya FARAH ,Sal3s,Account Executive,10/09/2020,NULL,"$6,516",35,Male,6.04,3,3,3,3,n/a
+E-1247,Grace Farah,Engineering ,Software Engineer,2024/05/31,,5921,32,Male,2.32,3,3,3,3,3
+E-1970,Fatima Haddad,Eng.,Engineering Manager,20 Oct 2025,N/A,8111,41,Male,0.93,n/a,3,3,3,3
+E-1419,Carlos Nair,engineering,QA Analyst,2026-07-03,N/A,6899,33,Male,0.23,2,6,2,3,3
+E-1104,Carlos Kowalski,engineering,Software Engineer,2022-03-08,,7403,38,Male,4.55,3,6,3,n/a,3
+E-1195,  aisha DIALLO ,Eng.,Software Engineer,2023-11-08,NULL,"6,506.00",41,Male,2.88,3,2,3,3,3
+E-2038,  yusuf WEBER ,sales ,Account Executive,03/10/2023,2026/09/25,5297,36,Male,2.98,2,medium,3,3,3
+E-1748,James Rossi,engineering,Support Engineer,2 May 2015,25 Sep 2026,5691,22,Female,11.4,3,3,3,n/a,3
+E-1638,LARA Okafor,engineering,Data Engineer,14/06/2024,NULL,6811,42,Male,2.28,high,3,3,3,2
+E-2263,JULIA Weber,sales ,Account Executive,2018-08-09,NULL,6010,50,Male,8.13,3,5,3,3,3
+E-1942,  igor HADDAD ,engineering,Engineering Lead,16/05/2012,N/A,6424,60,Male,14.36,3,high,3,3,3
+E-1957,  lara O'BRIEN ,engineering,Engineering Manager,2026/09/10,25 Sep 2026,"$5,649",41,Male,0.04,3,3,2,3,3
+E-1925,  aisha ROSSI ,engineering,Engineering Lead,23/08/2022,NULL,6427,45,Male,4.09,3,3,3,3,medium
+E-1431,  rosa IVANOV ,Engineering ,QA Analyst,30/03/2020,N/A,"$7,516",55,Female,6.49,2,2,3,3,2
+E-1647,Vera Nakamura,engineering,Data Engineer,9 Apr 2024,NULL,7323,42,Male,2.46,3,3,2,3,3
+E-2022,Rosa Duarte,Sal3s,Account Executive,2023-10-21,2026-09-25,5784,32,Male,2.93,3,2,3,2,3
+E-1113,Okafor Farah,Engineering ,Software Engineer,30/03/2018,,"7,178.00",34,Male,8.49,3,2,2,3,3
+E-1875,ANNA Silva,engineering,Engineering Lead,2022-06-04,2026-09-25,-1,32,Female,4.31,2,2,3,2,3
+E-1003,SVEN Lindgren,Human Resources,HR Partner,07/09/2022,25/09/2026,4255,41,Female,4.05,2,3,3,3,3
+E-2315,Rosa Lindgren,sales ,Account Executive,4 Nov 2023,N/A,5799,44,Female,2.89,3,high,3,6,3
+E-2313,Lara Silva,Sales,Account Executive,29 Jun 2024,,6320,32,Male,2.24,3,3,2,2,3
+E-2446,John Novak,Sales,Sales Development Rep,2024-01-27,N/A,"5,883.00",35,Male,2.66,3,2,2,medium,3
+E-1519,SOFIA Novak,Engineering ,QA Analyst,2022/06/29,N/A,6773,33,Female,4.24,3,n/a,2,3,3
+E-1085,  anna SILVA ,Engineering ,Software Engineer,03/04/2026,2026/09/25,-1,23,Male,0.48,3,n/a,2,3,3
+E-2274,David Silva,Sal3s,Account Executive,2023-12-07,,"6,385.00",54,Male,2.8,3,3,2,3,3
+E-1678,NADIA Santos,Engineering ,Data Engineer,2012/02/22,,5904,31,Male,14.59,high,2,2,3,3
+E-1805,JOHN Haddad,engineering,Support Engineer,2018/02/25,N/A,6588,32,Female,8.58,3,3,2,3,2
+E-1954,Nina Kim,engineering,Engineering Lead,2022/01/01,N/A,"6,766.00",31,Female,4.73,3,3,3,3,3
+E-1335,PAUL Wei,Eng.,Software Engineer,10/07/2024,N/A,6418,52,Male,2.21,3,3,high,2,3
+E-1240,ZOE O'Brien,Engineering ,Software Engineer,2024-05-20,,6826,48,Female,2.35,high,2,2,3,2
+E-2293,Zoe Silva,Sal3s,Account Executive,29/06/2020,NULL,6740,45,Male,6.24,2,2,3,3,3
+E-1673,SOFIA Haddad,Engineering ,Data Engineer,6 Jul 2020,NULL,7186,31,Female,6.22,medium,3,3,3,3
+E-2225,Priya Nakamura,sales ,Account Executive,2022/02/03,N/A,"$5,950",37,Male,4.64,3,3,5,2,3
+E-1320,Wei Duarte,Engineering ,Software Engineer,2026/04/28,,7009,26,Male,0.41,high,3,medium,3,n/a
+E-2032,Vera Diallo,Sal3s,Account Executive,25/02/2026,25 Sep 2026,5565,22,Male,0.58,2,3,2,medium,3
+E-1158,Nina Diallo,engineering,Software Engineer,2022/09/07,,7577,29,Female,4.05,2,3,2,3,3
+E-1738,PETRA Lindgren,Eng.,Data Engineer,2024-04-28,N/A,-1,62,Male,2.41,3,3,3,2,3
+E-2292,  john WEI ,Sales,Account Executive,20 Jan 2020,,6545,49,Male,6.68,2,3,3,3,3
+E-2453,Omar Andersson,Sal3s,Sales Manager,2011/11/04,NULL,5794,34,Female,14.89,2,2,3,3,3
+E-1210,  petra WEBER ,Engineering ,Software Engineer,23 Mar 2022,N/A,7211,46,Male,4.51,3,3,high,3,high
+E-2307,Hana Haddad,Sales,Account Executive,15/02/2020,NULL,6579,46,Male,6.61,5,3,3,3,3
+E-1489,IVAN Smith,Engineering ,QA Analyst,1 Mar 2022,,7056,33,Male,4.57,2,3,2,3,2
+E-2295,  lucas DIALLO ,Sal3s,Account Executive,19/03/2026,NULL,6900,34,Male,0.52,0,2,2,2,3
+E-1882,Li Okafor,Engineering ,Engineering Lead,29 Jun 2022,N/A,"7,193.00",34,Female,4.24,3,3,3,2,2
+E-2436,  igor FARAH ,Sal3s,Sales Development Rep,22 Jun 2013,NULL,"$7,257",39,Male,13.26,3,2,2,medium,2
+E-1331,WEI Santos,Engineering ,Software Engineer,06/07/2024,N/A,7072,55,Male,2.22,2,3,2,3,3
+E-1442,Aisha Lindgren,Engineering ,QA Analyst,16/01/2022,,6273,38,Male,4.69,2,2,3,3,3
+E-1197,Lucas Nair,Engineering ,Software Engineer,2015-05-20,NULL,"6,691.00",37,Female,11.35,n/a,3,2,2,3
+E-1565,David Nair,Engineering ,QA Analyst,18 Dec 2023,,"6,846.00",58,Male,2.77,3,3,3,3,2
+E-2071,Carlos Osei,Sales,Account Executive,19 Aug 2024,25 Sep 2026,5485,22,Female,2.1,3,3,0,5,3
+E-2262,Lucas Weber,Sal3s,Account Executive,16/01/2018,,"$5,299",57,Female,8.69,n/a,2,3,2,3
+E-2221,Rosa Novak,Sales,Account Executive,20 Jan 2020,NULL,-1,25,Male,6.68,3,3,3,2,high
+E-1627,  david IVANOV ,Eng.,Data Engineer,2022/04/06,,-1,37,Female,4.47,3,3,3,3,3
+E-1058,CARLOS Nakamura,human resources ,HR Manager,31/05/2024,NULL,"4,901.00",47,Female,2.32,3,2,3,2,3
+E-1435,ROSA Kim,Engineering ,QA Analyst,2022-01-09,N/A,7131,41,Male,4.71,3,3,2,medium,2
+E-1200,VERA Kowalski,Engineering ,Software Engineer,25/04/2022,,6738,34,Male,4.42,3,2,3,n/a,0
+E-1764,LI Kaur,engineering,Support Engineer,2026-04-14,N/A,7066,46,Female,0.45,3,3,high,2,0
+E-2118,Noah Nakamura,Sales,Account Executive,03/06/2020,,5493,37,Female,6.31,2,3,3,2,3
+E-1568,Julia Silva,Engineering ,QA Analyst,30 Aug 2026,N/A,7187,32,Male,0.07,3,3,3,2,3
+E-1642,  priya LINDGREN ,engineering,Data Engineer,20 Jan 2020,,"6,702.00",36,Male,6.68,3,n/a,3,3,3
+E-1584,OSCAR Duarte,Engineering ,QA Analyst,18/12/2021,NULL,6256,46,Male,4.77,3,high,3,medium,2
+E-1367,Paul Okafor,Eng.,QA Analyst,16 Aug 2026,2026-09-25,"$6,222",33,Male,0.11,3,2,2,2,2
+E-1219,SOFIA Ivanov,Eng.,Software Engineer,28/09/2025,NULL,7194,38,Male,0.99,3,3,0,2,3
+E-2437,Wei O'Brien,Sal3s,Sales Development Rep,2022/07/25,NULL,"$5,947",45,Male,4.17,3,3,2,3,3
+E-1314,Priya O'Brien,Engineering ,Software Engineer,2022-02-18,,6409,61,Male,4.6,3,3,3,2,3
+E-2403,Mei Duarte,sales ,Sales Development Rep,2022-08-27,NULL,"$5,917",24,Female,4.08,2,3,2,3,3
+E-1468,Fatima Kim,Engineering ,QA Analyst,2015-03-05,NULL,8025,36,Male,11.56,0,3,2,medium,3
+E-1730,Carlos Haddad,engineering,Data Engineer,21 Sep 2022,NULL,"7,186.00",29,Male,4.01,3,3,medium,2,2
+E-1030,Maria Silva,human resources ,HR Partner,20/04/2024,N/A,"$4,831",48,Male,2.43,3,3,3,3,3
+E-1399,Sofia Nair,engineering,QA Analyst,25/02/2017,NULL,"$6,149",57,Female,9.58,3,3,2,3,3
+E-1125,Kenji Silva,engineering,Software Engineer,2010/06/26,N/A,5892,34,Male,16.25,5,3,2,3,n/a
+E-2056,  fatima ROSSI ,Sal3s,Account Executive,2026/05/20,25/09/2026,5786,28,Female,0.35,3,3,3,3,6
+E-1149,Lucas Popescu,Eng.,Software Engineer,2017/07/21,,-1,34,Female,9.18,2,2,3,2,3
+E-2353,John Popescu,Sal3s,Sales Development Rep,2026/03/26,2026/09/25,5740,52,Male,0.5,high,3,2,3,3
+E-2264,Kenji Popescu,Sales,Account Executive,2021-10-02,,"6,213.00",47,Female,4.98,3,2,2,2,3
+E-1327,Nina Duarte,Engineering ,Software Engineer,2023-11-15,N/A,6771,37,Male,2.86,2,2,3,3,2
+E-2386,Fatima Osei,Sales,Sales Development Rep,2013-06-25,N/A,"$6,965",36,Female,13.25,2,2,2,3,2
+E-2172,GRACE Andersson,sales ,Account Executive,9 Jan 2026,,6086,59,Female,0.71,3,3,3,3,high
+E-1332,TALIA Farah,engineering,Software Engineer,27/05/2014,N/A,-1,28,Female,12.33,3,3,2,3,3
+E-1845,Miguel Kaur,Engineering ,Support Engineer,4 Nov 2021,NULL,-1,35,Female,4.89,3,3,3,3,2
+E-1171,Igor Lindgren,Engineering ,Software Engineer,4 Nov 2016,N/A,7067,29,Female,9.89,3,3,3,3,3
+E-1757,Oscar Novak,engineering,Support Engineer,16/08/2026,25 Sep 2026,7256,26,Female,0.11,3,3,3,2,3
+E-1444,SVEN Andersson,Eng.,QA Analyst,1 Mar 2022,N/A,6641,34,Female,4.57,3,3,3,0,3
+E-2198,  david KIM ,Sales,Account Executive,08/08/2024,NULL,5885,44,Male,2.13,3,2,3,2,2
+E-2073,Okafor Novak,sales ,Account Executive,2024-07-17,25/09/2026,6205,62,Female,2.19,3,3,3,3,3
+E-1831,Julia Diallo,Engineering ,Support Engineer,2017-02-03,N/A,"8,011.00",39,Male,9.64,2,2,2,3,2
+E-2193,PAUL Chen,Sales,Account Executive,2017/01/08,NULL,6831,33,Female,9.71,3,2,3,3,3
+E-1660,Fatima Kaur,engineering,Data Engineer,2024-06-03,N/A,6866,36,Female,2.31,3,3,3,2,3
+E-1553,Lara Smith,engineering,QA Analyst,02/05/2010,NULL,5705,50,Female,16.4,3,3,2,3,2
+E-1291,  emma IVANOV ,engineering,Software Engineer,27 Aug 2007,N/A,6708,38,Male,19.08,3,3,6,high,2
+E-1077,Julia Kowalski,Eng.,Software Engineer,2024-07-13,2026/09/25,"$5,789",41,Male,2.2,0,3,3,2,3
+E-2394,  rosa KAUR ,Sal3s,Sales Development Rep,2025/09/28,NULL,5864,44,Male,0.99,2,2,2,2,3
+E-1657,Okafor Nair,Eng.,Data Engineer,6 Sep 2017,N/A,6863,29,Female,9.05,3,3,3,2,3
+E-1098,NOAH Smith,engineering,Software Engineer,30/03/2022,2026-09-25,"$6,144",50,Female,4.49,3,3,3,6,2
+E-1715,Umar Weber,engineering,Data Engineer,2020/07/21,NULL,8055,27,Female,6.18,3,3,3,high,3
+E-2085,Julia Santos,sales ,Account Executive,09/01/2026,2026/09/25,5821,18,Female,0.71,3,3,medium,3,3
+E-2301,Tomas Lindgren,Sales,Account Executive,25/12/2016,N/A,5980,65,Female,9.75,medium,n/a,3,3,3
+E-1088,MEI Lindgren,Eng.,Software Engineer,30 Mar 2022,2026/09/25,-1,19,Male,4.49,3,3,3,3,n/a
+E-2391,Priya Smith,Sales,Sales Development Rep,2024/05/20,N/A,5764,31,Male,2.35,2,2,2,2,3
+E-2191,PRIYA Garcia,sales ,Account Executive,2016/12/10,,5838,43,Male,9.79,2,2,2,3,3
+E-1401,Lara Kowalski,Eng.,QA Analyst,22 Jul 2007,NULL,"$6,327",25,Female,19.18,2,3,3,3,3
+E-1371,Talia Okafor,engineering,QA Analyst,2024/02/18,2026/09/25,6729,40,Female,2.6,2,3,2,3,3
+E-2080,Aisha Garcia,Sal3s,Account Executive,21/07/2026,25 Sep 2026,5764,27,Male,0.18,n/a,3,3,2,2
+E-2498,Miguel Okafor,sales ,Sales Manager,2020-03-15,N/A,"$6,457",37,Female,6.53,3,3,3,3,3
+E-1649,  hana ANDERSSON ,engineering,Data Engineer,14/12/2013,NULL,6691,48,Female,12.78,n/a,3,3,3,3
+E-1353,  paul KOWALSKI ,Eng.,QA Analyst,2023/12/18,25 Sep 2026,-1,33,Male,2.77,3,medium,2,3,2
+E-1988,QUINN Andersson,engineering,Engineering Manager,30/03/2007,,7358,27,Female,19.49,2,3,3,6,3
+E-1166,  priya WEI ,engineering,Software Engineer,12 Aug 2020,,-1,38,Female,6.12,3,3,3,2,3
+E-2395,Lara Nakamura,sales ,Sales Development Rep,27/05/2020,NULL,5713,33,Female,6.33,high,3,2,2,3
+E-1176,  rosa NOVAK ,Engineering ,Software Engineer,4 Nov 2016,,6459,40,Female,9.89,3,high,3,3,2
+E-2490,ANNA Rossi,Sal3s,Sales Manager,6 Oct 2023,NULL,6492,42,Male,2.97,3,3,high,3,0
+E-1434,Noah Rossi,engineering,QA Analyst,06/10/2017,N/A,7295,33,Male,8.97,3,3,3,3,3
+E-2213,Lara Smith,Sales,Account Executive,13 Jul 2024,N/A,"$5,829",44,Female,2.2,2,3,2,3,high
+E-2299,Sven Duarte,Sal3s,Account Executive,2013/01/23,NULL,6596,43,Female,13.67,2,3,n/a,3,3
+E-2229,Sofia Andersson,sales ,Account Executive,2025-10-20,NULL,6498,54,Male,0.93,3,3,3,3,3
+E-2019,Zoe Popescu,engineering,Engineering Manager,24/04/2020,NULL,6255,35,Male,6.42,3,3,3,3,3
+E-1275,Sven Kim,Engineering ,Software Engineer,14 Dec 2025,N/A,-1,62,Female,0.78,3,3,3,3,3
+E-2055,Nina Chen,sales ,Account Executive,07/06/2020,2026-09-25,"5,016.00",19,Male,6.3,2,2,2,n/a,2
+E-1006,Tomas Haddad,HR,HR Partner,1 Aug 2026,25/09/2026,4278,34,Female,0.15,3,high,3,3,high
+E-2389,Oscar Farah,Sal3s,Sales Development Rep,2017/08/01,N/A,6224,18,Male,9.15,3,2,2,5,2
+E-2418,Talia Ivanov,sales ,Sales Development Rep,2017/10/17,NULL,"$6,180",42,Female,8.94,3,2,3,3,2
+E-2303,Maria Santos,Sales,Account Executive,10 Sep 2022,,6307,28,Female,4.04,2,2,3,3,3
+E-1002,Yusuf Chen,human resources ,HR Partner,11 Feb 2024,25/09/2026,"$4,296",47,Female,2.62,3,2,2,3,3
+E-1858,Quinn Garcia,Engineering ,Support Engineer,03/02/2022,NULL,7277,28,Male,4.64,2,3,3,3,high
+E-1800,TALIA Kaur,Eng.,Support Engineer,24 May 2022,,5860,49,Male,4.34,2,6,3,3,3
+E-2087,Rosa Okafor,Sal3s,Account Executive,2025/11/04,25 Sep 2026,-1,53,Male,0.89,2,0,6,3,2
+E-1836,Fatima Smith,Eng.,Support Engineer,3 Jul 2014,NULL,"$8,274",34,Male,12.23,3,2,3,3,2
+E-2001,ZOE Farah,Eng.,Engineering Manager,2010-03-01,,6931,33,Male,16.57,n/a,n/a,3,3,3
+E-1094,Mei Okafor,Eng.,Software Engineer,29/09/2023,25 Sep 2026,6102,18,Male,2.99,3,3,3,3,3
+E-2129,Sven Duarte,Sales,Account Executive,2020-05-27,,6693,34,Female,6.33,3,high,3,0,3
+E-1617,Okafor Rossi,Eng.,Data Engineer,02/01/2024,N/A,"6,331.00",47,Male,2.73,3,5,3,2,3
+E-1115,Hana Diallo,Engineering ,Software Engineer,09/05/2022,,"$7,204",50,Female,4.38,n/a,2,2,3,2
+E-1218,JOHN O'Brien,Engineering ,Software Engineer,2025-12-21,NULL,"6,981.00",43,Male,0.76,3,3,3,3,3
+E-1760,James O'Brien,Engineering ,Support Engineer,13 Jul 2020,NULL,"$7,183",33,Male,6.2,2,2,medium,3,3
+E-1378,  miguel OSEI ,Eng.,QA Analyst,2024/05/09,2026-09-25,5170,31,Female,2.38,3,3,3,n/a,3
+E-1073,Nadia Weber,Engineering ,Software Engineer,2026-05-13,2026-09-25,6216,19,Female,0.37,3,3,3,2,3
+E-2173,Maria Kowalski,Sales,Account Executive,1 Mar 2026,,5361,44,Female,0.57,3,2,3,3,3
+E-2173,MARIA KOWALSKI,Sales,Account Executive,1 Mar 2026,,5361,44,Female,0.57,3,2,3,3,3
+E-1025,Paul Smith,HR,HR Partner,2013/01/16,N/A,5668,24,Male,13.69,3,3,2,3,3
+E-2254,Kenji Novak,Sal3s,Account Executive,18/02/2022,N/A,5689,36,Female,4.6,3,2,3,3,3
+E-2025,LUCAS Lindgren,Sales,Account Executive,2024/01/02,25 Sep 2026,6024,18,Male,2.73,3,2,3,2,2
+E-1460,Grace Novak,engineering,QA Analyst,2026-03-15,N/A,6843,46,Female,0.53,3,2,3,3,2
+E-1732,Okafor Silva,Engineering ,Data Engineer,2026/01/16,,"6,686.00",37,Male,0.69,3,3,3,3,3
+E-1484,Lucas Osei,Engineering ,QA Analyst,2026/03/23,N/A,7374,37,Male,0.51,2,2,3,3,3
+E-1341,Carlos Lindgren,Eng.,QA Analyst,2026-05-09,25/09/2026,5725,51,Male,0.38,2,3,3,2,2
+E-2242,Emma Duarte,sales ,Account Executive,2020-04-09,NULL,6146,38,Female,6.46,3,3,3,3,3
+E-1766,Tomas Farah,engineering,Support Engineer,4 Nov 2019,N/A,-1,27,Female,6.89,3,3,2,3,3
+E-1841,Quinn Okafor,Engineering ,Support Engineer,2021/11/08,N/A,"$6,722",54,Male,4.88,3,2,3,2,2
+E-1422,Lara Nair,Eng.,QA Analyst,2022/05/20,NULL,6567,48,Female,4.35,2,2,2,3,3
+E-1802,PRIYA Weber,engineering,Support Engineer,6 Oct 2025,NULL,6642,61,Male,0.97,3,high,3,3,3
+E-1854,Carlos Smith,Eng.,Support Engineer,2022/09/14,,"7,026.00",33,Male,4.03,2,3,2,2,3
+E-1427,CARLOS Silva,Engineering ,QA Analyst,22/06/2020,N/A,"6,463.00",45,Female,6.26,3,3,0,3,2
+E-1912,Nina Okafor,Engineering ,Engineering Lead,26 Mar 2022,N/A,7523,23,Male,4.5,3,3,3,3,3
+E-1607,Igor Andersson,engineering,Data Engineer,18 Dec 2025,,6664,29,Female,0.77,high,3,3,3,2
+E-1160,  rosa NAIR ,Eng.,Software Engineer,2024/08/12,NULL,6891,32,Female,2.12,2,medium,3,3,3
+E-1655,Priya Kaur,engineering,Data Engineer,14 Oct 2019,NULL,"6,096.00",40,Female,6.95,high,high,2,3,5
+E-2261,Aisha Duarte,sales ,Account Executive,9 Apr 2024,NULL,6481,36,Male,2.46,3,2,3,3,3
+E-1119,MEI Santos,Engineering ,Software Engineer,22 Nov 2021,NULL,7025,20,Female,4.84,n/a,0,2,3,3
+E-2349,Okafor Novak,Sales,Account Executive,2013/09/25,NULL,-1,47,Female,13.0,3,2,3,3,3
+E-2139,Petra O'Brien,Sales,Account Executive,17 Jul 2020,NULL,6151,42,Female,6.19,2,3,3,n/a,3
+E-2068,EMMA Nair,sales ,Account Executive,2022/03/30,2026-09-25,5594,32,Male,4.49,3,3,3,3,3
+E-1980,Julia O'Brien,Engineering ,Engineering Manager,3 Jun 2024,N/A,7169,54,Male,2.31,2,2,3,3,3
+E-1664,  miguel NAKAMURA ,Engineering ,Data Engineer,29/02/2024,N/A,7213,52,Male,2.57,3,3,3,3,3
+E-2119,Priya Lindgren,Sal3s,Account Executive,2022/08/16,NULL,"$6,413",29,Female,4.11,3,3,3,3,0
+E-1060,  ivan O'BRIEN ,Eng.,Software Engineer,24/05/2022,25/09/2026,"$5,038",32,Male,4.34,3,high,3,3,n/a
+E-2078,Umar Kowalski,Sales,Account Executive,28 Oct 2025,25 Sep 2026,6345,42,Female,0.91,2,3,high,2,2
+E-1473,Wei Nakamura,Eng.,QA Analyst,17 Apr 2020,NULL,6955,31,Male,6.44,3,3,3,3,3
+E-1253,  sven KAUR ,engineering,Software Engineer,2013/12/18,N/A,6969,49,Male,12.77,2,2,2,3,3
+E-2457,NOAH Kowalski,sales ,Sales Manager,2020/05/09,,"$6,500",43,Female,6.38,2,3,3,2,3
+E-1998,Lara Popescu,Engineering ,Engineering Manager,29/06/2017,NULL,"7,399.00",64,Female,9.24,3,3,5,3,3
+E-1310,Miguel Popescu,Engineering ,Software Engineer,2024-01-24,NULL,8006,33,Female,2.67,high,3,3,2,3
+E-1724,GRACE Lindgren,engineering,Data Engineer,2015/08/23,N/A,6372,55,Female,11.09,3,3,3,2,3
+E-1819,  carlos GARCIA ,Eng.,Support Engineer,2020/07/06,,7367,33,Male,6.22,2,3,3,3,high
+E-1409,Ivan Weber,Engineering ,QA Analyst,2024-05-23,N/A,6501,27,Female,2.34,2,3,2,2,3
+E-1306,Umar Santos,Eng.,Software Engineer,2024/02/18,NULL,"7,567.00",28,Male,2.6,3,3,3,2,2
+E-1520,YUSUF Farah,Eng.,QA Analyst,2023-11-23,,"6,356.00",36,Female,2.84,3,2,2,2,n/a
+E-2149,Mei Diallo,Sal3s,Account Executive,7 Jun 2026,N/A,6145,47,Female,0.3,3,3,3,3,3
+E-1909,Tomas Weber,engineering,Engineering Lead,10/12/2021,,7533,46,Female,4.79,3,3,2,3,3
+E-2340,Grace Smith,sales ,Account Executive,1 Aug 2020,NULL,"$6,420",31,Male,6.15,3,high,n/a,3,3
+E-2133,Kenji Andersson,sales ,Account Executive,22/02/2022,,6417,55,Male,4.59,3,2,3,3,3
+E-2348,Ivan Popescu,Sal3s,Account Executive,12/03/2026,,"$7,067",38,Female,0.54,3,3,3,3,3
+E-2489,Hana Kaur,Sales,Sales Manager,2018/08/09,,"$5,304",38,Male,8.13,2,3,3,3,3
+E-2441,  emma NAIR ,Sal3s,Sales Development Rep,2015-02-25,,6139,35,Male,11.58,3,2,2,high,3
+E-1500,Igor Duarte,engineering,QA Analyst,2022/01/09,NULL,7756,23,Female,4.71,3,3,2,3,2
+E-2406,  mei WEI ,sales ,Sales Development Rep,24 Oct 2006,N/A,5686,59,Male,19.92,2,2,2,2,3
+E-2333,  quinn POPESCU ,sales ,Account Executive,25 Jul 2006,NULL,-1,41,Female,20.17,2,6,2,3,3
+E-1621,LI Nakamura,Eng.,Data Engineer,2019-12-07,N/A,"6,509.00",51,Male,6.8,3,2,3,3,3
+E-1010,IVAN Garcia,HR,HR Partner,07/07/2026,2026-09-25,-1,43,Female,0.22,2,3,3,3,3
+E-1362,Umar Novak,Eng.,QA Analyst,2025/12/10,2026-09-25,-1,33,Female,0.79,3,3,n/a,2,3
+E-1045,LUCAS Novak,HR,HR Partner,2021/10/09,,5732,47,Female,4.96,2,2,3,3,3
+E-1424,Carlos Rossi,Engineering ,QA Analyst,2025/11/04,N/A,-1,47,Female,0.89,0,2,2,3,n/a
+E-1234,IVAN Chen,engineering,Software Engineer,21/09/2005,NULL,7344,33,Male,21.01,3,3,3,3,3
+E-1264,JAMES O'Brien,Eng.,Software Engineer,2022-08-01,NULL,"$8,225",35,Male,4.15,3,3,3,n/a,2
+E-1616,MIGUEL Wei,engineering,Data Engineer,2024-08-01,N/A,7981,40,Female,2.15,3,3,3,2,2
+E-1054,SVEN Andersson,Human Resources,HR Manager,2020-07-24,N/A,"$5,451",30,Male,6.17,4,3,3,2,3
+E-1339,EMMA Ivanov,engineering,Software Engineer,2026/09/07,N/A,7835,40,Male,0.05,3,3,2,3,3
+E-1296,Carlos Rossi,Eng.,Software Engineer,13 Jan 2020,N/A,-1,39,Male,6.7,3,3,3,high,2
+E-1014,Nina Okafor,human resources ,HR Partner,2011/10/24,NULL,"5,053.00",29,Female,14.92,3,3,3,3,2
+E-2072,VERA Farah,sales ,Account Executive,2026-01-23,25 Sep 2026,5947,33,Male,0.67,3,n/a,3,3,3
+E-1894,Miguel Okafor,engineering,Engineering Lead,6 Apr 2022,,"$7,618",40,Female,4.47,2,3,3,3,3
+E-2030,  oscar DIALLO ,Sal3s,Account Executive,2026/03/12,2026/09/25,6645,27,Male,0.54,3,5,3,3,3
+E-2323,Miguel Kowalski,sales ,Account Executive,1 Nov 2019,NULL,"5,876.00",25,Male,6.9,3,2,3,3,3
+E-2170,ANNA Kowalski,Sal3s,Account Executive,2022/04/21,N/A,6688,47,Female,4.43,2,2,3,2,2
+E-1436,  yusuf ANDERSSON ,Eng.,QA Analyst,2022-04-10,,7350,23,Male,4.46,2,3,3,n/a,2
+E-1907,Ivan Kim,Engineering ,Engineering Lead,2026-03-01,NULL,"$6,353",24,Male,0.57,3,3,3,high,3
+E-1907,IVAN KIM,Engineering ,Engineering Lead,2026-03-01,NULL,"$6,353",24,Male,0.57,3,3,3,high,3
+E-1027,Vera Duarte,human resources ,HR Partner,2026/08/05,N/A,5312,35,Female,0.14,3,3,2,3,3
+E-1131,Zoe Rossi,Eng.,Software Engineer,2021-11-11,,6489,34,Female,4.87,5,2,3,3,2
+E-1259,Kenji Haddad,Eng.,Software Engineer,24 Apr 2024,NULL,6387,28,Female,2.42,high,3,2,3,high
+E-2248,Rosa Garcia,Sal3s,Account Executive,2017/03/30,,"6,322.00",31,Male,9.49,3,3,3,3,3
+E-1646,Talia Smith,engineering,Data Engineer,2020/01/27,,"7,058.00",31,Female,6.66,3,3,3,3,3
+E-2023,Fatima Garcia,sales ,Account Executive,3 Oct 2023,25 Sep 2026,6206,40,Female,2.98,3,2,3,3,3
+E-1555,Anna Kaur,Eng.,QA Analyst,16 Jan 2018,NULL,-1,39,Female,8.69,2,3,2,3,2
+E-1309,  umar ROSSI ,engineering,Software Engineer,2024-09-14,NULL,7387,34,Male,2.03,3,2,3,2,high
+E-1036,Talia Okafor,human resources ,HR Partner,4 Aug 2020,,5343,37,Female,6.14,3,3,2,high,3
+E-2271,Lucas Rossi,Sales,Account Executive,03/02/2022,N/A,6637,56,Female,4.64,2,3,3,medium,3
+E-1525,John Wei,engineering,QA Analyst,20/10/2021,N/A,6461,64,Male,4.93,medium,2,3,2,2
+E-1095,  anna KOWALSKI ,engineering,Software Engineer,2026-01-01,25/09/2026,5738,38,Female,0.73,3,3,2,2,3
+E-1386,Lucas Weber,engineering,QA Analyst,21/12/2025,25/09/2026,6086,30,Female,0.76,2,3,2,3,2
+E-2259,Umar Duarte,Sal3s,Account Executive,18/09/2022,N/A,6165,27,Female,4.02,3,2,2,medium,2
+E-1019,Aisha Novak,Human Resources,HR Partner,01/08/2022,N/A,4657,53,Female,4.15,3,2,2,3,high
+E-1020,Kenji Kaur,Human Resources,HR Partner,2025-12-07,,"$4,740",32,Female,0.8,medium,3,2,3,3
+E-2461,  hana HADDAD ,sales ,Sales Manager,2026/06/18,N/A,6440,50,Female,0.27,3,3,6,3,3
+E-1458,Carlos Novak,Engineering ,QA Analyst,27 May 2024,,6803,19,Male,2.33,3,n/a,3,3,3
+E-1405,ANNA Okafor,Eng.,QA Analyst,19/08/2020,,"7,375.00",29,Male,6.1,3,3,3,3,3
+E-2165,Sofia Chen,Sales,Account Executive,2017/06/11,,6446,43,Female,9.29,3,n/a,3,n/a,n/a
+E-1735,Julia Novak,engineering,Data Engineer,2022-03-15,N/A,6967,47,Male,4.53,3,2,3,3,3
+E-2476,Li Popescu,Sales,Sales Manager,31/05/2024,N/A,6299,39,Male,2.32,3,2,3,3,3
+E-1853,FATIMA Chen,Engineering ,Support Engineer,2026-07-03,,7649,42,Male,0.23,3,2,3,2,3
+E-1043,ROSA Novak,Human Resources,HR Partner,31/10/2016,,5681,43,Male,9.9,2,3,3,3,3
+E-2398,SOFIA Smith,Sales,Sales Development Rep,2022/04/03,NULL,6454,41,Male,4.48,3,2,3,2,3
+E-1843,James Garcia,engineering,Support Engineer,2019/12/29,N/A,-1,29,Male,6.74,3,3,2,3,high
+E-1228,  mei KIM ,Engineering ,Software Engineer,2024-06-14,NULL,7171,39,Female,2.28,2,3,3,3,3
+E-2455,Omar Osei,sales ,Sales Manager,2014/11/26,,"6,063.00",30,Male,11.83,2,high,3,0,3
+E-2455,OMAR OSEI,sales ,Sales Manager,2014/11/26,,"6,063.00",30,Male,11.83,2,high,3,0,3
+E-2451,Umar Nakamura,Sal3s,Sales Manager,26/11/2025,2026-09-25,5414,37,Male,0.83,2,3,3,3,3
+E-1096,  noah GARCIA ,engineering,Software Engineer,2020/09/17,25/09/2026,5194,25,Female,6.02,high,3,2,3,2
+E-1483,SVEN Nakamura,Engineering ,QA Analyst,2026-01-05,NULL,"7,081.00",48,Male,0.72,2,2,5,3,3
+E-1198,John Haddad,Engineering ,Software Engineer,30/08/2022,NULL,"$7,635",36,Female,4.07,3,3,2,3,2
+E-1101,Fatima Okafor,engineering,Software Engineer,21 Jul 2020,NULL,6869,50,Female,6.18,high,3,3,3,3
+E-2314,  lucas GARCIA ,Sales,Account Executive,16/01/2024,,5846,27,Male,2.69,3,3,3,3,3
+E-1178,Vera Weber,Eng.,Software Engineer,30/11/2019,NULL,6566,43,Female,6.82,3,3,3,2,3
+E-1178,VERA WEBER,Eng.,Software Engineer,30/11/2019,NULL,6566,43,Female,6.82,3,3,3,2,3
+E-2153,  noah KOWALSKI ,Sal3s,Account Executive,2024/01/16,N/A,6265,45,Female,2.69,3,3,3,3,2
+E-2244,Yusuf Nair,Sales,Account Executive,2024/09/14,NULL,5900,62,Male,2.03,2,3,3,3,3
+E-1876,Paul Silva,Engineering ,Engineering Lead,2026-08-27,25/09/2026,"$5,301",42,Male,0.08,3,high,3,3,3
+E-2361,Mei O'Brien,Sales,Sales Development Rep,31 Jan 2020,25 Sep 2026,6058,20,Male,6.65,3,3,3,medium,6
+E-2335,Vera Farah,sales ,Account Executive,2022/05/06,NULL,6133,21,Male,4.39,3,3,3,3,3
+E-2174,Talia Kim,Sales,Account Executive,2026-08-16,NULL,5639,47,Female,0.11,n/a,3,2,3,3
+E-2463,NOAH Nakamura,Sales,Sales Manager,2022-04-21,,5875,34,Male,4.43,2,3,3,2,2
+E-1662,Aisha Nair,Engineering ,Data Engineer,15 Mar 2020,N/A,-1,55,Male,6.53,3,3,3,3,medium
+E-1790,Lucas Osei,engineering,Support Engineer,23/01/2018,NULL,7056,57,Male,8.67,2,3,2,3,3
+E-2004,  carlos POPESCU ,engineering,Engineering Manager,2026-08-23,N/A,-1,30,Female,0.09,3,3,2,3,2
+E-1395,Anna Haddad,Eng.,QA Analyst,18/06/2024,25/09/2026,5935,63,Female,2.27,2,2,3,2,2
+E-2433,Rosa Kim,Sal3s,Sales Development Rep,2022/03/15,NULL,6518,37,Female,4.53,2,n/a,3,3,3
+E-2108,FATIMA Kim,Sales,Account Executive,15 Nov 2021,NULL,5874,28,Male,4.86,3,6,3,3,2
+E-1381,NOAH Kaur,Eng.,QA Analyst,5 Oct 2016,2026-09-25,-1,56,Male,9.97,2,3,2,n/a,3
+E-2215,  rosa O'BRIEN ,Sal3s,Account Executive,10/09/2014,NULL,"$6,527",28,Female,12.04,3,3,3,3,2
+E-2393,  priya OKAFOR ,Sal3s,Sales Development Rep,2026/03/19,,6105,45,Male,0.52,2,6,2,3,3
+E-2120,CARLOS Kowalski,sales ,Account Executive,2024/04/02,N/A,"5,622.00",20,Male,2.48,3,2,3,3,3
+E-1416,Quinn Lindgren,engineering,QA Analyst,2023/11/30,,"5,461.00",40,Male,2.82,2,2,3,3,3
+E-1698,Talia Duarte,engineering,Data Engineer,06/10/2023,NULL,-1,33,Female,2.97,3,3,3,3,2
+E-1667,Hana Chen,Eng.,Data Engineer,17/09/2024,NULL,7150,56,Female,2.02,n/a,3,3,3,3
+E-1753,John Kowalski,Engineering ,Support Engineer,2022/05/20,25/09/2026,-1,34,Male,4.35,3,2,3,3,3
+E-1039,  miguel SILVA ,human resources ,HR Partner,2016-10-09,NULL,5445,32,Female,9.96,2,2,2,3,n/a
+E-1651,John Wei,Engineering ,Data Engineer,15 Nov 2021,,"$6,347",22,Male,4.86,3,3,3,2,2
+E-2212,  petra IVANOV ,Sal3s,Account Executive,2022/08/01,NULL,"5,547.00",49,Male,4.15,2,3,3,n/a,3
+E-1969,ROSA Andersson,Engineering ,Engineering Manager,2017-10-24,,"7,394.00",45,Male,8.92,2,3,2,3,3
+E-1533,LARA Nakamura,engineering,QA Analyst,2024/09/06,N/A,7186,26,Male,2.05,2,0,3,2,3
+E-2459,Li Kaur,sales ,Sales Manager,23 May 2020,,-1,33,Female,6.34,3,2,2,6,3
+E-1974,Rosa O'Brien,Eng.,Engineering Manager,2017-10-31,N/A,6477,37,Female,8.9,high,2,2,3,2
+E-1923,Miguel Wei,engineering,Engineering Lead,24 May 2022,,6713,35,Male,4.34,3,2,2,3,3
+E-1978,Vera Chen,Engineering ,Engineering Manager,2022-05-31,N/A,-1,49,Female,4.32,3,3,3,3,high
+E-2131,Paul Osei,Sal3s,Account Executive,06/07/2020,,5956,43,Female,6.22,3,3,high,3,3
+E-1203,Ivan Nakamura,Eng.,Software Engineer,24 Oct 2017,,7719,38,Male,8.92,3,3,3,3,3
+E-1298,WEI Chen,Eng.,Software Engineer,30/08/2022,N/A,7033,40,Male,4.07,3,2,3,3,2
+E-1946,Umar Kowalski,Engineering ,Engineering Lead,28/09/2016,N/A,6642,25,Male,9.99,3,3,3,3,3
+E-1849,Tomas Ivanov,Engineering ,Support Engineer,2013/05/27,,-1,39,Female,13.33,3,0,3,3,high
+E-1453,Grace Santos,engineering,QA Analyst,2024/07/13,NULL,7914,63,Male,2.2,2,2,2,3,3
+E-1357,CARLOS Diallo,Eng.,QA Analyst,15 Mar 2018,2026-09-25,"$5,543",41,Male,8.53,medium,3,3,2,3
+E-1743,Miguel Kowalski,Engineering ,Support Engineer,18 Dec 2023,25/09/2026,6526,25,Female,2.77,2,2,high,3,3
+E-1659,  tomas FARAH ,Engineering ,Data Engineer,2026-02-14,,6540,36,Male,0.61,3,2,3,3,3
+E-1495,JAMES Weber,engineering,QA Analyst,22/02/2026,NULL,6183,53,Male,0.59,3,high,3,2,3
+E-1136,Oscar Weber,Engineering ,Software Engineer,2026/08/16,NULL,5938,41,Male,0.11,3,2,3,2,3
+E-2110,  petra O'BRIEN ,sales ,Account Executive,23 Nov 2023,N/A,6569,32,Female,2.84,2,2,3,2,2
+E-1325,LARA Haddad,engineering,Software Engineer,15 Jun 2022,,"6,832.00",46,Female,4.28,3,2,0,3,2
+E-1508,  tomas NOVAK ,engineering,QA Analyst,2017-02-25,NULL,"$6,277",39,Female,9.58,2,3,3,2,3
+E-1870,Rosa Nakamura,Eng.,Engineering Lead,2022-04-21,25/09/2026,6533,19,Male,4.43,2,3,2,3,2
+E-2385,Miguel Weber,sales ,Sales Development Rep,2026/08/05,,6494,32,Male,0.14,3,3,3,3,3
+E-1417,  ivan DUARTE ,Eng.,QA Analyst,2008/06/11,N/A,"$7,134",33,Female,18.29,2,3,2,3,3
+E-1364,Sven Lindgren,Eng.,QA Analyst,27/08/2026,2026-09-25,5531,45,Male,0.08,2,3,5,3,3
+E-1177,Oscar Smith,Eng.,Software Engineer,08/11/2011,NULL,6438,35,Male,14.88,3,3,2,6,2
+E-2485,John Kaur,sales ,Sales Manager,2024/09/25,,6045,47,Male,2.0,medium,3,3,3,high
+E-2097,  lara CHEN ,Sales,Account Executive,2022-07-10,N/A,5549,58,Female,4.21,2,3,5,3,2
+E-1231,  lucas NAIR ,Engineering ,Software Engineer,14 Dec 2016,NULL,7216,42,Male,9.78,3,3,3,3,2
+E-1285,Lucas O'Brien,Eng.,Software Engineer,2019-10-10,,"6,917.00",46,Male,6.96,3,3,3,2,5
+E-2116,Zoe Nair,Sales,Account Executive,18 Feb 2012,N/A,5777,65,Female,14.6,n/a,n/a,3,3,3
+E-1382,  julia SANTOS ,Eng.,QA Analyst,25 Sep 2023,25 Sep 2026,5532,42,Male,3.0,2,n/a,3,3,2
+E-1254,TOMAS Haddad,Eng.,Software Engineer,06/04/2020,N/A,6729,51,Male,6.47,3,3,2,2,3
+E-1625,Nina Garcia,engineering,Data Engineer,2026/05/17,N/A,"6,774.00",32,Male,0.36,3,2,3,3,2
+E-1712,Sven Rossi,Eng.,Data Engineer,17/04/2024,N/A,-1,32,Male,2.44,3,3,2,3,3
+E-1181,Lara Okafor,engineering,Software Engineer,2025-12-21,N/A,"$7,749",43,Male,0.76,2,3,n/a,high,2
+E-1111,SOFIA Popescu,Eng.,Software Engineer,26/03/2012,N/A,7547,30,Female,14.5,3,2,3,2,3
+E-1153,Julia Nair,engineering,Software Engineer,14/04/2026,N/A,"6,179.00",45,Male,0.45,3,3,3,high,3
+E-1768,  li POPESCU ,Engineering ,Support Engineer,2017-12-18,NULL,7325,48,Female,8.77,3,3,3,2,3
+E-1278,Talia Smith,Eng.,Software Engineer,29 Nov 2021,N/A,-1,25,Male,4.82,3,3,3,3,2
+E-2365,Umar Okafor,Sales,Sales Development Rep,2024/01/09,2026/09/25,"6,109.00",37,Female,2.71,2,3,3,2,0
+E-1528,  igor WEI ,Eng.,QA Analyst,2024/02/15,NULL,6384,50,Male,2.61,2,2,2,2,2
+E-2227,Talia Novak,Sales,Account Executive,2022-07-25,N/A,5302,35,Female,4.17,n/a,2,2,2,3
+E-1641,Igor Garcia,Eng.,Data Engineer,2023/11/30,NULL,6774,48,Male,2.82,3,3,3,3,2
+E-1987,Vera Okafor,engineering,Engineering Manager,2022/03/08,N/A,6521,48,Male,4.55,3,3,2,3,3
+E-1523,David Duarte,Eng.,QA Analyst,9 Apr 2020,NULL,7890,60,Male,6.46,3,3,3,3,2
+E-1691,  miguel HADDAD ,Engineering ,Data Engineer,2020-03-11,,"$6,939",43,Female,6.54,3,2,2,3,3
+E-1586,Emma Osei,Engineering ,QA Analyst,15 Dec 2019,N/A,7662,26,Female,6.78,2,medium,2,2,n/a
+E-2083,Zoe Haddad,sales ,Account Executive,21 Jul 2008,25 Sep 2026,-1,37,Female,18.18,high,3,n/a,2,3
+E-2487,Oscar Kowalski,sales ,Sales Manager,06/07/2012,N/A,-1,28,Female,14.22,3,3,high,high,2
+E-1459,  okafor NAKAMURA ,Eng.,QA Analyst,2020/02/22,N/A,6133,27,Male,6.59,2,3,3,2,3
+E-1370,James Nakamura,Engineering ,QA Analyst,23/11/2019,25/09/2026,5668,31,Male,6.84,2,2,3,high,2
+E-1083,James Nair,Engineering ,Software Engineer,2022-01-27,25 Sep 2026,-1,40,Male,4.66,3,high,3,3,2
+E-1083,JAMES NAIR,Engineering ,Software Engineer,2022-01-27,25 Sep 2026,-1,40,Male,4.66,3,high,3,3,2
+E-1731,Igor O'Brien,engineering,Data Engineer,15 Feb 2024,,6812,50,Female,2.61,3,3,3,3,3
+E-1235,  david ROSSI ,Engineering ,Software Engineer,2009-11-29,N/A,6453,39,Male,16.82,3,3,3,3,3
+E-1866,  lara NAKAMURA ,Engineering ,Support Engineer,28/04/2026,,"7,009.00",34,Male,0.41,3,3,3,2,3
+E-1404,  paul IVANOV ,Engineering ,QA Analyst,2024-01-06,N/A,6985,46,Female,2.72,n/a,n/a,3,2,3
+E-2220,Quinn Kowalski,sales ,Account Executive,2018-06-26,N/A,6266,38,Female,8.25,2,3,2,3,high
+E-2255,Mei Popescu,Sal3s,Account Executive,21 Sep 2024,,6610,55,Female,2.01,3,3,3,3,3
+E-1033,Fatima Silva,Human Resources,HR Partner,15/12/2019,N/A,5824,40,Male,6.78,3,3,3,2,3
+E-2161,Nadia Lindgren,Sales,Account Executive,2024/01/06,N/A,6224,38,Male,2.72,3,high,3,3,3
+E-2371,PRIYA Novak,Sal3s,Sales Development Rep,2020/05/27,25/09/2026,5789,56,Female,6.33,n/a,2,2,2,3
+E-2419,Mei Farah,Sal3s,Sales Development Rep,25/04/2022,NULL,6969,44,Female,4.42,3,3,3,3,3
+E-1685,Sofia Lindgren,Engineering ,Data Engineer,11 Jun 2020,,6846,46,Female,6.29,n/a,3,3,3,2
+E-1499,OKAFOR Santos,Engineering ,QA Analyst,2022/01/01,NULL,"$5,852",46,Male,4.73,2,0,3,3,3
+E-1830,QUINN Okafor,engineering,Support Engineer,18 Dec 2019,NULL,7097,32,Male,6.77,2,2,3,3,high
+E-1693,Omar Farah,Eng.,Data Engineer,21 Jul 2020,,6244,20,Male,6.18,3,2,3,3,3
+E-2443,JULIA Silva,sales ,Sales Development Rep,1 Aug 2026,N/A,"$5,911",24,Male,0.15,2,n/a,2,3,3
+E-2104,Emma Wei,Sal3s,Account Executive,2024/07/21,,6274,28,Male,2.18,3,3,3,2,3
+E-1447,  omar DUARTE ,engineering,QA Analyst,2026/08/12,NULL,"7,683.00",44,Male,0.12,3,3,2,3,2
+E-2387,Yusuf Kim,sales ,Sales Development Rep,2024/07/21,,"6,429.00",49,Male,2.18,3,n/a,2,2,3
+E-1238,MEI Weber,engineering,Software Engineer,12/08/2022,,-1,26,Male,4.12,3,5,3,2,3
+E-1516,Ivan Kowalski,engineering,QA Analyst,2024-02-22,NULL,6636,41,Female,2.59,3,2,2,2,2
+E-1967,  omar ROSSI ,Eng.,Engineering Manager,2022-01-27,NULL,6680,43,Male,4.66,3,3,2,2,n/a
+E-1624,  james KAUR ,engineering,Data Engineer,2019/11/23,,"$6,875",48,Female,6.84,3,2,3,3,3
+E-1351,Mei Kaur,Eng.,QA Analyst,21/07/2026,25 Sep 2026,"6,349.00",23,Female,0.18,n/a,n/a,2,2,n/a
+E-1752,Igor Andersson,engineering,Support Engineer,2026/08/16,25/09/2026,6584,25,Female,0.11,2,3,2,3,n/a
+E-1133,  rosa NAKAMURA ,Eng.,Software Engineer,2024-01-13,,7628,34,Male,2.7,2,2,3,3,3
+E-1747,Paul Kowalski,Eng.,Support Engineer,18 Jul 2026,25/09/2026,6413,33,Male,0.19,3,3,3,3,2
+E-2003,David Diallo,Engineering ,Engineering Manager,10/09/2020,N/A,6508,36,Male,6.04,3,3,3,3,3
+E-1569,Sofia Okafor,Engineering ,QA Analyst,10 Jul 2024,N/A,"$7,336",49,Male,2.21,3,2,2,3,2
+E-2202,DAVID Novak,Sal3s,Account Executive,06/01/2024,NULL,"$5,514",50,Female,2.72,3,3,high,3,3
+E-2308,Li Wei,Sal3s,Account Executive,2025/10/13,NULL,5125,26,Female,0.95,3,3,high,2,3
+E-2113,  hana SILVA ,Sal3s,Account Executive,25 Apr 2018,N/A,"6,324.00",26,Female,8.42,3,3,0,5,3
+E-2070,Julia O'Brien,Sales,Account Executive,23/08/2026,25 Sep 2026,5120,63,Male,0.09,3,3,5,3,3
+E-1252,Zoe Lindgren,engineering,Software Engineer,20/01/2022,,6769,31,Male,4.68,3,3,3,3,high
