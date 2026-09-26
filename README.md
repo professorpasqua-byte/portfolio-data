@@ -1,6 +1,6 @@
 # People Analytics & Behavioral Data Portfolio
 
-**Nwafor Martins** — People Analytics Engineer | Psychology background | Python, SQL, Power BI
+**Nwafor Martins** — People Analytics Engineer | Psychology background | Python, SQL, Excel, Power BI
 
 [Live site](https://martins-portfolio.net/) · (website coming soon)
 
