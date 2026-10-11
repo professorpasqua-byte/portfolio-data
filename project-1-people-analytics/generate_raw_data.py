@@ -124,10 +124,15 @@ print('generated', len(emps))
 
 # ---- write messy raw CSV ----
 import csv
-random.seed(7)
+from faker import Faker
 
-FIRST=['Maria','Tomas','Li','Priya','James','Okafor','Anna','David','Sofia','Wei','John','Fatima','Carlos','Emma','Noah','Aisha','Lucas','Mei','Omar','Grace','Ivan','Nina','Paul','Rosa','Sven','Talia','Umar','Vera','Yusuf','Zoe','Hana','Igor','Julia','Kenji','Lara','Miguel','Nadia','Oscar','Petra','Quinn']
-LAST=['Silva','O\'Brien','Wei','Nair','Okafor','Garcia','Chen','Smith','Kowalski','Andersson','Diallo','Popescu','Haddad','Nakamura','Ivanov','Santos','Kim','Novak','Duarte','Weber','Osei','Rossi','Kaur','Farah','Lindgren']
+# Stats generation above is locked to random.seed(42) and must stay untouched.
+# Faker gets its own independent generator, deliberately left unseeded, so
+# every run produces fresh, varied names without disturbing the stats or the
+# deterministic messiness pattern (typos, duplicates, formatting) below,
+# which still runs on the seeded `random` module via random.seed(7).
+fake = Faker()
+random.seed(7)
 
 def messy_name(fn,ln):
     r=random.random()
@@ -172,7 +177,7 @@ header=['emp_id','full_name','department','job_role','hire_date','term_date','mo
 
 dup_count=0
 for e in emps:
-    fn=random.choice(FIRST); ln=random.choice(LAST)
+    fn=fake.first_name(); ln=fake.last_name()
     dept_variant = random.choice(DEPT_TYPO[e['dept']])
     term_date = e['term_date']
     if term_date is None:
