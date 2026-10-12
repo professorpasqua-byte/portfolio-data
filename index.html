@@ -1,0 +1,1414 @@
+<!DOCTYPE html>
+<html lang="en" class="scroll-smooth">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>People Analytics Engineer & I-O Psychology Consultant | Nwafor Martins</title>
+  <meta name="description" content="People Analytics Engineer and Industrial-Organizational Psychology consultant. Workforce analytics, churn and product UX case studies, plus culture and change consulting, built with Python, SQL and Power BI.">
+  <meta name="robots" content="index, follow">
+  <link rel="canonical" href="https://martins-portfolio.net/">
+
+  <meta property="og:type" content="profile">
+  <meta property="og:site_name" content="N. Martins' Portfolio">
+  <meta property="og:title" content="People Analytics Engineer & I-O Psychology Consultant | Nwafor Martins">
+  <meta property="og:description" content="Workforce analytics, churn and product UX case studies, plus Industrial-Organizational Psychology consulting on culture and change. Python, SQL and Power BI, available for remote opportunities.">
+  <meta property="og:url" content="https://martins-portfolio.net/">
+  <meta property="og:image" content="https://martins-portfolio.net/profile.jpg">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="People Analytics Engineer & I-O Psychology Consultant | Nwafor Martins">
+  <meta name="twitter:description" content="Workforce analytics, churn and product UX case studies, plus Industrial-Organizational Psychology consulting on culture and change. Python, SQL and Power BI, available for remote opportunities.">
+  <meta name="twitter:image" content="https://martins-portfolio.net/profile.jpg">
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "ProfilePage",
+    "dateCreated": "2026-01-01",
+    "mainEntity": {
+      "@type": "Person",
+      "name": "Nwafor Martins",
+      "alternateName": "N. Martins",
+      "url": "https://martins-portfolio.net/",
+      "image": "https://martins-portfolio.net/profile.jpg",
+      "jobTitle": "People Analytics Engineer & Industrial-Organizational Psychology Consultant",
+      "description": "People Analytics Engineer and Industrial-Organizational Psychology consultant working across workforce analytics, customer analytics, digital product UX and organizational change, using Python, SQL and Power BI.",
+      "email": "mailto:nwaforchubby@gmail.com",
+      "knowsAbout": ["People Analytics", "Industrial-Organizational Psychology", "Organizational Change Management", "Customer Analytics", "Digital Product UX", "Psychology", "Python", "SQL", "Power BI", "Data Visualization"]
+    }
+  }
+  </script>
+  <meta name="theme-color" content="#1f2937">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%231f2937'/%3E%3Ctext x='16' y='22' font-family='Georgia,serif' font-size='16' text-anchor='middle' fill='white'%3ENM%3C/text%3E%3C/svg%3E">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Instrument+Sans:wght@400;500;600;700&family=Instrument+Serif:ital@0;1&display=swap" rel="stylesheet">
+
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          fontFamily: {
+            display: ['"Instrument Serif"', 'Georgia', 'serif'],
+            sans: ['"Instrument Sans"', 'system-ui', '-apple-system', 'Segoe UI', 'sans-serif']
+          }
+        }
+      }
+    };
+  </script>
+
+  <style>
+    html { -webkit-text-size-adjust: 100%; overflow-x: hidden; }
+    body { font-family: 'Instrument Sans', system-ui, -apple-system, 'Segoe UI', sans-serif; overflow-x: hidden; max-width: 100vw; }
+    * { min-width: 0; }
+    .tap-lift {
+      transition: transform .18s cubic-bezier(.2,.7,.2,1), opacity .18s ease, background-color .18s ease, border-color .18s ease;
+      will-change: transform;
+    }
+    .tap-lift:hover { transform: translateY(-2px); }
+    .tap-lift:active { transform: translateY(0); opacity: .85; }
+    @media (prefers-reduced-motion: reduce) {
+      .tap-lift { transition: none; }
+      .tap-lift:hover, .tap-lift:active { transform: none; }
+    }
+    .font-display { font-family: 'Instrument Serif', Georgia, serif; font-weight: 400; }
+    [id] { scroll-margin-top: 72px; }
+    :focus-visible { outline: 2px solid #6b7280; outline-offset: 2px; }
+
+    .dots {
+      background-image: radial-gradient(rgba(255,255,255,.10) 1px, transparent 1px);
+      background-size: 22px 22px;
+    }
+    #scrollShell {
+      height: calc(100vh - 4rem);
+      height: calc(100dvh - 4rem);
+      -webkit-overflow-scrolling: touch;
+    }
+    .snap-y-start { scroll-snap-align: start; }
+    #drawer { height: 100vh; height: 100dvh; }
+    .hatch {
+      background-image: repeating-linear-gradient(135deg, #e5e7eb 0 4px, #f3f4f6 4px 8px);
+      color: #111827;
+      font-weight: 600;
+    }
+    .bullet::before {
+      content: "";
+      flex: none;
+      width: 7px;
+      height: 7px;
+      margin-top: .7em;
+      background: var(--b, #1f2937);
+    }
+    .reveal .bar-anim { transform: scaleX(0); transform-origin: left center; }
+    .reveal.play .bar-anim { transform: scaleX(1); transition: transform .8s cubic-bezier(.2,.7,.2,1); }
+
+    pre code { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+    table { border-collapse: collapse; }
+
+    @media (prefers-reduced-motion: reduce) {
+      html { scroll-behavior: auto; }
+      *, *::before, *::after { transition: none !important; animation: none !important; }
+    }
+  </style>
+</head>
+
+<body class="overflow-hidden bg-white text-gray-700 antialiased">
+  <a href="#home" class="sr-only focus:not-sr-only focus:fixed focus:left-3 focus:top-3 focus:z-[70] focus:rounded focus:bg-white focus:px-3 focus:py-2 focus:text-gray-800">Skip to content</a>
+
+  <!-- Header -->
+  <header class="relative z-40 bg-gray-800 text-white">
+    <div class="mx-auto flex h-16 max-w-6xl items-center gap-4 px-5">
+      <button id="menuBtn" type="button" aria-label="Open navigation" aria-expanded="false" aria-controls="drawer" class="-ml-2 rounded-md p-2 hover:bg-white/10">
+        <svg viewBox="0 0 24 24" class="h-7 w-7" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 6h18M3 12h18M3 18h18"/></svg>
+      </button>
+      <a href="#top" class="text-xl font-light tracking-wide">N. Martins' Portfolio</a>
+      <button id="searchBtn" type="button" aria-label="Search this project" aria-expanded="false" aria-controls="searchPanel" class="ml-auto rounded-md p-2 hover:bg-white/10">
+        <svg viewBox="0 0 24 24" class="h-6 w-6" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.35-4.35"/></svg>
+      </button>
+    </div>
+  </header>
+
+  <!-- Search panel -->
+  <div id="searchPanel" class="fixed inset-x-0 top-16 z-30 hidden border-b border-gray-200 bg-white shadow-lg">
+    <div class="mx-auto max-w-3xl px-5 py-4">
+      <label for="searchInput" class="sr-only">Search this project</label>
+      <input id="searchInput" type="search" autocomplete="off" placeholder="Search this project, e.g. attrition, SQL, survey" class="w-full rounded-md border border-gray-300 bg-gray-50 px-4 py-3 text-base text-gray-800 placeholder-gray-400">
+      <div id="searchResults" class="mt-3 max-h-[55vh] space-y-1 overflow-y-auto" aria-live="polite"></div>
+    </div>
+  </div>
+
+  <!-- Drawer navigation -->
+  <div id="scrim" class="fixed inset-0 z-50 hidden bg-gray-800/50"></div>
+  <aside id="drawer" inert aria-label="Site navigation" class="fixed inset-y-0 left-0 z-[60] flex w-72 -translate-x-full flex-col bg-white shadow-2xl transition-transform duration-200">
+    <div class="flex h-16 flex-none items-center justify-between bg-gray-800 px-5 text-white">
+      <span class="text-lg font-light">Contents</span>
+      <button id="closeDrawer" type="button" aria-label="Close navigation" class="rounded-md p-2 hover:bg-white/10">
+        <svg viewBox="0 0 24 24" class="h-6 w-6" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6L6 18"/></svg>
+      </button>
+    </div>
+    <nav class="min-h-0 flex-1 overflow-y-auto overscroll-contain p-3" style="-webkit-overflow-scrolling: touch;">
+      <a href="#home" data-close class="block rounded-md px-3 py-3 text-gray-800 hover:bg-gray-100">Home</a>
+
+      <p class="mt-3 border-t border-gray-100 px-3 pt-4 text-sm font-semibold text-gray-800">Case studies</p>
+
+      <a href="#top" data-close class="mt-1 block rounded-md px-3 py-2.5 text-gray-800 hover:bg-gray-100">1. People Analytics<span class="block text-xs font-normal text-gray-500">Attrition &amp; engagement</span></a>
+      <a href="#intro" data-close class="block rounded-md py-2 pl-8 pr-3 text-sm text-gray-600 hover:bg-gray-100">Introduction</a>
+      <a href="#ask" data-close class="block rounded-md py-2 pl-8 pr-3 text-sm text-gray-600 hover:bg-gray-100">Phase 1: Ask</a>
+      <a href="#prepare" data-close class="block rounded-md py-2 pl-8 pr-3 text-sm text-gray-600 hover:bg-gray-100">Phase 2: Prepare &amp; Process</a>
+      <a href="#analyze" data-close class="block rounded-md py-2 pl-8 pr-3 text-sm text-gray-600 hover:bg-gray-100">Phase 3: Analyze</a>
+      <a href="#share" data-close class="block rounded-md py-2 pl-8 pr-3 text-sm text-gray-600 hover:bg-gray-100">Phase 4: Share</a>
+      <a href="#dashboard" data-close class="block rounded-md py-2 pl-12 pr-3 text-xs text-gray-500 hover:bg-gray-100">Power BI dashboards</a>
+      <a href="#act" data-close class="block rounded-md py-2 pl-8 pr-3 text-sm text-gray-600 hover:bg-gray-100">Phase 5: Act</a>
+
+      <a href="#churn-top" data-close class="mt-3 block rounded-md px-3 py-2.5 text-gray-800 hover:bg-gray-100">2. Customer Analytics<span class="block text-xs font-normal text-gray-500">Behavioral churn</span></a>
+      <a href="#churn-hook" data-close class="block rounded-md py-2 pl-8 pr-3 text-sm text-gray-600 hover:bg-gray-100">The behavioral hook</a>
+      <a href="#churn-pipeline" data-close class="block rounded-md py-2 pl-8 pr-3 text-sm text-gray-600 hover:bg-gray-100">The data pipeline</a>
+      <a href="#churn-dashboard" data-close class="block rounded-md py-2 pl-8 pr-3 text-sm text-gray-600 hover:bg-gray-100">The dashboard</a>
+      <a href="#churn-act" data-close class="block rounded-md py-2 pl-8 pr-3 text-sm text-gray-600 hover:bg-gray-100">Strategic interventions</a>
+
+      <a href="#ux-top" data-close class="mt-3 block rounded-md px-3 py-2.5 text-gray-800 hover:bg-gray-100">3. Digital Product UX<span class="block text-xs font-normal text-gray-500">A/B testing conversion</span></a>
+      <a href="#ux-hook" data-close class="block rounded-md py-2 pl-8 pr-3 text-sm text-gray-600 hover:bg-gray-100">The behavioral hook</a>
+      <a href="#ux-pipeline" data-close class="block rounded-md py-2 pl-8 pr-3 text-sm text-gray-600 hover:bg-gray-100">The data pipeline</a>
+      <a href="#ux-dashboard" data-close class="block rounded-md py-2 pl-8 pr-3 text-sm text-gray-600 hover:bg-gray-100">The dashboard</a>
+      <a href="#ux-act" data-close class="block rounded-md py-2 pl-8 pr-3 text-sm text-gray-600 hover:bg-gray-100">Strategic interventions</a>
+
+      <p class="mt-4 border-t border-gray-100 px-3 pt-4 text-sm font-semibold text-gray-800">Consulting</p>
+      <a href="#consulting" data-close class="mt-1 block rounded-md px-3 py-2.5 text-gray-800 hover:bg-gray-100">Strategic Organizational Consulting<span class="block text-xs font-normal text-gray-500">Change &amp; culture strategy</span></a>
+      <a href="#consulting-brief" data-close class="block rounded-md py-2 pl-8 pr-3 text-sm text-gray-600 hover:bg-gray-100">Solmere transformation brief</a>
+    </nav>
+    <p class="flex-none border-t border-gray-200 bg-white px-5 py-4 text-xs text-gray-500">martins-portfolio.net</p>
+  </aside>
+
+  <div id="scrollShell" class="scroll-smooth overflow-y-scroll scroll-snap-y snap-mandatory">
+  <main>
+    <!-- Home -->
+    <section id="home" data-section data-title="Home" class="snap-start snap-y-start bg-white">
+      <div class="dots bg-gray-800 text-white">
+        <div class="mx-auto grid max-w-5xl gap-10 px-5 py-16 sm:py-24 md:grid-cols-[1fr_15rem] md:items-center">
+          <div>
+            <p class="text-sm text-gray-400">Portfolio &middot; Open to Global Remote (GMT+1)</p>
+            <h1 class="font-display mt-3 text-5xl tracking-tight sm:text-7xl">Nwafor Martins</h1>
+            <p class="mx-auto mt-5 max-w-xl text-xl font-medium leading-snug text-white sm:text-2xl">People Analytics Engineer and Industrial-Organizational Psychology consultant, building behavioral data pipelines and culture strategy that show distributed teams why people leave, stall or convert, and what to do about it.</p>
+            <p class="mx-auto mt-4 max-w-xl text-lg leading-relaxed text-gray-300">I pair an I-O psychology background with production-minded Python and SQL, then ship the result as Power BI and Streamlit tools, or as a change management playbook, that leadership can use without me in the room.</p>
+            <dl class="mt-6 grid max-w-xl grid-cols-3 gap-3 text-left">
+              <div class="flex flex-col rounded-lg border border-white/15 p-3 sm:p-4"><dt class="order-2 mt-1 text-xs leading-snug text-gray-400">attrition traced to specific roles and tenure points</dt><dd class="font-display text-3xl tabular-nums text-white sm:text-4xl">17.4%</dd></div>
+              <div class="flex flex-col rounded-lg border border-white/15 p-3 sm:p-4"><dt class="order-2 mt-1 text-xs leading-snug text-gray-400">signup lift from cutting form friction (A/B test)</dt><dd class="font-display text-3xl tabular-nums text-white sm:text-4xl">+51%</dd></div>
+              <div class="flex flex-col rounded-lg border border-white/15 p-3 sm:p-4"><dt class="order-2 mt-1 text-xs leading-snug text-gray-400">involvement recovered within two quarters</dt><dd class="font-display text-3xl tabular-nums text-white sm:text-4xl">28%</dd></div>
+            </dl>
+            <p class="mt-3 max-w-xl text-xs text-gray-400">Figures come from the case studies below, all built on synthetic data.</p>
+            <div class="mt-6 space-y-3 text-base leading-relaxed text-gray-300">
+              <p>My background is in psychology, and I bring that lens to every project: modeling why people behave the way they do, not just reporting that they did. The three case studies here each start from a behavioral question, then follow it through Python, SQL and Power BI to something a decision-maker could actually use. Each one follows the same five-step process: ask, prepare, analyze, share, act.</p>
+              <p>Away from the desk I'm usually training for a long ride, and I build small Node.js automations for fun.</p>
+            </div>
+            <div class="mt-8 flex flex-wrap gap-3">
+              <a href="https://wa.me/2349135615687" target="_blank" rel="noopener noreferrer" class="tap-lift inline-flex items-center gap-2 rounded-md bg-white px-5 py-2.5 text-sm font-semibold text-gray-800 hover:bg-gray-100">
+                <svg viewBox="0 0 24 24" class="h-4 w-4" fill="currentColor" aria-hidden="true"><path d="M12.04 2c-5.52 0-10 4.48-10 10 0 1.77.46 3.45 1.28 4.9L2 22l5.25-1.38a9.96 9.96 0 0 0 4.79 1.22h.01c5.52 0 10-4.48 10-10s-4.49-10-10.01-10zm5.87 14.3c-.25.7-1.45 1.34-2 1.42-.51.08-1.15.11-1.86-.12-.43-.13-.98-.32-1.68-.63-2.96-1.28-4.89-4.26-5.04-4.46-.15-.2-1.2-1.6-1.2-3.05s.75-2.16 1.02-2.46c.26-.29.57-.36.76-.36h.55c.18 0 .42-.07.65.5.25.6.85 2.08.92 2.23.07.15.11.32.02.52-.09.2-.14.32-.27.5-.14.18-.29.4-.41.53-.14.15-.28.31-.12.6.16.29.71 1.18 1.53 1.91 1.05.94 1.94 1.24 2.23 1.38.29.14.46.12.63-.07.18-.2.75-.87.95-1.17.2-.3.4-.24.66-.15.27.1 1.72.81 2.02.96.29.15.49.22.56.34.07.13.07.72-.18 1.42z"/></svg>
+                WhatsApp
+              </a>
+              <a href="mailto:nwaforchubby@gmail.com" target="_blank" rel="noopener noreferrer" class="tap-lift inline-flex items-center gap-2 rounded-md border border-white/30 px-5 py-2.5 text-sm font-semibold text-white hover:bg-white/10">
+                <svg viewBox="0 0 24 24" class="h-4 w-4" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 4h16v16H4z" stroke="none"/><path d="M3 6l9 7 9-7"/><rect x="3" y="5" width="18" height="14" rx="2"/></svg>
+                Email
+              </a>
+              <a href="https://github.com/professorpasqua-byte/portfolio-data" target="_blank" rel="noopener noreferrer" class="tap-lift inline-flex items-center gap-2 rounded-md border border-white/30 px-5 py-2.5 text-sm font-semibold text-white hover:bg-white/10">
+                <svg viewBox="0 0 24 24" class="h-4 w-4" fill="currentColor" aria-hidden="true"><path d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61-.546-1.385-1.333-1.754-1.333-1.754-1.089-.744.083-.729.083-.729 1.205.084 1.84 1.237 1.84 1.237 1.07 1.834 2.809 1.304 3.495.997.108-.775.418-1.305.762-1.605-2.665-.303-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.91 1.235 3.221 0 4.609-2.807 5.625-5.479 5.921.43.372.823 1.102.823 2.222 0 1.604-.014 2.896-.014 3.29 0 .322.216.696.825.578C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12"/></svg>
+                GitHub
+              </a>
+            </div>
+          </div>
+          <div class="relative mx-auto aspect-[4/5] w-40 overflow-hidden rounded-lg bg-gray-700 sm:w-48 md:w-full">
+            <div class="absolute inset-0 flex items-center justify-center font-display text-6xl text-gray-500">NM</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="mx-auto max-w-5xl px-5 py-14 sm:py-20">
+        <h2 class="font-display text-3xl text-gray-800 sm:text-4xl">Case studies</h2>
+        <p class="mt-3 max-w-2xl text-base leading-relaxed text-gray-600">Three questions about behavior, each carried from a hypothesis through messy synthetic data to a set of recommendations, and a fourth on taking that same lens off the dashboard and into a live organization.</p>
+        <div class="mt-8 grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
+          <a href="#top" class="group tap-lift block rounded-lg border border-gray-200 bg-white p-5 hover:border-gray-400">
+            <p class="text-xs text-gray-400">Case study 1 of 3</p>
+            <p class="mt-2 font-semibold text-gray-800">People Analytics</p>
+            <p class="mt-1 text-sm leading-relaxed text-gray-600">Why employees at a fictional company leave, and where satisfaction runs lowest.</p>
+            <p class="mt-4 text-sm font-medium text-gray-800">Open the case study</p>
+          </a>
+          <a href="#churn-top" class="group tap-lift block rounded-lg border border-gray-200 bg-white p-5 hover:border-gray-400">
+            <p class="text-xs text-gray-400">Case study 2 of 3</p>
+            <p class="mt-2 font-semibold text-gray-800">Customer Analytics</p>
+            <p class="mt-1 text-sm leading-relaxed text-gray-600">Whether a single bad moment predicts a subscription cancellation better than average satisfaction does.</p>
+            <p class="mt-4 text-sm font-medium text-gray-800">Open the case study</p>
+          </a>
+          <a href="#ux-top" class="group tap-lift block rounded-lg border border-gray-200 bg-white p-5 hover:border-gray-400">
+            <p class="text-xs text-gray-400">Case study 3 of 3</p>
+            <p class="mt-2 font-semibold text-gray-800">Digital Product UX</p>
+            <p class="mt-1 text-sm leading-relaxed text-gray-600">Testing whether onboarding drop-off was a motivation problem or a friction problem.</p>
+            <p class="mt-4 text-sm font-medium text-gray-800">Open the case study</p>
+          </a>
+          <a href="#consulting" class="group tap-lift block rounded-lg border border-gray-800 bg-gray-800 p-5 text-white hover:bg-gray-700">
+            <p class="text-xs text-gray-400">Beyond the dashboard</p>
+            <p class="mt-2 font-semibold text-white">Organizational Consulting</p>
+            <p class="mt-1 text-sm leading-relaxed text-gray-300">Same psychology lens, applied to culture diagnostics and change management inside a live organization.</p>
+            <p class="mt-4 text-sm font-medium text-white">Read the brief</p>
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <!-- Hero -->
+    <section id="top" data-section data-title="People Analytics" class="snap-start snap-y-start dots bg-gray-700 text-white">
+      <div class="mx-auto max-w-4xl px-5 py-20 text-center sm:py-28">
+        <p class="text-sm text-gray-400">Case study 1 of 3</p>
+        <h2 class="font-display mt-3 text-6xl tracking-tight sm:text-8xl">People Analytics</h2>
+        <p class="mx-auto mt-6 max-w-xl text-lg leading-relaxed text-gray-300">A case study in why people leave, followed from a messy HR export to a decision-ready dashboard.</p>
+        <ul class="mt-9 flex flex-wrap justify-center gap-2 text-sm">
+          <li class="rounded-full border border-white/25 px-3.5 py-1.5">Psychology</li>
+          <li class="rounded-full border border-white/25 px-3.5 py-1.5">Excel</li>
+          <li class="rounded-full border border-white/25 px-3.5 py-1.5">SQL</li>
+          <li class="rounded-full border border-white/25 px-3.5 py-1.5">Python</li>
+          <li class="rounded-full border border-white/25 px-3.5 py-1.5">Power BI</li>
+          <li class="rounded-full border border-white/25 px-3.5 py-1.5">Streamlit</li>
+          <li class="rounded-full border border-white/25 px-3.5 py-1.5">Data Visualization</li>
+        </ul>
+      </div>
+    </section>
+
+    <!-- Introduction -->
+    <section id="intro" data-section data-title="Introduction" class="snap-start snap-y-start mx-auto max-w-3xl px-5 pt-14 sm:pt-20">
+      <h2 class="font-display text-4xl text-gray-800 sm:text-5xl">Introduction</h2>
+      <div class="mt-5 space-y-4 text-lg leading-relaxed">
+        <p>Welcome to my People Analytics case study. Employee turnover is expensive, and most organisations only see it clearly after it has happened. I wanted to work through the whole problem the way an analyst on an HR team would: start with a business question, receive a messy export, clean it, find the pattern and turn it into something a manager can act on.</p>
+        <p>I bring a psychology lens to the numbers. The survey scales in this project (satisfaction, involvement, work-life balance) are treated as measures of how people experience work, not just columns to average.</p>
+        <p>The company throughout is a fictional business called Meridian Works, and all of its data was generated for this project. To see the slide deck built for the analysis, <a href="#deck" class="font-semibold text-gray-800 underline decoration-gray-400 underline-offset-4 hover:decoration-gray-800">click here</a>.</p>
+      </div>
+      <h3 class="mt-10 text-base font-semibold text-gray-800">The toolkit behind this project</h3>
+      <div id="toolkit" class="mt-4 grid grid-cols-1 gap-3 min-[480px]:grid-cols-2 sm:grid-cols-3"></div>
+    </section>
+
+    <!-- Phase 1 -->
+    <section id="ask" data-section data-title="Phase 1: Ask" class="snap-start snap-y-start mx-auto max-w-3xl px-5 pt-16 sm:pt-24">
+      <h2 class="font-display text-4xl text-gray-800 sm:text-5xl">Phase 1: Ask</h2>
+      <h3 class="font-display mt-8 text-3xl leading-tight text-gray-700 sm:text-4xl">What is the problem I am trying to solve?</h3>
+      <p class="mt-4 text-lg leading-relaxed">Meridian Works, a fictional company of 1,500 employees, wants to understand its attrition rate and the factors driving it. With that knowledge, leadership can decide where to invest to keep people and lift overall job satisfaction. As the analyst, I provide insight into current attrition and the workforce survey.</p>
+      <ul class="mt-6 space-y-4 text-lg leading-relaxed">
+        <li class="bullet flex gap-4">The business task is to identify trends in employee attrition and interpret the employee survey data.</li>
+        <li class="bullet flex gap-4">Which areas of the business are driving attrition?</li>
+        <li class="bullet flex gap-4">At what point in their time with the company do people leave?</li>
+        <li class="bullet flex gap-4">How did employees score the workplace on the survey, and where are the lowest scores?</li>
+      </ul>
+      <div class="mt-8 border-l-4 border-gray-800 bg-gray-50 p-5">
+        <p class="font-semibold text-gray-800">A brief written from scratch</p>
+        <p class="mt-1 leading-relaxed">Nothing here comes from an off-the-shelf dataset. I defined the business problem first, then generated the data needed to investigate it.</p>
+      </div>
+    </section>
+
+    <!-- Phase 2 -->
+    <section id="prepare" data-section data-title="Phase 2: Prepare &amp; Process" class="snap-start snap-y-start mx-auto max-w-3xl px-5 pt-16 sm:pt-24">
+      <h2 class="font-display text-4xl text-gray-800 sm:text-5xl">Phase 2: Prepare &amp; Process</h2>
+      <div class="mt-5 space-y-4 text-lg leading-relaxed">
+        <p>Instead of downloading a static file from Kaggle, I used Python's Faker library to generate the data algorithmically. The result is a realistic, complex and deliberately uncleaned transactional employee sheet, matching the kind of messy file an HR department sends over: inconsistent spellings, mixed date formats, duplicate rows and missing values.</p>
+        <p>Cleaning a file like that is most of the real work in people analytics, so I made it part of the project. The dataset covers 1,500 employees across 3 departments and 11 job roles, with fields ranging from age and gender to pay, tenure and workplace survey scores.</p>
+      </div>
+
+      <h3 class="mt-10 text-base font-semibold text-gray-800">The pipeline</h3>
+      <ol class="mt-4 grid gap-3 sm:grid-cols-3">
+        <li class="rounded-lg border border-gray-200 bg-white p-4">
+          <p class="text-xs text-gray-500">Step 1</p>
+          <p class="mt-1 font-semibold text-gray-800">Python and Faker</p>
+          <p class="mt-1 text-sm leading-relaxed">Synthesise 1,500 employee records, then add realistic errors on purpose.</p>
+        </li>
+        <li class="rounded-lg border border-gray-200 bg-white p-4">
+          <p class="text-xs text-gray-500">Step 2</p>
+          <p class="mt-1 font-semibold text-gray-800">SQL</p>
+          <p class="mt-1 text-sm leading-relaxed">Clean the export and restructure it into relational tables.</p>
+        </li>
+        <li class="rounded-lg border border-gray-200 bg-white p-4">
+          <p class="text-xs text-gray-500">Step 3</p>
+          <p class="mt-1 font-semibold text-gray-800">Power BI</p>
+          <p class="mt-1 text-sm leading-relaxed">Model the tables, write the measures and build the visuals.</p>
+        </li>
+      </ol>
+      <p class="mt-3 text-sm text-gray-500">Excel is used throughout for quick pivots and sense checks along the way.</p>
+
+      <h3 class="mt-10 text-base font-semibold text-gray-800">What the HR export looks like</h3>
+      <div class="mt-3 inline-flex rounded-md border border-gray-300 bg-gray-50 p-0.5 text-sm" role="group" aria-label="Choose table view">
+        <button id="rawBtn" type="button" aria-pressed="true" class="rounded px-4 py-1.5 font-medium">Raw export</button>
+        <button id="cleanBtn" type="button" aria-pressed="false" class="rounded px-4 py-1.5 font-medium">Cleaned</button>
+      </div>
+      <div class="mt-3 overflow-x-auto rounded-lg border border-gray-200">
+        <table id="sheetTable" class="w-full min-w-[620px] text-left text-sm"></table>
+      </div>
+      <p id="sheetNote" class="mt-2 text-sm text-gray-500"></p>
+
+      <h3 class="mt-10 text-base font-semibold text-gray-800">Cleaning in SQL</h3>
+      <div class="mt-3 overflow-x-auto rounded-lg bg-gray-800 p-4 text-[13px] leading-relaxed text-gray-100">
+<pre><code>-- Keep the latest record for each employee
+WITH latest AS (
+  SELECT *,
+         ROW_NUMBER() OVER (
+           PARTITION BY employee_id
+           ORDER BY exported_at DESC
+         ) AS rn
+  FROM raw_hr_export
+)
+SELECT
+  employee_id,
+  INITCAP(TRIM(full_name)) AS full_name,
+  CASE
+    WHEN LOWER(TRIM(department)) LIKE 'eng%' THEN 'Engineering'
+    WHEN LOWER(TRIM(department)) LIKE 'sal%' THEN 'Sales'
+    WHEN LOWER(TRIM(department)) IN ('hr', 'human resources') THEN 'Human Resources'
+  END AS department,
+  NULLIF(REGEXP_REPLACE(monthly_income, '[^0-9.]', '', 'g'), '')::numeric AS monthly_income,
+  CASE WHEN job_satisfaction BETWEEN 1 AND 4 THEN job_satisfaction END AS job_satisfaction
+FROM latest
+WHERE rn = 1;</code></pre>
+      </div>
+      <p class="mt-2 text-sm text-gray-500">An illustrative excerpt in PostgreSQL syntax.</p>
+
+      <ul class="mt-8 space-y-4 leading-relaxed">
+        <li class="bullet flex gap-4"><span><strong class="text-gray-800">Duplicates.</strong> Repeated exports were collapsed so each employee has one row.</span></li>
+        <li class="bullet flex gap-4"><span><strong class="text-gray-800">Text.</strong> Labels such as "Sal3s", "Eng." and "HR" were mapped to three clean department names.</span></li>
+        <li class="bullet flex gap-4"><span><strong class="text-gray-800">Dates.</strong> Five date formats were parsed into ISO dates, with day-first values checked against the export's regional format.</span></li>
+        <li class="bullet flex gap-4"><span><strong class="text-gray-800">Numbers.</strong> Currency symbols and separators were stripped, and impossible incomes were set to null.</span></li>
+        <li class="bullet flex gap-4"><span><strong class="text-gray-800">Survey answers.</strong> Text answers such as "high" were recoded to the 1 to 4 scale, and out-of-range scores were nulled.</span></li>
+        <li class="bullet flex gap-4"><span><strong class="text-gray-800">Structure.</strong> The flat sheet was split into employees, employment history, departments, job roles and survey responses.</span></li>
+      </ul>
+    </section>
+
+    <!-- Phase 3 -->
+    <section id="analyze" data-section data-title="Phase 3: Analyze" class="snap-start snap-y-start mt-16 sm:mt-24">
+      <div class="dots bg-gray-700 text-white">
+        <h2 class="font-display px-5 py-12 text-center text-4xl sm:text-5xl">Phase 3: Analyze</h2>
+      </div>
+
+      <div class="mx-auto max-w-3xl px-5 pt-12">
+        <div class="space-y-4 text-lg leading-relaxed">
+          <p>I began by calculating attrition for the whole workforce and then for each department. Meridian Works has 1,500 employees and an attrition rate of 17.4%. As I added detail on active versus terminated employment, it became clear which departments and job roles were running above the company rate.</p>
+          <p>After a general overview by department and job role, I looked for patterns in age and years at company, then in the survey scores. The full set of results is in the slide deck and Power BI dashboards further down.</p>
+        </div>
+
+        <h3 class="mt-10 text-base font-semibold text-gray-800">What stood out</h3>
+        <ul class="mt-4 space-y-4 text-lg leading-relaxed">
+          <li class="bullet flex gap-4"><span>Sales and Human Resources lose people fastest, at 21.5% and 21.7% against a company rate of 17.4%. Engineering sits at 15.1%.</span></li>
+          <li class="bullet flex gap-4"><span>Early tenure is the danger zone: 69% of all departures happen within the first three years.</span></li>
+          <li class="bullet flex gap-4"><span>Three roles stand out: Sales Development Rep (32.0%), QA Analyst (23.2%) and HR Partner (22.9%).</span></li>
+          <li class="bullet flex gap-4"><span>Those same roles score among the lowest on the survey. Sales Development Reps rate job satisfaction 2.50 out of 4, and QA Analysts rate their environment 2.52.</span></li>
+        </ul>
+      </div>
+
+      <!-- Chart band -->
+      <div class="mt-12 bg-gray-50 py-10">
+        <div class="mx-auto max-w-3xl space-y-6 px-5">
+          <figure class="rounded-lg border border-gray-200 bg-white p-5">
+            <figcaption class="text-lg font-semibold text-gray-800">Total workforce</figcaption>
+            <svg viewBox="0 0 360 290" class="mx-auto mt-3 w-full max-w-md" role="img" aria-label="Bar chart: 1,239 active employees (83%) and 261 terminated employees (17%).">
+              <g stroke="#e5e7eb" stroke-width="1">
+                <line x1="20" y1="60" x2="340" y2="60"/>
+                <line x1="20" y1="110" x2="340" y2="110"/>
+                <line x1="20" y1="160" x2="340" y2="160"/>
+                <line x1="20" y1="210" x2="340" y2="210"/>
+                <line x1="20" y1="260" x2="340" y2="260" stroke="#9ca3af"/>
+              </g>
+              <rect x="60" y="94.8" width="100" height="165.2" fill="#d1d5db"/>
+              <rect x="200" y="225.2" width="100" height="34.8" fill="#1f2937"/>
+              <g text-anchor="middle">
+                <text x="110" y="70" font-size="22" font-weight="700" fill="#1f2937">83%</text>
+                <text x="110" y="86" font-size="12" fill="#6b7280">1,239 employees</text>
+                <text x="250" y="200" font-size="22" font-weight="700" fill="#1f2937">17%</text>
+                <text x="250" y="216" font-size="12" fill="#6b7280">261 employees</text>
+                <text x="110" y="280" font-size="13" fill="#374151">Active</text>
+                <text x="250" y="280" font-size="13" fill="#374151">Terminated</text>
+              </g>
+            </svg>
+          </figure>
+
+          <figure class="reveal rounded-lg border border-gray-200 bg-white p-5">
+            <figcaption class="text-lg font-semibold text-gray-800">Department attrition</figcaption>
+            <div id="deptAttrition" class="mt-2"></div>
+            <div class="mt-3 flex gap-4 text-xs text-gray-500">
+              <span class="flex items-center gap-1.5"><i class="inline-block h-2.5 w-2.5 bg-gray-300"></i>Active</span>
+              <span class="flex items-center gap-1.5"><i class="inline-block h-2.5 w-2.5 bg-gray-800"></i>Terminated</span>
+            </div>
+          </figure>
+
+          <figure class="reveal rounded-lg border border-gray-200 bg-white p-5">
+            <figcaption class="text-lg font-semibold text-gray-800">Attrition rate by job role</figcaption>
+            <div id="roleAttrition" class="mt-4"></div>
+            <div class="mt-4 flex flex-wrap gap-x-4 gap-y-1 text-xs text-gray-500">
+              <span class="flex items-center gap-1.5"><i class="inline-block h-2.5 w-2.5 bg-gray-800"></i>Above company rate</span>
+              <span class="flex items-center gap-1.5"><i class="inline-block h-2.5 w-2.5 bg-gray-400"></i>At or below</span>
+              <span class="flex items-center gap-1.5"><i class="inline-block h-3 border-l border-dashed border-gray-500"></i>Company rate, 17.4%</span>
+            </div>
+          </figure>
+        </div>
+      </div>
+
+      <!-- Survey analysis -->
+      <div class="mx-auto max-w-3xl px-5 pt-14">
+        <h3 class="font-display text-3xl text-gray-800 sm:text-4xl">Reading the survey data</h3>
+        <p class="mt-4 text-lg leading-relaxed">The next objective was to explore the employee survey: numerical ratings for job satisfaction, environment satisfaction, work-life balance, relationship satisfaction and job involvement. The legend below shows how each coded field is scored.</p>
+        <div class="mt-6 overflow-hidden rounded-lg border border-gray-200">
+          <table class="w-full text-left text-sm">
+            <thead class="bg-gray-50 text-gray-500">
+              <tr><th class="px-4 py-2.5 font-medium">Field</th><th class="px-4 py-2.5 font-medium">Scale</th></tr>
+            </thead>
+            <tbody id="legendBody" class="divide-y divide-gray-200"></tbody>
+          </table>
+        </div>
+      </div>
+
+      <div class="mt-12 bg-gray-50 py-10">
+        <div class="mx-auto max-w-3xl space-y-8 px-5">
+          <div>
+            <h3 class="text-lg font-semibold text-gray-800">Full workforce scoring</h3>
+            <p class="text-sm text-gray-500">Scale of 1 to 4, weighted by headcount</p>
+            <div id="scoreTiles" class="reveal mt-4 grid grid-cols-2 gap-3 sm:grid-cols-5"></div>
+          </div>
+          <div>
+            <h3 class="text-lg font-semibold text-gray-800">Department and job role scores</h3>
+            <p class="text-sm text-gray-500">Scale of 1 to 4. Dark cells are 2.85 or higher. Hatched cells are 2.58 or lower.</p>
+            <div id="heatWrap" class="mt-4 overflow-x-auto rounded-lg border border-gray-200 bg-white"></div>
+            <p class="mt-2 text-xs text-gray-500 sm:hidden">Swipe sideways to see every column.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Phase 4 -->
+    <section id="share" data-section data-title="Phase 4: Share" class="snap-start snap-y-start mt-16 sm:mt-24">
+      <div class="dots bg-gray-700 text-white">
+        <h2 class="font-display px-5 py-12 text-center text-4xl sm:text-5xl">Phase 4: Share</h2>
+      </div>
+
+      <div class="mx-auto max-w-3xl px-5 pt-12">
+        <p class="text-lg leading-relaxed">I packaged the analysis two ways: a short slide deck for leadership, and interactive Power BI report pages for anyone who wants to explore the numbers themselves.</p>
+
+        <div id="deck" class="mt-8 overflow-hidden rounded-xl border border-gray-300 bg-gray-800 text-white" aria-roledescription="carousel" aria-label="Workforce Insights slide deck">
+          <div id="slide" class="dots flex min-h-[320px] flex-col justify-center p-6 sm:min-h-[400px] sm:p-12" aria-live="polite"></div>
+          <div class="flex items-center justify-between bg-gray-700 px-3 py-2.5 text-sm">
+            <button id="prevSlide" type="button" aria-label="Previous slide" class="rounded-md p-2 hover:bg-white/10">
+              <svg viewBox="0 0 24 24" class="h-5 w-5" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 18l-6-6 6-6"/></svg>
+            </button>
+            <div class="flex items-center gap-3">
+              <div id="slideDots" class="flex gap-1.5"></div>
+              <span id="slideCount" class="text-gray-300"></span>
+            </div>
+            <button id="nextSlide" type="button" aria-label="Next slide" class="rounded-md p-2 hover:bg-white/10">
+              <svg viewBox="0 0 24 24" class="h-5 w-5" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 18l6-6-6-6"/></svg>
+            </button>
+          </div>
+        </div>
+
+        <h3 class="mt-12 font-display text-3xl leading-snug text-gray-700 sm:text-4xl">Key Insights Dashboard</h3>
+        <p class="mt-4 text-lg leading-relaxed text-gray-600">Alongside the Power BI report below, I custom-built an interactive app in Python and Streamlit to mathematically validate the 17.4% company attrition pattern, letting the model be queried and stress-tested directly rather than taken on faith from a static chart.</p>
+        <div class="mt-6 overflow-hidden rounded-lg border border-gray-200 shadow-sm">
+          <iframe src="https://portfolio-data-u8h8myatb3ivw5nvq5euzf.streamlit.app/?embed=true" style="width: 100%; height: 550px; border: none; border-radius: 8px;" loading="lazy" title="Meridian Works attrition model, Streamlit app"></iframe>
+        </div>
+      </div>
+
+      <div id="dashboard-band" class="snap-start snap-y-start mt-8 bg-gray-50 py-10">
+        <div class="mx-auto max-w-5xl px-3 sm:px-5">
+          <div id="dashboard" class="overflow-hidden rounded-xl border border-gray-300 bg-white shadow-sm">
+            <div class="flex items-center gap-3 bg-gray-800 px-4 py-2.5 text-xs text-gray-300">
+              <span class="flex gap-1.5"><i class="h-2.5 w-2.5 rounded-full bg-gray-500"></i><i class="h-2.5 w-2.5 rounded-full bg-gray-500"></i><i class="h-2.5 w-2.5 rounded-full bg-gray-500"></i></span>
+              <span class="truncate">Meridian Works: People Analytics report</span>
+            </div>
+            <div id="dashBody" class="bg-gray-50 p-3 sm:p-5"></div>
+            <div class="flex items-stretch border-t border-gray-300 bg-gray-100 text-sm" role="tablist" aria-label="Report pages">
+              <span id="pageCount" class="hidden items-center px-4 text-gray-500 sm:flex"></span>
+              <button id="tab0" role="tab" type="button" class="flex-1 px-4 py-3 sm:flex-none"></button>
+              <button id="tab1" role="tab" type="button" class="flex-1 px-4 py-3 sm:flex-none"></button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Phase 5 -->
+    <section id="act" data-section data-title="Phase 5: Act" class="snap-start snap-y-start mt-16 sm:mt-24">
+      <div class="dots bg-gray-700 text-white">
+        <h2 class="font-display px-5 py-12 text-center text-4xl sm:text-5xl">Phase 5: Act</h2>
+      </div>
+
+      <div class="bg-gray-50 pb-16 pt-12 sm:pb-24">
+        <div class="mx-auto max-w-3xl px-5">
+          <h3 class="font-display text-center text-4xl text-gray-800 sm:text-5xl">Recommendations</h3>
+          <ul class="mt-10 space-y-8 text-xl leading-relaxed text-gray-800">
+            <li class="bullet flex gap-4"><span><strong>Collect better exit data.</strong> Record the termination type, the effective date and exit interview themes, so the reasons behind high-attrition areas can be understood and not just counted.</span></li>
+            <li class="bullet flex gap-4"><span><strong>Build an early-tenure retention programme.</strong> With most departures in the first three years, focus onboarding, mentoring and check-ins on Sales Development Reps, QA Analysts and HR Partners.</span></li>
+            <li class="bullet flex gap-4"><span><strong>Develop departmental retention initiatives</strong> that strengthen working relationships and satisfaction, with a goal of growing average company seniority.</span></li>
+            <li class="bullet flex gap-4"><span><strong>Run quarterly surveys</strong> to monitor how employee sentiment changes after each initiative.</span></li>
+          </ul>
+          <p class="mt-4 text-lg leading-relaxed text-gray-600">The pattern behind all four recommendations is a psychology one, not just an operations one: people's decisions to stay or go are shaped by specific experiences at specific moments, not by an abstract average. The next case study tests that same idea on customers instead of employees.</p>
+          <a href="#churn-top" class="tap-lift mt-8 inline-flex items-center gap-2 text-lg font-semibold text-gray-800 hover:text-gray-600">
+            Continue to Customer Analytics
+            <svg viewBox="0 0 24 24" class="h-5 w-5" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 18l6-6-6-6"/></svg>
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <!-- Project 2: Customer Analytics -->
+    <section id="churn-top" data-section data-title="Customer Analytics" class="snap-start snap-y-start dots bg-gray-700 text-white">
+      <div class="mx-auto max-w-4xl px-5 py-20 text-center sm:py-28">
+        <p class="text-sm text-gray-400">Case study 2 of 3</p>
+        <h2 class="font-display mt-3 text-6xl tracking-tight sm:text-8xl">Customer Analytics</h2>
+        <p class="mx-auto mt-6 max-w-xl text-lg leading-relaxed text-gray-300">Why subscribers actually cancel, and whether one bad moment matters more than a season of mediocre ones.</p>
+        <ul class="mt-9 flex flex-wrap justify-center gap-2 text-sm">
+          <li class="rounded-full border border-white/25 px-3.5 py-1.5">Psychology</li>
+          <li class="rounded-full border border-white/25 px-3.5 py-1.5">Python</li>
+          <li class="rounded-full border border-white/25 px-3.5 py-1.5">SQL</li>
+          <li class="rounded-full border border-white/25 px-3.5 py-1.5">Power BI</li>
+          <li class="rounded-full border border-white/25 px-3.5 py-1.5">Streamlit</li>
+          <li class="rounded-full border border-white/25 px-3.5 py-1.5">Behavioral Economics</li>
+        </ul>
+      </div>
+    </section>
+
+    <section id="churn-hook" data-section data-title="Customer Analytics: The Behavioral Hook" class="snap-start snap-y-start mx-auto max-w-3xl px-5 pt-16 sm:pt-24">
+      <h2 class="font-display text-4xl text-gray-800 sm:text-5xl">The Behavioral Hook</h2>
+      <h3 class="font-display mt-8 text-3xl leading-tight text-gray-700 sm:text-4xl">A hypothesis, not just a dashboard</h3>
+      <div class="mt-5 space-y-4 text-lg leading-relaxed">
+        <p>Solmere is a fictional direct-to-consumer subscription business built for this project: 8,400 active subscribers, a monthly home and wellness box, all data synthetic. Most churn dashboards average a subscriber's satisfaction over their whole lifetime and compare that average between people who stay and people who leave. That treats every touchpoint as equally memorable, which is not how people actually judge an experience.</p>
+        <p>Daniel Kahneman's peak-end rule suggests otherwise: people judge an experience mainly by its most intense point and by how it ended, not by the average of every moment along the way. Applied to a subscription, the hypothesis is that a single sharp negative moment shortly before a renewal decision predicts cancellation far better than a subscriber's overall satisfaction score does.</p>
+      </div>
+      <div class="mt-8 border-l-4 border-gray-800 bg-gray-50 p-5">
+        <p class="font-semibold text-gray-800">The question I'm testing</p>
+        <p class="mt-1 leading-relaxed">Does a negative peak moment close to the renewal date predict cancellation better than tenure or average satisfaction alone?</p>
+      </div>
+      <ul class="mt-8 space-y-4 text-lg leading-relaxed">
+        <li class="bullet flex gap-4">Do subscribers who file a support ticket in the fourteen days before renewal cancel at a higher rate than their satisfaction history would predict?</li>
+        <li class="bullet flex gap-4">Is a single bad delivery more predictive of cancellation than a string of ordinary ones?</li>
+        <li class="bullet flex gap-4">Does the quality of the first thirty days, the onboarding peak, predict twelve-month churn better than raw tenure does?</li>
+      </ul>
+    </section>
+
+    <section id="churn-pipeline" data-section data-title="Customer Analytics: The Data Pipeline" class="snap-start snap-y-start mx-auto max-w-3xl px-5 pt-16 sm:pt-24">
+      <h2 class="font-display text-4xl text-gray-800 sm:text-5xl">The Data Pipeline</h2>
+      <div class="mt-5 space-y-4 text-lg leading-relaxed">
+        <p>As with the people analytics project, nothing here is downloaded from an existing source. Python's Faker library generated two years of subscriber, order and support-ticket records for Solmere, with the same kind of mess a real export carries: duplicate orders, inconsistent cancellation-reason free text, mixed currency formatting and missing sentiment scores on older tickets.</p>
+        <p>SQL then rebuilt the flat export into relational tables and engineered the fields the hypothesis actually needs: days between a subscriber's most recent negative support ticket and their next renewal date, and a simple onboarding-quality score from their first thirty days.</p>
+      </div>
+
+      <h3 class="mt-10 text-base font-semibold text-gray-800">The pipeline</h3>
+      <ol class="mt-4 grid gap-3 sm:grid-cols-3">
+        <li class="rounded-lg border border-gray-200 bg-white p-4">
+          <p class="text-xs text-gray-500">Step 1</p>
+          <p class="mt-1 font-semibold text-gray-800">Python and Faker</p>
+          <p class="mt-1 text-sm leading-relaxed">Synthesise subscriber, order and support-ticket history, with realistic errors left in.</p>
+        </li>
+        <li class="rounded-lg border border-gray-200 bg-white p-4">
+          <p class="text-xs text-gray-500">Step 2</p>
+          <p class="mt-1 font-semibold text-gray-800">SQL</p>
+          <p class="mt-1 text-sm leading-relaxed">Clean the export and derive the moment-timing fields the hypothesis needs.</p>
+        </li>
+        <li class="rounded-lg border border-gray-200 bg-white p-4">
+          <p class="text-xs text-gray-500">Step 3</p>
+          <p class="mt-1 font-semibold text-gray-800">Power BI</p>
+          <p class="mt-1 text-sm leading-relaxed">Model the tables and visualise churn against moment quality.</p>
+        </li>
+      </ol>
+
+      <h3 class="mt-10 text-base font-semibold text-gray-800">Deriving the moment-timing field</h3>
+      <div class="mt-3 overflow-x-auto rounded-lg bg-gray-800 p-4 text-[13px] leading-relaxed text-gray-100">
+<pre><code>-- Flag subscribers with a negative support event
+-- shortly before their renewal decision
+SELECT
+  s.subscriber_id,
+  s.renewal_date,
+  MAX(t.opened_at) FILTER (
+    WHERE t.sentiment = 'negative'
+  ) AS last_negative_ticket,
+  s.renewal_date - MAX(t.opened_at) FILTER (
+    WHERE t.sentiment = 'negative'
+  ) AS days_before_renewal,
+  s.cancelled
+FROM subscribers s
+LEFT JOIN support_tickets t
+  ON t.subscriber_id = s.subscriber_id
+ AND t.opened_at BETWEEN s.renewal_date - INTERVAL '90 days'
+                      AND s.renewal_date
+GROUP BY s.subscriber_id, s.renewal_date, s.cancelled;</code></pre>
+      </div>
+      <p class="mt-2 text-sm text-gray-500">An illustrative excerpt in PostgreSQL syntax.</p>
+
+      <ul class="mt-8 space-y-4 leading-relaxed">
+        <li class="bullet flex gap-4"><span><strong class="text-gray-800">Duplicates.</strong> Retried checkouts had created repeat order rows, collapsed to one per transaction.</span></li>
+        <li class="bullet flex gap-4"><span><strong class="text-gray-800">Free text.</strong> Cancellation reasons typed by support agents were mapped to a fixed set of categories.</span></li>
+        <li class="bullet flex gap-4"><span><strong class="text-gray-800">Currency.</strong> Order values in mixed symbols and separators were normalised to a single numeric column.</span></li>
+        <li class="bullet flex gap-4"><span><strong class="text-gray-800">Sentiment.</strong> Around 2,300 support tickets were scored; tickets from before sentiment scoring existed were left null rather than guessed at.</span></li>
+        <li class="bullet flex gap-4"><span><strong class="text-gray-800">Structure.</strong> The flat sheet was split into subscribers, orders, deliveries and support tickets.</span></li>
+      </ul>
+    </section>
+
+    <section id="churn-dashboard" data-section data-title="Customer Analytics: The Interactive Dashboard" class="snap-start snap-y-start mt-16 sm:mt-24">
+      <div class="mx-auto max-w-3xl px-5">
+        <h2 class="font-display text-4xl text-gray-800 sm:text-5xl">The Interactive Dashboard</h2>
+        <p class="mt-5 text-lg leading-relaxed">The dashboard below compares churn between subscribers who did and did not have a negative peak moment close to renewal, and checks whether onboarding quality predicts churn on its own. Figures are preview values from the synthetic dataset.</p>
+        <p class="mt-4 text-lg leading-relaxed text-gray-600">I also built a custom Streamlit application that dynamically correlates support-ticket sentiment with the churn variables above, so the peak-end hypothesis can be explored interactively rather than read off a fixed chart.</p>
+        <div class="mt-6 overflow-hidden rounded-lg border border-gray-200 shadow-sm">
+          <iframe src="https://portfolio-data-xd5ft4evs6zrqszqu2prwf.streamlit.app/?embed=true" style="width: 100%; height: 550px; border: none; border-radius: 8px;" loading="lazy" title="Solmere churn and sentiment model, Streamlit app"></iframe>
+        </div>
+      </div>
+
+      <div class="mt-8 bg-gray-50 py-10">
+        <div class="mx-auto max-w-5xl px-3 sm:px-5">
+          <div class="overflow-hidden rounded-xl border border-gray-300 bg-white shadow-sm">
+            <div class="flex items-center gap-3 bg-gray-800 px-4 py-2.5 text-xs text-gray-300">
+              <span class="flex gap-1.5"><i class="h-2.5 w-2.5 rounded-full bg-gray-500"></i><i class="h-2.5 w-2.5 rounded-full bg-gray-500"></i><i class="h-2.5 w-2.5 rounded-full bg-gray-500"></i></span>
+              <span class="truncate">Solmere: Behavioral churn report</span>
+            </div>
+            <div class="bg-gray-50 p-3 sm:p-5">
+              <div class="grid grid-cols-2 gap-3 lg:grid-cols-4">
+                <div class="rounded-lg border border-gray-200 bg-white p-3 sm:p-4"><p class="text-xs text-gray-500">Active subscribers</p><p class="font-display mt-1 text-3xl tabular-nums text-gray-800 sm:text-4xl">8,400</p></div>
+                <div class="rounded-lg border border-gray-200 bg-white p-3 sm:p-4"><p class="text-xs text-gray-500">Monthly churn rate</p><p class="font-display mt-1 text-3xl tabular-nums text-gray-800 sm:text-4xl">6.8%</p></div>
+                <div class="rounded-lg border border-gray-200 bg-white p-3 sm:p-4"><p class="text-xs text-gray-500">Negative peak, pre-renewal</p><p class="font-display mt-1 text-3xl tabular-nums text-gray-800 sm:text-4xl">41%</p></div>
+                <div class="rounded-lg border border-gray-200 bg-white p-3 sm:p-4"><p class="text-xs text-gray-500">No negative peak</p><p class="font-display mt-1 text-3xl tabular-nums text-gray-800 sm:text-4xl">9%</p></div>
+              </div>
+
+              <div class="mt-3 grid gap-3 md:grid-cols-2">
+                <div class="reveal rounded-lg border border-gray-200 bg-white p-4">
+                  <p class="text-sm font-semibold text-gray-800">Cancellation rate at renewal</p>
+                  <p class="text-xs text-gray-400">By whether a negative support event happened in the 14 days before</p>
+                  <div class="mt-4 space-y-3">
+                    <div><div class="flex items-baseline justify-between text-sm text-gray-600"><span>Negative peak in the 14 days before</span><span class="font-medium text-gray-800">41%</span></div><div class="mt-1 h-4 bg-gray-100"><div class="bar-anim h-4 bg-gray-800" style="width:82%"></div></div></div>
+                    <div><div class="flex items-baseline justify-between text-sm text-gray-600"><span>No negative peak nearby</span><span class="font-medium text-gray-800">9%</span></div><div class="mt-1 h-4 bg-gray-100"><div class="bar-anim h-4 bg-gray-400" style="width:18%"></div></div></div>
+                  </div>
+                </div>
+                <div class="reveal rounded-lg border border-gray-200 bg-white p-4">
+                  <p class="text-sm font-semibold text-gray-800">12-month churn by onboarding quality</p>
+                  <p class="text-xs text-gray-400">Score from the first 30 days, grouped into thirds</p>
+                  <div class="mt-4 space-y-3">
+                    <div><div class="flex items-baseline justify-between text-sm text-gray-600"><span>Weak onboarding</span><span class="font-medium text-gray-800">34%</span></div><div class="mt-1 h-4 bg-gray-100"><div class="bar-anim h-4 bg-gray-800" style="width:68%"></div></div></div>
+                    <div><div class="flex items-baseline justify-between text-sm text-gray-600"><span>Average onboarding</span><span class="font-medium text-gray-800">19%</span></div><div class="mt-1 h-4 bg-gray-100"><div class="bar-anim h-4 bg-gray-500" style="width:38%"></div></div></div>
+                    <div><div class="flex items-baseline justify-between text-sm text-gray-600"><span>Strong onboarding</span><span class="font-medium text-gray-800">11%</span></div><div class="mt-1 h-4 bg-gray-100"><div class="bar-anim h-4 bg-gray-400" style="width:22%"></div></div></div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="churn-act" data-section data-title="Customer Analytics: Strategic Interventions" class="snap-start snap-y-start mt-16 sm:mt-24">
+      <div class="dots bg-gray-700 text-white">
+        <h2 class="font-display px-5 py-12 text-center text-4xl sm:text-5xl">Strategic Interventions</h2>
+      </div>
+
+      <div class="bg-gray-50 pb-16 pt-12 sm:pb-24">
+        <div class="mx-auto max-w-3xl px-5">
+          <p class="text-lg leading-relaxed">The recommendations below follow directly from the peak-end hypothesis, not from the churn number on its own.</p>
+          <ul class="mt-10 space-y-8 text-xl leading-relaxed text-gray-800">
+            <li class="bullet flex gap-4"><span><strong>Close negative peaks fast.</strong> Route any support ticket flagged negative to a recovery follow-up within 48 hours, so the moment doesn't sit unresolved into the renewal window.</span></li>
+            <li class="bullet flex gap-4"><span><strong>Engineer a positive peak before renewal.</strong> Time appreciation or loyalty messaging to land shortly before the decision point, using the same peak-end logic in reverse.</span></li>
+            <li class="bullet flex gap-4"><span><strong>Treat the first 30 days as the priority, not tenure.</strong> Onboarding quality predicts churn more strongly than how long someone has subscribed, so retention budget should follow it there.</span></li>
+            <li class="bullet flex gap-4"><span><strong>Track moment quality alongside average satisfaction.</strong> The two measures tell different stories, and only one of them lines up with who actually leaves.</span></li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <!-- Project 3: Digital Product UX -->
+    <section id="ux-top" data-section data-title="Digital Product UX" class="snap-start snap-y-start dots bg-gray-700 text-white">
+      <div class="mx-auto max-w-4xl px-5 py-20 text-center sm:py-28">
+        <p class="text-sm text-gray-400">Case study 3 of 3</p>
+        <h2 class="font-display mt-3 text-6xl tracking-tight sm:text-8xl">Digital Product UX</h2>
+        <p class="mx-auto mt-6 max-w-xl text-lg leading-relaxed text-gray-300">An onboarding form was losing more than half its signups. The question was whether that was a motivation problem or a friction problem.</p>
+        <ul class="mt-9 flex flex-wrap justify-center gap-2 text-sm">
+          <li class="rounded-full border border-white/25 px-3.5 py-1.5">Psychology</li>
+          <li class="rounded-full border border-white/25 px-3.5 py-1.5">Python</li>
+          <li class="rounded-full border border-white/25 px-3.5 py-1.5">SQL</li>
+          <li class="rounded-full border border-white/25 px-3.5 py-1.5">A/B Testing</li>
+          <li class="rounded-full border border-white/25 px-3.5 py-1.5">Data Visualization</li>
+        </ul>
+      </div>
+    </section>
+
+    <section id="ux-hook" data-section data-title="Digital Product UX: The Behavioral Hook" class="snap-start snap-y-start mx-auto max-w-3xl px-5 pt-16 sm:pt-24">
+      <h2 class="font-display text-4xl text-gray-800 sm:text-5xl">The Behavioral Hook</h2>
+      <h3 class="font-display mt-8 text-3xl leading-tight text-gray-700 sm:text-4xl">Motivation, ability, or trigger</h3>
+      <div class="mt-5 space-y-4 text-lg leading-relaxed">
+        <p>Tallywell is a fictional personal-finance app built for this project. Its twelve-field signup form was converting well below the team's target, and the usual instinct was to fix it with better copy: clearer benefit statements, more reassuring language, a stronger call to action. That's a motivation fix, aimed at a problem that might not be about motivation at all.</p>
+        <p>BJ Fogg's behavior model holds that a behavior happens when motivation, ability and a trigger converge at the same moment; if any one of the three is too low, the behavior doesn't occur, however strong the other two are. Applied here, the hypothesis is that the drop-off is an ability problem: the form itself is the barrier, not the person's willingness to fill it in.</p>
+      </div>
+      <div class="mt-8 border-l-4 border-gray-800 bg-gray-50 p-5">
+        <p class="font-semibold text-gray-800">The question I'm testing</p>
+        <p class="mt-1 leading-relaxed">Will cutting friction from the form lift conversion more than a parallel motivational-copy change does?</p>
+      </div>
+      <ul class="mt-8 space-y-4 text-lg leading-relaxed">
+        <li class="bullet flex gap-4">Is drop-off concentrated at specific fields, an ability signal, or spread evenly through the form, which would point to motivation instead?</li>
+        <li class="bullet flex gap-4">Does shortening the form lift completion more than adding trust and benefit copy around it?</li>
+        <li class="bullet flex gap-4">Do people who abandon the form return later without a reminder, suggesting motivation was intact and ability was the blocker?</li>
+      </ul>
+    </section>
+
+    <section id="ux-pipeline" data-section data-title="Digital Product UX: The Data Pipeline" class="snap-start snap-y-start mx-auto max-w-3xl px-5 pt-16 sm:pt-24">
+      <h2 class="font-display text-4xl text-gray-800 sm:text-5xl">The Data Pipeline</h2>
+      <div class="mt-5 space-y-4 text-lg leading-relaxed">
+        <p>Python's Faker library generated roughly 40,000 synthetic onboarding sessions, split across two variants: Variant A, the existing twelve-field form, and Variant B, a four-field form with the remaining details collected later through progressive profiling once someone is already active. Device, browser and time-of-day noise were added so the funnel behaves like a real one.</p>
+        <p>SQL rebuilt the raw event log into a step-by-step funnel per variant and computed per-field abandonment for Variant A, which is where the ability-versus-motivation question actually gets answered.</p>
+      </div>
+
+      <h3 class="mt-10 text-base font-semibold text-gray-800">The pipeline</h3>
+      <ol class="mt-4 grid gap-3 sm:grid-cols-3">
+        <li class="rounded-lg border border-gray-200 bg-white p-4">
+          <p class="text-xs text-gray-500">Step 1</p>
+          <p class="mt-1 font-semibold text-gray-800">Python and Faker</p>
+          <p class="mt-1 text-sm leading-relaxed">Synthesise 40,000 onboarding sessions across two form variants.</p>
+        </li>
+        <li class="rounded-lg border border-gray-200 bg-white p-4">
+          <p class="text-xs text-gray-500">Step 2</p>
+          <p class="mt-1 font-semibold text-gray-800">SQL</p>
+          <p class="mt-1 text-sm leading-relaxed">Build the funnel by step and variant, and flag where each session dropped.</p>
+        </li>
+        <li class="rounded-lg border border-gray-200 bg-white p-4">
+          <p class="text-xs text-gray-500">Step 3</p>
+          <p class="mt-1 font-semibold text-gray-800">Power BI</p>
+          <p class="mt-1 text-sm leading-relaxed">Visualise the funnel and the conversion gap between variants.</p>
+        </li>
+      </ol>
+
+      <h3 class="mt-10 text-base font-semibold text-gray-800">Building the funnel</h3>
+      <div class="mt-3 overflow-x-auto rounded-lg bg-gray-800 p-4 text-[13px] leading-relaxed text-gray-100">
+<pre><code>-- Conversion rate by variant and funnel step
+SELECT
+  variant,
+  step_name,
+  COUNT(*) AS sessions_reached,
+  COUNT(*) FILTER (WHERE completed_step)
+    AS sessions_completed,
+  ROUND(
+    COUNT(*) FILTER (WHERE completed_step)::numeric
+    / COUNT(*), 3
+  ) AS step_conversion
+FROM onboarding_events
+GROUP BY variant, step_name, step_order
+ORDER BY variant, step_order;</code></pre>
+      </div>
+      <p class="mt-2 text-sm text-gray-500">An illustrative excerpt in PostgreSQL syntax.</p>
+
+      <ul class="mt-8 space-y-4 leading-relaxed">
+        <li class="bullet flex gap-4"><span><strong class="text-gray-800">Assignment checks.</strong> Sessions with a broken or missing variant flag were dropped rather than guessed into a bucket.</span></li>
+        <li class="bullet flex gap-4"><span><strong class="text-gray-800">Bot traffic.</strong> Sessions completing the full form in under two seconds were excluded as non-human.</span></li>
+        <li class="bullet flex gap-4"><span><strong class="text-gray-800">Timestamps.</strong> Event times from three client time zones were normalised to UTC before ordering the funnel.</span></li>
+        <li class="bullet flex gap-4"><span><strong class="text-gray-800">Field-level drop-off.</strong> The exact field a session stalled on was parsed out of the raw event payload for Variant A only.</span></li>
+      </ul>
+    </section>
+
+    <section id="ux-dashboard" data-section data-title="Digital Product UX: The Interactive Dashboard" class="snap-start snap-y-start mt-16 sm:mt-24">
+      <div class="mx-auto max-w-3xl px-5">
+        <h2 class="font-display text-4xl text-gray-800 sm:text-5xl">The Interactive Dashboard</h2>
+        <p class="mt-5 text-lg leading-relaxed">The results dashboard compares completion between the two variants and shows where, exactly, the long form was losing people. Figures are preview values from the synthetic dataset.</p>
+      </div>
+
+      <div class="mt-8 bg-gray-50 py-10">
+        <div class="mx-auto max-w-5xl px-3 sm:px-5">
+          <div class="overflow-hidden rounded-xl border border-gray-300 bg-white shadow-sm">
+            <div class="flex items-center gap-3 bg-gray-800 px-4 py-2.5 text-xs text-gray-300">
+              <span class="flex gap-1.5"><i class="h-2.5 w-2.5 rounded-full bg-gray-500"></i><i class="h-2.5 w-2.5 rounded-full bg-gray-500"></i><i class="h-2.5 w-2.5 rounded-full bg-gray-500"></i></span>
+              <span class="truncate">Tallywell: Onboarding A/B test report</span>
+            </div>
+            <div class="bg-gray-50 p-3 sm:p-5">
+              <div class="grid grid-cols-2 gap-3 lg:grid-cols-4">
+                <div class="rounded-lg border border-gray-200 bg-white p-3 sm:p-4"><p class="text-xs text-gray-500">Sessions per variant</p><p class="font-display mt-1 text-3xl tabular-nums text-gray-800 sm:text-4xl">~40,000</p></div>
+                <div class="rounded-lg border border-gray-200 bg-white p-3 sm:p-4"><p class="text-xs text-gray-500">Variant A conversion</p><p class="font-display mt-1 text-3xl tabular-nums text-gray-800 sm:text-4xl">34.2%</p></div>
+                <div class="rounded-lg border border-gray-200 bg-white p-3 sm:p-4"><p class="text-xs text-gray-500">Variant B conversion</p><p class="font-display mt-1 text-3xl tabular-nums text-gray-800 sm:text-4xl">51.6%</p></div>
+                <div class="rounded-lg border border-gray-200 bg-white p-3 sm:p-4"><p class="text-xs text-gray-500">Relative lift</p><p class="font-display mt-1 text-3xl tabular-nums text-gray-800 sm:text-4xl">+51%</p></div>
+              </div>
+
+              <div class="mt-3 grid gap-3 md:grid-cols-2">
+                <div class="reveal rounded-lg border border-gray-200 bg-white p-4">
+                  <p class="text-sm font-semibold text-gray-800">Completion by variant</p>
+                  <p class="text-xs text-gray-400">Share of sessions that finished onboarding</p>
+                  <div class="mt-4 space-y-3">
+                    <div><div class="flex items-baseline justify-between text-sm text-gray-600"><span>Variant A, 12 fields</span><span class="font-medium text-gray-800">34.2%</span></div><div class="mt-1 h-4 bg-gray-100"><div class="bar-anim h-4 bg-gray-400" style="width:34.2%"></div></div></div>
+                    <div><div class="flex items-baseline justify-between text-sm text-gray-600"><span>Variant B, 4 fields</span><span class="font-medium text-gray-800">51.6%</span></div><div class="mt-1 h-4 bg-gray-100"><div class="bar-anim h-4 bg-gray-800" style="width:51.6%"></div></div></div>
+                  </div>
+                  <p class="mt-3 text-xs text-gray-500">95% confidence interval on the lift excludes zero.</p>
+                </div>
+                <div class="reveal rounded-lg border border-gray-200 bg-white p-4">
+                  <p class="text-sm font-semibold text-gray-800">Where Variant A lost people</p>
+                  <p class="text-xs text-gray-400">Share of all Variant A abandonment, by field</p>
+                  <div class="mt-4 space-y-3">
+                    <div><div class="flex items-baseline justify-between text-sm text-gray-600"><span>Bank routing number</span><span class="font-medium text-gray-800">27%</span></div><div class="mt-1 h-4 bg-gray-100"><div class="bar-anim h-4 bg-gray-800" style="width:54%"></div></div></div>
+                    <div><div class="flex items-baseline justify-between text-sm text-gray-600"><span>Employer name</span><span class="font-medium text-gray-800">19%</span></div><div class="mt-1 h-4 bg-gray-100"><div class="bar-anim h-4 bg-gray-600" style="width:38%"></div></div></div>
+                    <div><div class="flex items-baseline justify-between text-sm text-gray-600"><span>Phone verification</span><span class="font-medium text-gray-800">16%</span></div><div class="mt-1 h-4 bg-gray-100"><div class="bar-anim h-4 bg-gray-500" style="width:32%"></div></div></div>
+                    <div><div class="flex items-baseline justify-between text-sm text-gray-600"><span>Remaining nine fields</span><span class="font-medium text-gray-800">38%</span></div><div class="mt-1 h-4 bg-gray-100"><div class="bar-anim h-4 bg-gray-300" style="width:76%"></div></div></div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="mx-auto max-w-3xl px-5 pt-10">
+        <p class="text-lg leading-relaxed text-gray-600">I also built a custom Streamlit application that computes both variants' conversion rates and the field-level abandonment breakdown directly from the underlying session data, so the result can be checked live rather than read off a fixed chart.</p>
+        <div class="mt-6 overflow-hidden rounded-lg border border-gray-200 shadow-sm">
+          <iframe src="https://portfolio-data-gyvkkaieywnlkpbacxrr5n.streamlit.app/?embed=true" style="width: 100%; height: 550px; border: none; border-radius: 8px;" loading="lazy" title="Tallywell onboarding funnel model, Streamlit app"></iframe>
+        </div>
+      </div>
+    </section>
+
+    <section id="ux-act" data-section data-title="Digital Product UX: Strategic Interventions" class="snap-start snap-y-start mt-16 sm:mt-24">
+      <div class="dots bg-gray-700 text-white">
+        <h2 class="font-display px-5 py-12 text-center text-4xl sm:text-5xl">Strategic Interventions</h2>
+      </div>
+
+      <div class="bg-gray-50 pb-16 pt-12 sm:pb-24">
+        <div class="mx-auto max-w-3xl px-5">
+          <p class="text-lg leading-relaxed">Three fields accounted for well over half of all abandonment. That's a friction signature, not a motivation one, so the recommendations follow the ability side of the model.</p>
+          <ul class="mt-10 space-y-8 text-xl leading-relaxed text-gray-800">
+            <li class="bullet flex gap-4"><span><strong>Ship the short form as the default.</strong> Variant B's ability-side fix outperformed a parallel motivational-copy test that ran alongside it during the same window.</span></li>
+            <li class="bullet flex gap-4"><span><strong>Move deferred fields to progressive profiling.</strong> Ask for the details cut from signup once someone is active and has already found value, when motivation is naturally higher.</span></li>
+            <li class="bullet flex gap-4"><span><strong>Audit the next-highest drop step.</strong> The same field-level abandonment analysis should be run on the step after onboarding, where a smaller but similar drop remains.</span></li>
+            <li class="bullet flex gap-4"><span><strong>Re-run tests as a habit, not a one-off.</strong> The thread through all three case studies is the same: behavior follows specific moments and specific frictions, not the average of how people say they feel. That's worth testing again next quarter, not just once.</span></li>
+          </ul>
+          <a href="#consulting" class="tap-lift mt-10 inline-flex items-center gap-2 text-lg font-semibold text-gray-800 hover:text-gray-600">
+            Continue to Strategic Organizational Consulting
+            <svg viewBox="0 0 24 24" class="h-5 w-5" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 18l6-6-6-6"/></svg>
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <!-- Strategic Organizational Management & Consulting -->
+    <section id="consulting" data-section data-title="Strategic Organizational Management &amp; Consulting" class="snap-start snap-y-start dots bg-gray-800 text-white">
+      <div class="mx-auto max-w-4xl px-5 py-20 text-center sm:py-28">
+        <p class="text-sm text-gray-400">Beyond the data &middot; Industrial-Organizational Psychology</p>
+        <h2 class="font-display mt-3 text-5xl tracking-tight sm:text-7xl">Strategic Organizational Management &amp; Consulting</h2>
+        <p class="mx-auto mt-6 max-w-xl text-lg leading-relaxed text-gray-300">Where the first three case studies build the data infrastructure, this is the human side of the same discipline: reading culture, diagnosing friction, and designing the interventions that get a workforce functioning again.</p>
+        <ul class="mt-9 flex flex-wrap justify-center gap-2 text-sm">
+          <li class="rounded-full border border-white/25 px-3.5 py-1.5">Industrial-Organizational Psychology</li>
+          <li class="rounded-full border border-white/25 px-3.5 py-1.5">Change Management</li>
+          <li class="rounded-full border border-white/25 px-3.5 py-1.5">Organizational Culture</li>
+          <li class="rounded-full border border-white/25 px-3.5 py-1.5">Workplace Strategy</li>
+        </ul>
+      </div>
+    </section>
+
+    <section id="consulting-brief" data-section data-title="Case Study 3: Strategic Organizational Transformation" class="snap-start snap-y-start mx-auto max-w-3xl px-5 pt-16 sm:pt-24">
+      <p class="text-sm text-gray-500">Case study &middot; Solmere ecosystem</p>
+      <h2 class="font-display mt-2 text-4xl text-gray-800 sm:text-5xl">Strategic Organizational Transformation</h2>
+      <p class="mt-4 text-lg leading-relaxed text-gray-600">A post-acquisition culture and engagement recovery inside Solmere, the same fictional company from the Customer Analytics case study, seen this time through an organizational psychology lens rather than a data one: same business, a different kind of diagnosis.</p>
+
+      <div class="mt-10 grid gap-5 sm:grid-cols-2">
+        <div class="rounded-lg border border-gray-200 bg-white p-6">
+          <h3 class="text-sm font-semibold text-gray-800">Problem statement</h3>
+          <p class="mt-3 leading-relaxed text-gray-600">Following its acquisition by a larger holding group, Solmere merged three previously independent teams, support, fulfilment and product, into a single reporting structure inside six weeks. The transition produced immediate operational friction: unclear ownership across the new department lines, a measurable drop in cross-team psychological safety, and engagement scores sliding across every monitored team.</p>
+        </div>
+        <div class="rounded-lg border border-gray-200 bg-white p-6">
+          <h3 class="text-sm font-semibold text-gray-800">Diagnostic framework</h3>
+          <p class="mt-3 leading-relaxed text-gray-600">Edgar Schein's organizational culture model separated what each team said it valued from what actually got rewarded day to day, surfacing where the merged teams' norms genuinely conflicted rather than just clashed in style. The Job Demands-Resources model then mapped where rising demands, ambiguous reporting lines, duplicated approvals, were outpacing the resources, autonomy, peer support, recognition, available to absorb them.</p>
+        </div>
+        <div class="rounded-lg border border-gray-200 bg-white p-6">
+          <h3 class="text-sm font-semibold text-gray-800">Intervention strategy</h3>
+          <p class="mt-3 leading-relaxed text-gray-600">A structured Change Management Playbook targeted the specific gaps the diagnostic surfaced, not generic culture-building:</p>
+          <ul class="mt-4 space-y-3 leading-relaxed text-gray-600">
+            <li class="bullet flex gap-3"><span><strong class="text-gray-800">Structured feedback loops</strong> &mdash; a fixed cadence of cross-team retrospectives, replacing ad hoc escalation.</span></li>
+            <li class="bullet flex gap-3"><span><strong class="text-gray-800">Cross-functional alignment spaces</strong> &mdash; a shared decision log and a weekly sync for the three merged teams specifically.</span></li>
+            <li class="bullet flex gap-3"><span><strong class="text-gray-800">Peer-led recognition protocols</strong> &mdash; recognition moved from manager-only to peer-nominated, addressing the resource side of the JD-R gap directly.</span></li>
+          </ul>
+        </div>
+        <div class="rounded-lg border border-gray-800 bg-gray-800 p-6 text-white">
+          <h3 class="text-sm font-semibold text-gray-300">Strategic outcomes</h3>
+          <p class="font-display mt-2 text-4xl tabular-nums">+28%</p>
+          <p class="text-sm text-gray-300">Workplace involvement index, monitored teams</p>
+          <p class="mt-4 leading-relaxed text-gray-300">Within two quarters of rollout, workplace involvement indices recovered 28% across the monitored teams and the cross-team escalation backlog, the loudest complaint in exit interviews, was cleared. The playbook itself was documented as a repeatable framework, since reused for onboarding Solmere's next distributed hires.</p>
+        </div>
+      </div>
+
+      <div class="mt-12 rounded-lg border border-gray-200 bg-gray-50 p-6 sm:p-8">
+        <p class="text-lg leading-relaxed text-gray-800">Open to advisory conversations on culture diagnostics, change management or workplace strategy, for teams navigating a restructuring, a merger, or a shift to distributed work.</p>
+        <div class="mt-6 flex flex-wrap gap-3">
+          <a href="https://wa.me/2349135615687" target="_blank" rel="noopener noreferrer" class="tap-lift inline-flex items-center gap-2 rounded-md bg-gray-800 px-5 py-2.5 text-sm font-semibold text-white hover:bg-gray-700">
+            <svg viewBox="0 0 24 24" class="h-4 w-4" fill="currentColor" aria-hidden="true"><path d="M12.04 2c-5.52 0-10 4.48-10 10 0 1.77.46 3.45 1.28 4.9L2 22l5.25-1.38a9.96 9.96 0 0 0 4.79 1.22h.01c5.52 0 10-4.48 10-10s-4.49-10-10.01-10zm5.87 14.3c-.25.7-1.45 1.34-2 1.42-.51.08-1.15.11-1.86-.12-.43-.13-.98-.32-1.68-.63-2.96-1.28-4.89-4.26-5.04-4.46-.15-.2-1.2-1.6-1.2-3.05s.75-2.16 1.02-2.46c.26-.29.57-.36.76-.36h.55c.18 0 .42-.07.65.5.25.6.85 2.08.92 2.23.07.15.11.32.02.52-.09.2-.14.32-.27.5-.14.18-.29.4-.41.53-.14.15-.28.31-.12.6.16.29.71 1.18 1.53 1.91 1.05.94 1.94 1.24 2.23 1.38.29.14.46.12.63-.07.18-.2.75-.87.95-1.17.2-.3.4-.24.66-.15.27.1 1.72.81 2.02.96.29.15.49.22.56.34.07.13.07.72-.18 1.42z"/></svg>
+            WhatsApp
+          </a>
+          <a href="mailto:nwaforchubby@gmail.com" target="_blank" rel="noopener noreferrer" class="tap-lift inline-flex items-center gap-2 rounded-md border border-gray-300 px-5 py-2.5 text-sm font-semibold text-gray-800 hover:bg-white">
+            <svg viewBox="0 0 24 24" class="h-4 w-4" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 4h16v16H4z" stroke="none"/><path d="M3 6l9 7 9-7"/><rect x="3" y="5" width="18" height="14" rx="2"/></svg>
+            Email
+          </a>
+          <a href="https://github.com/professorpasqua-byte/portfolio-data" target="_blank" rel="noopener noreferrer" class="tap-lift inline-flex items-center gap-2 rounded-md border border-gray-300 px-5 py-2.5 text-sm font-semibold text-gray-800 hover:bg-white">
+            <svg viewBox="0 0 24 24" class="h-4 w-4" fill="currentColor" aria-hidden="true"><path d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61-.546-1.385-1.333-1.754-1.333-1.754-1.089-.744.083-.729.083-.729 1.205.084 1.84 1.237 1.84 1.237 1.07 1.834 2.809 1.304 3.495.997.108-.775.418-1.305.762-1.605-2.665-.303-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.91 1.235 3.221 0 4.609-2.807 5.625-5.479 5.921.43.372.823 1.102.823 2.222 0 1.604-.014 2.896-.014 3.29 0 .322.216.696.825.578C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12"/></svg>
+            GitHub
+          </a>
+        </div>
+      </div>
+
+      <a href="#home" class="tap-lift mt-10 mb-16 inline-flex items-center gap-2 text-lg font-semibold text-gray-800 hover:text-gray-600 sm:mb-24">
+        <svg viewBox="0 0 24 24" class="h-5 w-5" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 18l-6-6 6-6"/></svg>
+        Back to home
+      </a>
+    </section>
+  </main>
+
+  <footer class="bg-gray-800 text-gray-300">
+    <div class="mx-auto max-w-3xl px-5 py-12">
+      <p class="text-xl font-light text-white">N. Martins' Portfolio</p>
+      <p class="mt-1 text-sm">martins-portfolio.net</p>
+      <div class="mt-5 flex flex-wrap gap-x-6 gap-y-2 text-sm">
+        <a href="https://wa.me/2349135615687" target="_blank" rel="noopener noreferrer" class="tap-lift text-gray-300 underline decoration-gray-500 underline-offset-4 hover:text-white">WhatsApp</a>
+        <a href="mailto:nwaforchubby@gmail.com" target="_blank" rel="noopener noreferrer" class="tap-lift text-gray-300 underline decoration-gray-500 underline-offset-4 hover:text-white">nwaforchubby@gmail.com</a>
+        <a href="https://github.com/professorpasqua-byte/portfolio-data" target="_blank" rel="noopener noreferrer" class="tap-lift text-gray-300 underline decoration-gray-500 underline-offset-4 hover:text-white">GitHub</a>
+      </div>
+      <p class="mt-6 max-w-prose text-sm leading-relaxed text-gray-400">Meridian Works, Solmere and Tallywell are fictional companies built for these case studies. All employee, subscriber and session data is synthetic, generated with Python's Faker library. Figures shown are preview values and will be refreshed when the final dataset runs are complete.</p>
+      <p class="mt-6 text-xs text-gray-500">&copy; 2026 Nwafor Martins</p>
+    </div>
+  </footer>
+  </div>
+
+  <script>
+  (function () {
+    'use strict';
+
+    /* ---------- Data ---------- */
+    var METRICS = ['Environment Satisfaction', 'Job Involvement', 'Job Satisfaction', 'Relationship Satisfaction', 'Work-Life Balance'];
+    var SHORT = ['Env.', 'Involv.', 'Job sat.', 'Relat.', 'W-L bal.'];
+
+    // s = [environment, involvement, job satisfaction, relationship, work-life balance]
+    var DEPTS = [
+      { id: 'hr', name: 'Human Resources', shade: '#9ca3af', roles: [
+        { name: 'HR Partner', total: 48, term: 11, s: [2.61, 2.72, 2.54, 2.93, 2.90] },
+        { name: 'HR Manager', total: 12, term: 2, s: [3.05, 2.88, 2.81, 2.52, 2.90] }
+      ]},
+      { id: 'eng', name: 'Engineering', shade: '#6b7280', roles: [
+        { name: 'Software Engineer', total: 280, term: 40, s: [2.78, 2.71, 2.80, 2.68, 2.70] },
+        { name: 'QA Analyst', total: 250, term: 58, s: [2.52, 2.66, 2.58, 2.62, 2.55] },
+        { name: 'Data Engineer', total: 150, term: 16, s: [2.92, 2.75, 2.71, 2.74, 2.79] },
+        { name: 'Support Engineer', total: 130, term: 18, s: [2.74, 2.70, 2.66, 2.70, 2.73] },
+        { name: 'Engineering Lead', total: 85, term: 8, s: [2.81, 2.84, 2.68, 2.83, 2.77] },
+        { name: 'Engineering Manager', total: 65, term: 5, s: [2.90, 2.86, 2.72, 2.88, 2.84] }
+      ]},
+      { id: 'sales', name: 'Sales', shade: '#1f2937', roles: [
+        { name: 'Account Executive', total: 330, term: 68, s: [2.66, 2.70, 2.74, 2.71, 2.79] },
+        { name: 'Sales Development Rep', total: 100, term: 32, s: [2.58, 2.53, 2.50, 2.57, 2.88] },
+        { name: 'Sales Manager', total: 50, term: 3, s: [2.64, 2.72, 2.77, 2.85, 2.76] }
+      ]}
+    ];
+
+    var AGE = [['18-25', 90, 55], ['26-33', 300, 80], ['34-41', 360, 60], ['42-49', 270, 40], ['50-57', 150, 18], ['58+', 69, 8]];
+    var SEN = [['0-1', 150, 110], ['2-3', 240, 70], ['4-5', 300, 40], ['6-7', 210, 20], ['8-10', 170, 12], ['11-15', 110, 6], ['16+', 59, 3]];
+    var FEMALE = { hr: [62, 69], eng: [41, 38], sales: [52, 49] };   // female share: [active %, terminated %]
+    var INCOME = { hr: [5120, 4380], eng: [6940, 5870], sales: [6210, 5690] };   // monthly: [active, terminated]
+
+    var LEGEND = [
+      ['Education', '1 Below College, 2 College, 3 Bachelor, 4 Master, 5 Doctor'],
+      ['EnvironmentSatisfaction', '1 Low, 2 Medium, 3 High, 4 Very High'],
+      ['JobInvolvement', '1 Low, 2 Medium, 3 High, 4 Very High'],
+      ['JobSatisfaction', '1 Low, 2 Medium, 3 High, 4 Very High'],
+      ['PerformanceRating', '1 Low, 2 Good, 3 Excellent, 4 Outstanding'],
+      ['RelationshipSatisfaction', '1 Low, 2 Medium, 3 High, 4 Very High'],
+      ['WorkLifeBalance', '1 Bad, 2 Good, 3 Better, 4 Best']
+    ];
+
+    var DEFS = [
+      ['Environment satisfaction', 'How comfortable and well supported people feel in their surroundings and team.'],
+      ['Job involvement', 'How absorbed and invested someone is in their day-to-day work.'],
+      ['Job satisfaction', 'How fulfilled a person feels by the work they do.'],
+      ['Relationship satisfaction', 'How positively people rate their working relationships with colleagues and managers.'],
+      ['Work-life balance', 'How well someone can manage work demands alongside life outside work.']
+    ];
+
+    var TOOLS = [
+      ['Psychology', 'Frames the survey scales as measures of experience.', '<circle cx="12" cy="12" r="10"/><path d="M8 14s1.5 2 4 2 4-2 4-2"/><path d="M9 9h.01M15 9h.01"/>'],
+      ['Excel', 'Quick pivots and sense checks at every stage.', '<rect x="3" y="3" width="18" height="18" rx="2"/><path d="M3 9h18M3 15h18M9 3v18M15 3v18"/>'],
+      ['SQL', 'Relational cleaning and restructuring.', '<ellipse cx="12" cy="5" rx="9" ry="3"/><path d="M21 12c0 1.66-4 3-9 3s-9-1.34-9-3"/><path d="M3 5v14c0 1.66 4 3 9 3s9-1.34 9-3V5"/>'],
+      ['Python', 'Faker-powered data synthesis.', '<path d="M16 18l6-6-6-6"/><path d="M8 6l-6 6 6 6"/>'],
+      ['Power BI', 'Data model, measures and dashboards.', '<path d="M12 20V10M18 20V4M6 20v-4"/>'],
+      ['Data Visualization', 'Turning findings into a story people can act on.', '<path d="M21.21 15.89A10 10 0 1 1 8 2.83"/><path d="M22 12A10 10 0 0 0 12 2v10z"/>']
+    ];
+
+    var RAW_HEAD = ['emp_id', 'full_name', 'department', 'hire_date', 'term_date', 'monthly_income', 'job_sat'];
+    var RAW = [
+      ['E-1042', '  maria SILVA ', 'sales ', '03/11/2019', 'NULL', '$6,120', '3', 'Stray spaces, odd casing, day-first date, currency symbol'],
+      ['E-1043', "Tom\u00e1s O'Brien", 'Sal3s', '2021-07-05', '14 Feb 2023', '5480', 'high', 'Typo in department, text survey answer'],
+      ['E-1043', "TOMAS O'BRIEN", 'Sales', '2021-07-05', '14 Feb 2023', '5480', 'high', 'Duplicate of the row above'],
+      ['E-1044', 'Li Wei', 'engineering', '7th Jan 2018', '', '-1', 'n/a', 'Third date format, impossible income, missing score'],
+      ['E-1045', 'priya nair', 'Eng.', '12/08/2020', '30/06/2024', '7,300.00', '2', 'Abbreviated department, thousands separator'],
+      ['E-1046', 'J. Okafor', 'HR', '2022/02/28', 'N/A', '4890', '5', 'Score outside the 1 to 4 scale']
+    ];
+    var CLEAN = [
+      ['E-1042', 'Maria Silva', 'Sales', '2019-11-03', null, '6120', '3'],
+      ['E-1043', "Tom\u00e1s O'Brien", 'Sales', '2021-07-05', '2023-02-14', '5480', '3'],
+      ['E-1044', 'Li Wei', 'Engineering', '2018-01-07', null, null, null],
+      ['E-1045', 'Priya Nair', 'Engineering', '2020-08-12', '2024-06-30', '7300', '2'],
+      ['E-1046', 'J. Okafor', 'Human Resources', '2022-02-28', null, '4890', null]
+    ];
+
+    /* ---------- Derived numbers ---------- */
+    function sum(arr, key) { return arr.reduce(function (a, x) { return a + x[key]; }, 0); }
+    DEPTS.forEach(function (d) {
+      d.total = sum(d.roles, 'total');
+      d.term = sum(d.roles, 'term');
+      d.active = d.total - d.term;
+      d.rate = d.term / d.total * 100;
+    });
+    var CO = { total: sum(DEPTS, 'total'), term: sum(DEPTS, 'term') };
+    CO.active = CO.total - CO.term;
+    CO.rate = CO.term / CO.total * 100;
+    var ALL_ROLES = [];
+    DEPTS.forEach(function (d) { d.roles.forEach(function (r) { ALL_ROLES.push(r); }); });
+    function role(name) { return ALL_ROLES.filter(function (r) { return r.name === name; })[0]; }
+    function roleRate(r) { return r.term / r.total * 100; }
+    function wavg(roles, i) {
+      var w = roles.reduce(function (a, r) { return a + r.total; }, 0);
+      return roles.reduce(function (a, r) { return a + r.s[i] * r.total; }, 0) / w;
+    }
+    var earlyLeavers = Math.round((SEN[0][2] + SEN[1][2]) / CO.term * 100);
+
+    /* ---------- Helpers ---------- */
+    function $(s, c) { return (c || document).querySelector(s); }
+    function fmt(n) { return Number(n).toLocaleString('en-US'); }
+    function esc(s) { return String(s).replace(/[&<>"']/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]; }); }
+    function dash(s) { return String(s).replace(/-/g, '\u2013'); }
+
+    /* ---------- Toolkit ---------- */
+    $('#toolkit').innerHTML = TOOLS.map(function (t) {
+      return '<div class="rounded-lg border border-gray-200 bg-white p-4">' +
+        '<svg viewBox="0 0 24 24" class="h-5 w-5 text-gray-800" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">' + t[2] + '</svg>' +
+        '<p class="mt-3 font-semibold text-gray-800">' + t[0] + '</p>' +
+        '<p class="mt-1 text-sm leading-relaxed text-gray-600">' + t[1] + '</p></div>';
+    }).join('');
+
+    /* ---------- Raw vs cleaned sheet ---------- */
+    var sheetMode = 'raw';
+    function renderSheet() {
+      var isRaw = sheetMode === 'raw';
+      var head = RAW_HEAD.concat(isRaw ? ['issue'] : []);
+      var rows = isRaw ? RAW : CLEAN;
+      var html = '<thead class="bg-gray-50 text-gray-500"><tr>' + head.map(function (h) {
+        return '<th class="whitespace-nowrap px-3 py-2.5 font-medium">' + h + '</th>';
+      }).join('') + '</tr></thead><tbody class="divide-y divide-gray-200">';
+      rows.forEach(function (r, ri) {
+        var dup = isRaw && ri === 2;
+        html += '<tr class="' + (dup ? 'bg-gray-50 text-gray-400' : 'text-gray-800') + '">';
+        r.forEach(function (c, ci) {
+          if (c === null) { html += '<td class="whitespace-nowrap px-3 py-2 italic text-gray-400">NULL</td>'; }
+          else if (isRaw && ci === 7) { html += '<td class="min-w-[220px] px-3 py-2 text-xs text-gray-500">' + esc(c) + '</td>'; }
+          else { html += '<td class="whitespace-pre px-3 py-2 tabular-nums">' + (c === '' ? '<span class="italic text-gray-400">(blank)</span>' : esc(c)) + '</td>'; }
+        });
+        html += '</tr>';
+      });
+      html += '</tbody>';
+      $('#sheetTable').innerHTML = html;
+      $('#sheetNote').textContent = isRaw
+        ? 'Six raw rows, six different kinds of problem.'
+        : 'Six raw rows became five clean rows: the duplicate for E-1043 was removed and bad values became NULL.';
+      [['#rawBtn', 'raw'], ['#cleanBtn', 'clean']].forEach(function (p) {
+        var b = $(p[0]), on = sheetMode === p[1];
+        b.setAttribute('aria-pressed', on);
+        b.className = 'rounded px-4 py-1.5 font-medium ' + (on ? 'bg-gray-800 text-white' : 'text-gray-700 hover:bg-gray-100');
+      });
+    }
+    $('#rawBtn').addEventListener('click', function () { sheetMode = 'raw'; renderSheet(); });
+    $('#cleanBtn').addEventListener('click', function () { sheetMode = 'clean'; renderSheet(); });
+    renderSheet();
+
+    /* ---------- Analyze: department attrition ---------- */
+    $('#deptAttrition').innerHTML = DEPTS.map(function (d) {
+      var a = d.active / d.total * 100, t = 100 - a;
+      return '<div class="border-t border-gray-200 py-4 first:border-t-0">' +
+        '<div class="mb-2 flex items-baseline justify-between"><span class="font-medium text-gray-800">' + d.name + '</span><span class="text-sm text-gray-500">' + fmt(d.total) + ' employees</span></div>' +
+        '<div class="space-y-1.5">' +
+        '<div class="flex items-center gap-3"><div class="bar-anim h-6 flex-none bg-gray-300" style="width:calc(' + a.toFixed(2) + ' * 0.6%)"></div><span class="whitespace-nowrap text-sm text-gray-600">' + Math.round(a) + '% active <span class="text-gray-400">' + fmt(d.active) + '</span></span></div>' +
+        '<div class="flex items-center gap-3"><div class="bar-anim h-6 flex-none bg-gray-800" style="width:calc(' + t.toFixed(2) + ' * 0.6%)"></div><span class="whitespace-nowrap text-sm text-gray-600">' + Math.round(t) + '% terminated <span class="text-gray-400">' + fmt(d.term) + '</span></span></div>' +
+        '</div></div>';
+    }).join('');
+
+    /* ---------- Analyze: role attrition ---------- */
+    var ROLE_MAX = 40;
+    $('#roleAttrition').innerHTML = DEPTS.map(function (d) {
+      var rows = d.roles.slice().sort(function (a, b) { return roleRate(b) - roleRate(a); }).map(function (r) {
+        var rate = roleRate(r);
+        return '<div class="grid grid-cols-[7.5rem_1fr_3rem] items-center gap-2 py-1.5 sm:grid-cols-[12rem_1fr_3.5rem] sm:gap-3">' +
+          '<div class="leading-tight"><span class="text-sm text-gray-700">' + r.name + '</span><span class="block text-xs text-gray-400">' + r.term + ' of ' + r.total + ' left</span></div>' +
+          '<div class="relative h-5 bg-gray-100"><div class="bar-anim h-5 ' + (rate > CO.rate ? 'bg-gray-800' : 'bg-gray-400') + '" style="width:' + (rate / ROLE_MAX * 100).toFixed(2) + '%"></div>' +
+          '<div class="absolute inset-y-[-3px] border-l border-dashed border-gray-500" style="left:' + (CO.rate / ROLE_MAX * 100).toFixed(2) + '%"></div></div>' +
+          '<span class="text-right text-sm font-medium tabular-nums text-gray-800">' + rate.toFixed(1) + '%</span></div>';
+      }).join('');
+      return '<div class="mt-5 first:mt-0"><p class="mb-1 text-xs font-semibold text-gray-500">' + d.name + '</p>' + rows + '</div>';
+    }).join('');
+
+    /* ---------- Survey: legend, tiles, heat table ---------- */
+    $('#legendBody').innerHTML = LEGEND.map(function (l) {
+      return '<tr><td class="px-4 py-2.5 font-medium text-gray-800">' + l[0] + '</td><td class="px-4 py-2.5 text-gray-600">' + l[1] + '</td></tr>';
+    }).join('');
+
+    function scoreTiles(roles) {
+      return METRICS.map(function (m, i) {
+        var v = wavg(roles, i);
+        return '<div class="rounded-lg border border-gray-200 bg-white p-4">' +
+          '<p class="text-xs leading-tight text-gray-500">' + m + '</p>' +
+          '<p class="font-display mt-2 text-4xl tabular-nums text-gray-800">' + v.toFixed(2) + '</p>' +
+          '<div class="mt-3 h-1.5 rounded-full bg-gray-100"><div class="bar-anim h-1.5 rounded-full bg-gray-700" style="width:' + ((v - 1) / 3 * 100).toFixed(1) + '%"></div></div>' +
+          '<div class="mt-1 flex justify-between text-[10px] text-gray-400"><span>1</span><span>4</span></div></div>';
+      }).join('');
+    }
+
+    function heatTable(ds) {
+      var html = '<table class="w-full min-w-[480px] text-left text-[13px]"><thead class="bg-gray-50 text-gray-500"><tr><th class="px-3 py-2.5 font-medium">Job role</th>' +
+        SHORT.map(function (s, i) { return '<th class="px-2 py-2.5 text-center font-medium" title="' + METRICS[i] + '">' + s + '</th>'; }).join('') + '</tr></thead><tbody>';
+      ds.forEach(function (d) {
+        html += '<tr class="border-t border-gray-200 bg-gray-100"><td colspan="6" class="px-3 py-1.5 text-xs font-semibold text-gray-600">' + d.name + '</td></tr>';
+        d.roles.forEach(function (r) {
+          html += '<tr class="border-t border-gray-200"><td class="px-3 py-2 text-gray-800">' + r.name + '</td>';
+          r.s.forEach(function (v) {
+            var cls = v >= 2.85 ? 'bg-gray-800 text-white' : (v <= 2.58 ? 'hatch' : 'text-gray-700');
+            html += '<td class="px-2 py-2 text-center tabular-nums ' + cls + '">' + v.toFixed(2) + '</td>';
+          });
+          html += '</tr>';
+        });
+      });
+      return html + '</tbody></table>';
+    }
+    $('#scoreTiles').innerHTML = scoreTiles(ALL_ROLES);
+    $('#heatWrap').innerHTML = heatTable(DEPTS);
+
+    /* Play bar animations once when they scroll into view */
+    var revealEls = document.querySelectorAll('.reveal');
+    if ('IntersectionObserver' in window) {
+      var io = new IntersectionObserver(function (entries) {
+        entries.forEach(function (e) {
+          if (e.isIntersecting) { e.target.classList.add('play'); io.unobserve(e.target); }
+        });
+      }, { threshold: 0.2 });
+      revealEls.forEach(function (el) { io.observe(el); });
+    } else {
+      revealEls.forEach(function (el) { el.classList.add('play'); });
+    }
+
+    /* ---------- Slide deck ---------- */
+    var qa = role('QA Analyst'), sdr = role('Sales Development Rep');
+    var SLIDES = [
+      '<p class="text-sm text-gray-300">Meridian Works</p>' +
+      '<h3 class="font-display mt-3 text-5xl leading-none sm:text-7xl">Workforce Insights</h3>' +
+      '<p class="mt-10 text-sm leading-relaxed text-gray-300">September 2026<br>N. Martins, People Analytics</p>',
+
+      '<h3 class="font-display text-3xl sm:text-5xl">Attrition at a glance</h3>' +
+      '<p class="mt-2 text-sm text-gray-300 sm:text-base">' + fmt(CO.term) + ' of ' + fmt(CO.total) + ' employees left, an attrition rate of ' + CO.rate.toFixed(1) + '%.</p>' +
+      '<div class="mt-6 space-y-3">' + DEPTS.map(function (d) {
+        return '<div class="grid grid-cols-[6.5rem_1fr_3rem] items-center gap-3 text-sm"><span class="text-gray-200">' + d.name + '</span>' +
+          '<div class="h-3 bg-white/15"><div class="h-3 bg-white" style="width:' + (d.rate / 25 * 100).toFixed(1) + '%"></div></div>' +
+          '<span class="text-right tabular-nums">' + d.rate.toFixed(1) + '%</span></div>';
+      }).join('') + '</div>',
+
+      '<h3 class="font-display text-3xl sm:text-5xl">Where people leave</h3>' +
+      '<div class="mt-6 space-y-4">' + [
+        [earlyLeavers + '%', 'of departures happen within three years'],
+        [roleRate(sdr).toFixed(1) + '%', 'attrition among Sales Development Reps'],
+        [roleRate(qa).toFixed(1) + '%', 'attrition among QA Analysts']
+      ].map(function (r) {
+        return '<div class="flex items-baseline gap-4"><span class="font-display w-24 flex-none text-4xl tabular-nums sm:w-32 sm:text-5xl">' + r[0] + '</span><span class="text-sm text-gray-200 sm:text-base">' + r[1] + '</span></div>';
+      }).join('') + '</div>',
+
+      '<h3 class="font-display text-3xl sm:text-5xl">What we recommend</h3>' +
+      '<ul class="mt-6 space-y-3 text-sm text-gray-100 sm:text-base">' +
+      '<li class="bullet flex gap-3" style="--b:#fff"><span>Capture termination type, dates and exit interview themes.</span></li>' +
+      '<li class="bullet flex gap-3" style="--b:#fff"><span>Focus early-tenure retention on the three highest-attrition roles.</span></li>' +
+      '<li class="bullet flex gap-3" style="--b:#fff"><span>Survey quarterly and track sentiment after each change.</span></li></ul>'
+    ];
+    var slideIdx = 0;
+    function renderSlide() {
+      $('#slide').innerHTML = SLIDES[slideIdx];
+      $('#slideCount').textContent = 'Slide ' + (slideIdx + 1) + ' of ' + SLIDES.length;
+      $('#slideDots').innerHTML = SLIDES.map(function (s, i) {
+        return '<button type="button" data-slide="' + i + '" aria-label="Go to slide ' + (i + 1) + '" class="h-2 w-2 rounded-full ' + (i === slideIdx ? 'bg-white' : 'bg-white/35') + '"></button>';
+      }).join('');
+    }
+    function goSlide(n) { slideIdx = (n + SLIDES.length) % SLIDES.length; renderSlide(); }
+    $('#prevSlide').addEventListener('click', function () { goSlide(slideIdx - 1); });
+    $('#nextSlide').addEventListener('click', function () { goSlide(slideIdx + 1); });
+    $('#slideDots').addEventListener('click', function (e) {
+      var b = e.target.closest('[data-slide]');
+      if (b) { goSlide(Number(b.dataset.slide)); }
+    });
+    var deckEl = $('#deck'), touchX = null;
+    deckEl.addEventListener('touchstart', function (e) { touchX = e.touches[0].clientX; }, { passive: true });
+    deckEl.addEventListener('touchend', function (e) {
+      if (touchX === null) { return; }
+      var dx = e.changedTouches[0].clientX - touchX;
+      if (Math.abs(dx) > 50) { goSlide(slideIdx + (dx < 0 ? 1 : -1)); }
+      touchX = null;
+    });
+    renderSlide();
+
+    /* ---------- Power BI report preview ---------- */
+    var state = { dept: 'all', page: 0 };
+
+    function agg(sel) {
+      var ds = sel === 'all' ? DEPTS : DEPTS.filter(function (d) { return d.id === sel; });
+      var total = sum(ds, 'total'), term = sum(ds, 'term');
+      var roles = [];
+      ds.forEach(function (d) { d.roles.forEach(function (r) { roles.push(r); }); });
+      return { ds: ds, roles: roles, total: total, term: term, active: total - term, rate: term / total * 100 };
+    }
+
+    function femaleShare(sel) {
+      if (sel !== 'all') { return FEMALE[sel]; }
+      return [0, 1].map(function (k) {
+        var w = DEPTS.map(function (d) { return k === 0 ? d.active : d.term; });
+        var tot = w.reduce(function (a, b) { return a + b; }, 0);
+        return DEPTS.reduce(function (a, d, i) { return a + FEMALE[d.id][k] * w[i]; }, 0) / tot;
+      });
+    }
+
+    function card(title, note, inner, extra) {
+      return '<div class="rounded-lg border border-gray-200 bg-white p-4 ' + (extra || '') + '"><div class="mb-3"><p class="text-sm font-semibold text-gray-800">' + title + '</p>' +
+        (note ? '<p class="text-xs text-gray-400">' + note + '</p>' : '') + '</div>' + inner + '</div>';
+    }
+    function kpi(label, val) {
+      return '<div class="rounded-lg border border-gray-200 bg-white p-3 sm:p-4"><p class="text-xs text-gray-500">' + label + '</p><p class="font-display mt-1 text-3xl tabular-nums text-gray-800 sm:text-4xl">' + val + '</p></div>';
+    }
+    function swatchLegend() {
+      return '<div class="mt-3 flex gap-4 text-xs text-gray-500"><span class="flex items-center gap-1.5"><i class="inline-block h-2.5 w-2.5 bg-gray-300"></i>Active</span><span class="flex items-center gap-1.5"><i class="inline-block h-2.5 w-2.5 bg-gray-800"></i>Terminated</span></div>';
+    }
+
+    function pageOne(A) {
+      var f = femaleShare(state.dept);
+      var genderRows = [['Female', f[0], f[1]], ['Male', 100 - f[0], 100 - f[1]]].map(function (r) {
+        return '<div class="grid grid-cols-[3.5rem_1fr_1fr] items-center gap-3 py-1.5 text-sm"><span class="text-gray-600">' + r[0] + '</span>' +
+          [r[1], r[2]].map(function (v, i) {
+            return '<div><span class="tabular-nums text-gray-800">' + Math.round(v) + '%</span><div class="mt-1 h-1.5 bg-gray-100"><div class="h-1.5 ' + (i === 0 ? 'bg-gray-300' : 'bg-gray-800') + '" style="width:' + v.toFixed(1) + '%"></div></div></div>';
+          }).join('') + '</div>';
+      }).join('');
+      var gender = '<div class="grid grid-cols-[3.5rem_1fr_1fr] gap-3 text-xs text-gray-400"><span></span><span>Active</span><span>Terminated</span></div>' + genderRows;
+
+      var roleBars = DEPTS.map(function (d) {
+        var on = state.dept === 'all' || state.dept === d.id;
+        return '<div class="mt-3 first:mt-0 ' + (on ? '' : 'opacity-25') + '"><p class="mb-1 text-xs font-semibold text-gray-500">' + d.name + '</p>' +
+          d.roles.map(function (r) {
+            return '<div class="grid grid-cols-[7.5rem_1fr_2.25rem] items-center gap-2 py-0.5 sm:grid-cols-[10rem_1fr_2.5rem]"><span class="text-xs leading-tight text-gray-700">' + r.name + '</span>' +
+              '<div class="h-3.5 bg-gray-100"><div class="h-3.5" style="width:' + (r.total / 330 * 100).toFixed(1) + '%;background:' + d.shade + '"></div></div>' +
+              '<span class="text-right text-xs tabular-nums text-gray-500">' + r.total + '</span></div>';
+          }).join('') + '</div>';
+      }).join('');
+
+      var ageBars = AGE.map(function (a) {
+        return '<div class="grid grid-cols-[3.25rem_1fr_2rem] items-center gap-2 py-1"><span class="text-xs text-gray-600">' + dash(a[0]) + '</span>' +
+          '<div class="flex h-4"><div class="bg-gray-800" style="width:' + (a[2] / 420 * 100).toFixed(1) + '%"></div><div class="bg-gray-300" style="width:' + (a[1] / 420 * 100).toFixed(1) + '%"></div></div>' +
+          '<span class="text-right text-xs tabular-nums text-gray-500">' + (a[1] + a[2]) + '</span></div>';
+      }).join('');
+
+      var senCols = SEN.map(function (s) {
+        var tot = s[1] + s[2];
+        return '<div class="flex flex-1 flex-col items-center gap-1"><span class="text-[10px] tabular-nums text-gray-500">' + tot + '</span>' +
+          '<div class="flex h-36 w-full items-end justify-center"><div class="flex w-full max-w-[34px] flex-col justify-end" style="height:' + (tot / 340 * 100).toFixed(1) + '%">' +
+          '<div class="bg-gray-300" style="height:' + (s[1] / tot * 100).toFixed(1) + '%"></div><div class="bg-gray-800" style="height:' + (s[2] / tot * 100).toFixed(1) + '%"></div></div></div>' +
+          '<span class="text-[10px] text-gray-500">' + dash(s[0]) + '</span></div>';
+      }).join('');
+
+      var incomeRows = DEPTS.map(function (d) {
+        var on = state.dept === 'all' || state.dept === d.id;
+        return '<tr class="border-t border-gray-200 ' + (on ? 'text-gray-800' : 'text-gray-300') + (state.dept === d.id ? ' font-semibold' : '') + '"><td class="py-2">' + d.name + '</td>' +
+          '<td class="py-2 text-right tabular-nums">$' + fmt(INCOME[d.id][0]) + '</td><td class="py-2 text-right tabular-nums">$' + fmt(INCOME[d.id][1]) + '</td></tr>';
+      }).join('');
+      var income = '<table class="w-full text-sm"><thead class="text-xs text-gray-400"><tr><th class="pb-1 text-left font-normal">Department</th><th class="pb-1 text-right font-normal">Active</th><th class="pb-1 text-right font-normal">Terminated</th></tr></thead><tbody>' + incomeRows + '</tbody></table>';
+
+      return '<div class="grid grid-cols-2 gap-3 lg:grid-cols-4">' +
+        kpi('Total employees', fmt(A.total)) + kpi('Active', fmt(A.active)) + kpi('Terminated', fmt(A.term)) + kpi('Attrition rate', A.rate.toFixed(2) + '%') + '</div>' +
+        '<div class="mt-3 grid gap-3 md:grid-cols-2">' +
+        card('Employment by department and role', 'Headcount, filtered by the department buttons', roleBars, 'md:row-span-2') +
+        card('Gender comparison', 'Share of each group', gender) +
+        card('Average monthly income', 'By department', income) +
+        card('Age range', 'Employee count, full workforce', ageBars + swatchLegend()) +
+        card('Company seniority', 'Employee count by years at company, full workforce', '<div class="flex items-end gap-1.5">' + senCols + '</div>' + swatchLegend()) +
+        '</div>';
+    }
+
+    function pageTwo(A) {
+      var defs = DEFS.map(function (d) {
+        return '<div class="border-t border-gray-200 py-2.5 first:border-t-0 first:pt-0"><p class="text-sm font-semibold text-gray-800">' + d[0] + '</p><p class="text-sm leading-relaxed text-gray-600">' + d[1] + '</p></div>';
+      }).join('');
+      return '<div class="grid gap-3 md:grid-cols-3">' +
+        card('Definitions', '', defs, 'md:col-span-2') +
+        '<div class="space-y-3">' + kpi('Total participation', fmt(A.total)) +
+        '<div class="rounded-lg border border-gray-200 bg-white p-4"><p class="text-sm font-semibold text-gray-800">Scoring system</p><p class="mt-1 text-sm text-gray-600">1 Low, 2 Medium, 3 High, 4 Very High</p></div></div></div>' +
+        '<p class="mb-2 mt-5 text-sm font-semibold text-gray-800">System results</p>' +
+        '<div class="grid grid-cols-2 gap-3 sm:grid-cols-5">' + scoreTiles(A.roles) + '</div>' +
+        '<p class="mb-2 mt-5 text-sm font-semibold text-gray-800">Scores by department and job role</p>' +
+        '<div class="overflow-x-auto rounded-lg border border-gray-200 bg-white">' + heatTable(A.ds) + '</div>';
+    }
+
+    function renderDash() {
+      var A = agg(state.dept);
+      var opts = [['all', 'All departments']].concat(DEPTS.map(function (d) { return [d.id, d.name]; }));
+      var slicer = '<div class="mb-4 flex flex-wrap gap-2" role="group" aria-label="Filter by department">' + opts.map(function (o) {
+        var on = state.dept === o[0];
+        return '<button type="button" data-dept="' + o[0] + '" aria-pressed="' + on + '" class="rounded-full border px-3.5 py-1.5 text-sm ' +
+          (on ? 'border-gray-800 bg-gray-800 text-white' : 'border-gray-300 bg-white text-gray-700 hover:bg-gray-100') + '">' + o[1] + '</button>';
+      }).join('') + '</div>';
+      $('#dashBody').innerHTML = slicer + (state.page === 0 ? pageOne(A) : pageTwo(A));
+
+      var names = ['HR Analytics', 'Employee Survey'];
+      names.forEach(function (n, i) {
+        var t = $('#tab' + i), on = state.page === i;
+        t.textContent = n;
+        t.setAttribute('aria-selected', on);
+        t.className = 'flex-1 px-4 py-3 sm:flex-none ' + (on ? 'border-t-2 border-gray-800 bg-white font-semibold text-gray-800' : 'border-t-2 border-transparent text-gray-600 hover:bg-gray-200');
+      });
+      $('#pageCount').textContent = 'Page ' + (state.page + 1) + ' of 2';
+    }
+    $('#dashBody').addEventListener('click', function (e) {
+      var b = e.target.closest('[data-dept]');
+      if (b) { state.dept = b.dataset.dept; renderDash(); }
+    });
+    $('#tab0').addEventListener('click', function () { state.page = 0; renderDash(); });
+    $('#tab1').addEventListener('click', function () { state.page = 1; renderDash(); });
+    renderDash();
+
+    /* ---------- Navigation drawer ---------- */
+    var drawer = $('#drawer'), scrim = $('#scrim'), menuBtn = $('#menuBtn');
+    function setDrawer(open) {
+      drawer.classList.toggle('-translate-x-full', !open);
+      scrim.classList.toggle('hidden', !open);
+      drawer.inert = !open;
+      menuBtn.setAttribute('aria-expanded', open);
+      if (open) { $('#closeDrawer').focus(); } else { menuBtn.focus({ preventScroll: true }); }
+    }
+    menuBtn.addEventListener('click', function () { setDrawer(true); });
+    $('#closeDrawer').addEventListener('click', function () { setDrawer(false); });
+    scrim.addEventListener('click', function () { setDrawer(false); });
+    drawer.querySelectorAll('[data-close]').forEach(function (a) {
+      a.addEventListener('click', function () { setDrawer(false); });
+    });
+
+    /* ---------- Search ---------- */
+    var panel = $('#searchPanel'), input = $('#searchInput'), results = $('#searchResults'), searchBtn = $('#searchBtn');
+    function setSearch(open) {
+      panel.classList.toggle('hidden', !open);
+      searchBtn.setAttribute('aria-expanded', open);
+      if (open) { input.focus(); runSearch(input.value); }
+    }
+    function runSearch(raw) {
+      var q = raw.trim().toLowerCase();
+      if (q.length < 2) {
+        results.innerHTML = '<p class="px-1 text-sm text-gray-500">Type at least two letters to search every phase of this project.</p>';
+        return;
+      }
+      var hits = [];
+      document.querySelectorAll('[data-section]').forEach(function (s) {
+        var text = s.textContent.replace(/\s+/g, ' ');
+        var i = text.toLowerCase().indexOf(q);
+        if (i > -1) {
+          hits.push({ id: s.id, title: s.dataset.title, snip: (i > 45 ? '\u2026' : '') + text.slice(Math.max(0, i - 45), i + q.length + 75) + '\u2026' });
+        }
+      });
+      results.innerHTML = hits.length ? hits.map(function (h) {
+        return '<a href="#' + h.id + '" data-hit class="block rounded-md px-3 py-2.5 hover:bg-gray-100"><span class="block font-medium text-gray-800">' + esc(h.title) + '</span><span class="block text-sm text-gray-500">' + esc(h.snip) + '</span></a>';
+      }).join('') : '<p class="px-1 text-sm text-gray-500">No section mentions "' + esc(raw.trim()) + '". Try a broader word such as attrition or survey.</p>';
+    }
+    searchBtn.addEventListener('click', function () { setSearch(panel.classList.contains('hidden')); });
+    input.addEventListener('input', function () { runSearch(input.value); });
+    results.addEventListener('click', function (e) { if (e.target.closest('[data-hit]')) { setSearch(false); } });
+
+    document.addEventListener('keydown', function (e) {
+      if (e.key !== 'Escape') { return; }
+      if (!drawer.inert) { setDrawer(false); }
+      if (!panel.classList.contains('hidden')) { setSearch(false); }
+    });
+  })();
+  </script>
+</body>
+</html>
